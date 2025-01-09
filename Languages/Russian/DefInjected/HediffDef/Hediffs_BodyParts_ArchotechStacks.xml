@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Archotech stack -->
+  <AC_ArchotechStack.label>архостэк</AC_ArchotechStack.label>
+  <!-- EN: An installed archotech stack. -->
+  <AC_ArchotechStack.description>Установленный архостэк.</AC_ArchotechStack.description>
+  <!-- EN: A archotech stack -->
+  <AC_ArchotechStack.labelNoun>архостэк</AC_ArchotechStack.labelNoun>
+  
+</LanguageData>

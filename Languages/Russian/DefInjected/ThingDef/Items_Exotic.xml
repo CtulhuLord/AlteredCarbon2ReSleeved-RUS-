@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: nano storage drive -->
+  <AC_NanoStorageDrive.label>奈米储存硬碟</AC_NanoStorageDrive.label>
+  <!-- EN: An advanced, self-repairing, multi-dimensional optical data storage drive containing a vast amount of knowledge.\n\nA researcher can study the date on the drive to unlock neural digitalization and sleeve gestation research. -->
+  <AC_NanoStorageDrive.description>先进、可自我修復的多维光学资料储存硬碟，内含大量知识。\n\n研究人员可以研究硬碟以解锁神经数位化与义体培养研究。</AC_NanoStorageDrive.description>
+  <!-- EN: Analyze the nano storage drive data. -->
+  <AC_NanoStorageDrive.comps.CompAnalyzableUnlockResearch.activateDescString>分析奈米储存硬碟资料。</AC_NanoStorageDrive.comps.CompAnalyzableUnlockResearch.activateDescString>
+  <!-- EN: Analyze... -->
+  <AC_NanoStorageDrive.comps.CompAnalyzableUnlockResearch.activateLabelString>分析中...</AC_NanoStorageDrive.comps.CompAnalyzableUnlockResearch.activateLabelString>
+  <!-- EN: By studying the nano storage drive data, {PAWN_labelShort} has acquired the insight needed for neural digitalization and sleeve gestation research project(s) {RESEARCH}.\n\nYour researchers can now use research benches to begin researching how to actually use the technology. -->
+  <AC_NanoStorageDrive.comps.CompAnalyzableUnlockResearch.completedLetter>透过研究奈米储存硬碟的资料，{PAWN_labelShort}已经获得神经数位化与义体培养研究计画{RESEARCH}所需的洞察力。\n\n你的研究人员现在可以使用研究臺，开始研究如何实际使用这项技术。</AC_NanoStorageDrive.comps.CompAnalyzableUnlockResearch.completedLetter>
+  <!-- EN: Nano storage drive: {RESEARCH} unlocked -->
+  <AC_NanoStorageDrive.comps.CompAnalyzableUnlockResearch.completedLetterLabel>奈米储存硬碟： {RESEARCH}已解锁</AC_NanoStorageDrive.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
+  <!-- EN: Choose who should analyze this -->
+  <AC_NanoStorageDrive.comps.CompAnalyzableUnlockResearch.guiLabelString>选择谁应该分析这个</AC_NanoStorageDrive.comps.CompAnalyzableUnlockResearch.guiLabelString>
+  <!-- EN: Can be analyzed by a colonist. -->
+  <AC_NanoStorageDrive.comps.CompAnalyzableUnlockResearch.inspectString>可被殖民者分析。</AC_NanoStorageDrive.comps.CompAnalyzableUnlockResearch.inspectString>
+  <!-- EN: Analyze nano storage drive -->
+  <AC_NanoStorageDrive.comps.CompAnalyzableUnlockResearch.jobString>分析奈米储存硬碟</AC_NanoStorageDrive.comps.CompAnalyzableUnlockResearch.jobString>
+  
+</LanguageData>

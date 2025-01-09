@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Altered Carbon -->
+  <AC_AlteredCarbon.label>碳变:重生</AC_AlteredCarbon.label>
+  <!-- EN: Unlock new ultratech technologies by researching at a research bench. You can only have one active project at a time. -->
+  <AC_AlteredCarbon.generalDescription>藉由在研究台上研究以解锁新的超科技技术。你只能在同一时间内启用一个研究项目。</AC_AlteredCarbon.generalDescription>
+  <!-- EN: Research projects added by Altered Carbon 2: ReSleeved -->
+  <AC_AlteredCarbon.generalTitle>碳变:重生</AC_AlteredCarbon.generalTitle>
+  
+</LanguageData>

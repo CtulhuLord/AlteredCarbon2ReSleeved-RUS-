@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: dreamcatcher -->
+  <AC_Dreamcatcher.label>ловец снов</AC_Dreamcatcher.label>
+  <!-- EN: An installed dreamcatcher. -->
+  <AC_Dreamcatcher.description>Установленный ловец снов.</AC_Dreamcatcher.description>
+  <!-- EN: a dreamcatcher -->
+  <AC_Dreamcatcher.labelNoun>ловец снов</AC_Dreamcatcher.labelNoun>
+  
+  <!-- EN: mental fuse -->
+  <AC_MentalFuse.label>ментальный предохранитель</AC_MentalFuse.label>
+  <!-- EN: An installed mental fuse. -->
+  <AC_MentalFuse.description>Установленный ментальный предохранитель.</AC_MentalFuse.description>
+  <!-- EN: a mental fuse -->
+  <AC_MentalFuse.labelNoun>ментальный предохранитель</AC_MentalFuse.labelNoun>
+  
+  <!-- EN: voice synthesizer -->
+  <AC_VoiceSynthesizer.label>синтезатор голоса</AC_VoiceSynthesizer.label>
+  <!-- EN: An installed voice synthesizer. -->
+  <AC_VoiceSynthesizer.description>Установленный синтезатор голоса.</AC_VoiceSynthesizer.description>
+  <!-- EN: a voice synthesizer -->
+  <AC_VoiceSynthesizer.labelNoun>синтезатор голоса</AC_VoiceSynthesizer.labelNoun>
+  
+</LanguageData>

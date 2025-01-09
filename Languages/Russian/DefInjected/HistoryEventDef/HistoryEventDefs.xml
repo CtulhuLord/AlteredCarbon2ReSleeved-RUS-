@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: duplicated stack of faction member -->
+  <AC_DuplicatedStackEvent.label>скопирован стэк члена фракции</AC_DuplicatedStackEvent.label>
+  
+  <!-- EN: edited stack of faction member -->
+  <AC_EditedStack.label>редактирован стэк члена фракции</AC_EditedStack.label>
+  
+  <!-- EN: erased stack of faction member -->
+  <AC_ErasedStackEvent.label>стёрт стэк члена фракции</AC_ErasedStackEvent.label>
+  
+  <!-- EN: installed stack into faction member -->
+  <AC_InstalledEmptyStackEvent.label>установлен стэк в члена фракции</AC_InstalledEmptyStackEvent.label>
+  
+  <!-- EN: resleeved faction member's stack -->
+  <AC_InstalledNeuralStackEvent.label>стэк члена фракции установлен в оболочку</AC_InstalledNeuralStackEvent.label>
+  
+  <!-- EN: resleeved faction member's stack into low quality sleeve -->
+  <AC_InstalledNeuralStackLowQualitySleeveEvent.label>стэк члена фракции установлен в оболочку низкого качества</AC_InstalledNeuralStackLowQualitySleeveEvent.label>
+  
+  <!-- EN: killed faction member with archotech stack -->
+  <AC_UsedArchotechStack.label>убит член фракции с архостэком</AC_UsedArchotechStack.label>
+  
+</LanguageData>

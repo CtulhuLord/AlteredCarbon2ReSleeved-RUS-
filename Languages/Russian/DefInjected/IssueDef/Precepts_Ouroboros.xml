@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cross-sleeving -->
+  <AC_CrossSleeving.label>Кросс-перенос</AC_CrossSleeving.label>
+  
+  <!-- EN: sleeving -->
+  <AC_Sleeving.label>Перенос</AC_Sleeving.label>
+  
+  <!-- EN: duplicating -->
+  <AC_StackDuplicating.label>Копирование</AC_StackDuplicating.label>
+  
+  <!-- EN: stacking -->
+  <AC_Stacking.label>Стэкинг</AC_Stacking.label>
+  
+  <!-- EN: xeno-sleeving -->
+  <AC_XenoSleeving.label>Ксено-оболочки</AC_XenoSleeving.label>
+  
+</LanguageData>

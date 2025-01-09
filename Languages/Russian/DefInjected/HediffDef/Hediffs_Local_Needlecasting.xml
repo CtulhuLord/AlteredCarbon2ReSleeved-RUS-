@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: needlecasting sickness -->
+  <AC_NeedlecastingSickness.label>болезнь игольного переноса</AC_NeedlecastingSickness.label>
+  <!-- EN: After-effects of needlecasting. Upon severing the connection, the body takes time to restart and rebalance its natural metabolic processes. While this is ongoing, the caster suffers from nausea and slight dizziness for a short time. -->
+  <AC_NeedlecastingSickness.description>Последствия игольного переноса. После разрыва связи организму требуется время, чтобы перезапустить и сбалансировать естественные метаболические процессы. Пока это происходит, оболочка испытывает тошноту и лёгкое головокружение в течение короткого времени.</AC_NeedlecastingSickness.description>
+  <!-- EN: wearing off -->
+  <AC_NeedlecastingSickness.stages.wearing_off.label>исчезает</AC_NeedlecastingSickness.stages.wearing_off.label>
+  <!-- EN: disoriented -->
+  <AC_NeedlecastingSickness.stages.disoriented.label>дезориентация</AC_NeedlecastingSickness.stages.disoriented.label>
+  
+  <!-- EN: needlecasting stasis -->
+  <AC_NeedlecastingStasis.label>стазис игольного переноса</AC_NeedlecastingStasis.label>
+  <!-- EN: A temporary comatose state that minimises metabolic activity while the caster operates a remote sleeve. The original body reawakens seamlessly once the connection is severed, resuming normal biological functions as the consciousness returns. -->
+  <AC_NeedlecastingStasis.description>Временное коматозное состояние, при котором метаболическая активность сводится к минимуму, пока пилот дистанционно управляет оболочкой. Исходное тело мгновенно приходит в себя после разрыва связи, возобновляя нормальные биологические функции по мере возвращения сознания.</AC_NeedlecastingStasis.description>
+  <!-- EN: active -->
+  <AC_NeedlecastingStasis.stages.active.label>активен</AC_NeedlecastingStasis.stages.active.label>
+  
+  <!-- EN: degradation -->
+  <AC_StackDegradation.label>деградация</AC_StackDegradation.label>
+  <!-- EN: Neural stack degradation caused by an unauthorized, aggressive edit. -->
+  <AC_StackDegradation.description>Деградация стэка, вызванная несанкционированным агрессивным редактированием.</AC_StackDegradation.description>
+  <!-- EN: stack degradation -->
+  <AC_StackDegradation.labelNoun>деградация стэка</AC_StackDegradation.labelNoun>
+  
+</LanguageData>

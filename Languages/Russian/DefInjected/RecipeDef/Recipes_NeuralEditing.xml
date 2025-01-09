@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Duplicate stack -->
+  <AC_DuplicateNeuralStack.label>复制堆叠</AC_DuplicateNeuralStack.label>
+  <!-- EN: Duplicate the content of an active neural stack, effectively creating a "clone" or "duplicate" of the consciousness stored on the original stack. -->
+  <AC_DuplicateNeuralStack.description>复制活跃神经堆叠的内容，有效地创造出储存在原始堆叠上意识的「复制品」或是「副本」。</AC_DuplicateNeuralStack.description>
+  <!-- EN: Duplicating stack. -->
+  <AC_DuplicateNeuralStack.jobString>复制堆叠。</AC_DuplicateNeuralStack.jobString>
+  
+  <!-- EN: Duplicate stack -->
+  <AC_DuplicateNeuralStackPawn.label>复制堆叠</AC_DuplicateNeuralStackPawn.label>
+  <!-- EN: Duplicate the content of an active neural stack, effectively creating a "clone" or "duplicate" of the consciousness stored on the original stack. -->
+  <AC_DuplicateNeuralStackPawn.description>复制活跃神经堆叠的内容，有效地创造出储存在原始堆叠上意识的「复制品」或是「副本」。</AC_DuplicateNeuralStackPawn.description>
+  <!-- EN: Duplicating stack. -->
+  <AC_DuplicateNeuralStackPawn.jobString>复制堆叠。</AC_DuplicateNeuralStackPawn.jobString>
+  
+  <!-- EN: Modify stack -->
+  <AC_EditActiveNeuralStack.label>修改堆叠</AC_EditActiveNeuralStack.label>
+  <!-- EN: Modify the neural data stored on an active stack. This process can take not only time, but can also be very destructive on the consciousness stored on the selected stack. -->
+  <AC_EditActiveNeuralStack.description>修改储存在活跃堆叠上的神经资料。这个过程不仅需要时间，并且对储存于所选堆叠上的意识将会造成极大破坏。</AC_EditActiveNeuralStack.description>
+  <!-- EN: Modifying stack. -->
+  <AC_EditActiveNeuralStack.jobString>修改堆叠。</AC_EditActiveNeuralStack.jobString>
+  
+  <!-- EN: Modify stack -->
+  <AC_EditActiveNeuralStackPawn.label>修改堆叠</AC_EditActiveNeuralStackPawn.label>
+  <!-- EN: Modify the neural data stored on an active stack. This process can take not only time, but can also be very destructive on the consciousness stored on the selected stack. -->
+  <AC_EditActiveNeuralStackPawn.description>修改储存在活跃堆叠上的神经资料。这个过程不仅需要时间，并且对储存于所选堆叠上的意识将会造成极大破坏。</AC_EditActiveNeuralStackPawn.description>
+  <!-- EN: Modifying stack. -->
+  <AC_EditActiveNeuralStackPawn.jobString>修改堆叠。</AC_EditActiveNeuralStackPawn.jobString>
+  
+  <!-- EN: Erase stack -->
+  <AC_WipeActiveNeuralStack.label>擦除堆叠</AC_WipeActiveNeuralStack.label>
+  <!-- EN: Erase all content from a selected active neural stack, effectively killing the consciousness stored on it. The stack can afterwards be reused for someone else. -->
+  <AC_WipeActiveNeuralStack.description>删除选取的活跃神经堆叠中的所有内容，有效的抹灭储存在内的意识。该堆叠之后便可被其他人重新使用。</AC_WipeActiveNeuralStack.description>
+  <!-- EN: Erasing stack. -->
+  <AC_WipeActiveNeuralStack.jobString>擦除堆叠。</AC_WipeActiveNeuralStack.jobString>
+  
+</LanguageData>

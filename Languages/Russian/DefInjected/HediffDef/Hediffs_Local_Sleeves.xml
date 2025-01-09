@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: empty sleeve -->
+  <AC_EmptySleeve.label>пустая оболочка</AC_EmptySleeve.label>
+  <!-- EN: An empty sleeve. -->
+  <AC_EmptySleeve.description>пустая оболочка.</AC_EmptySleeve.description>
+  <!-- EN: empty -->
+  <AC_EmptySleeve.stages.empty.label>пусто</AC_EmptySleeve.stages.empty.label>
+  
+  <!-- EN: sleeve shock -->
+  <AC_SleeveShock.label>потрясение оболочки</AC_SleeveShock.label>
+  <!-- EN: A dissonance between the host body and the transferred consciousness.It typically manifests with disorientation, impaired motor functions and nausea as the new consciousness adjusts to its physical vessel.\nOver time the consciousness and the sleeve harmonize as the brain adapts to its new physical form, reducing symptoms and restoring full functionality. The adjustment period varies by individual. -->
+  <AC_SleeveShock.description>Диссонанс между телом-хозяином и перенесённым сознанием. Обычно это проявляется в дезориентации, нарушении двигательных функций и тошноте, пока новое сознание приспосабливается к своему физическому носителю. \nСо временем сознание и оболочка гармонизируются, поскольку мозг адаптируется к своей новой физической форме, симптомы ослабевают, и восстанавливается полная функциональность. Период адаптации у всех разный.</AC_SleeveShock.description>
+  <!-- EN: A temporary sickness that arises when a transferred consciousness struggles to adapt to a new physical body, initially causing symptoms like disorientation and nausea. -->
+  <AC_SleeveShock.descriptionShort>Временная болезнь, которая возникает, когда перенесённое сознание пытается адаптироваться к новому физическому телу, изначально вызывая такие симптомы, как дезориентация и тошнота.</AC_SleeveShock.descriptionShort>
+  <!-- EN: wearing off -->
+  <AC_SleeveShock.stages.wearing_off.label>исчезает</AC_SleeveShock.stages.wearing_off.label>
+  <!-- EN: irritated -->
+  <AC_SleeveShock.stages.irritated.label>раздражение</AC_SleeveShock.stages.irritated.label>
+  
+</LanguageData>

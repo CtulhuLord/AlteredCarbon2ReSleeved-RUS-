@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: This body was gestated in a vat. Having no natural consciousness inside, it is effectively braindead and only serves as a sleeve for someone's stack. -->
+  <AC_VatGrownAdult.description>Это тело выращивалось в чане. Поскольку внутри него нет естественного сознания, его мозг фактически мертв и служит лишь оболочкой для чьего-то стэка.</AC_VatGrownAdult.description>
+  <!-- EN: Gestated Sleeve -->
+  <AC_VatGrownAdult.title>выращенная оболочка</AC_VatGrownAdult.title>
+  <!-- EN: Gestated Sleeve -->
+  <AC_VatGrownAdult.titleShort>выращенная оболочка</AC_VatGrownAdult.titleShort>
+  
+  <!-- EN: This body was gestated in a vat. Having no natural consciousness inside, it is effectively braindead and only serves as a sleeve for someone's stack. -->
+  <AC_VatGrownChild.description>Это тело выращивалось в чане. Поскольку внутри него нет естественного сознания, его мозг фактически мертв и служит лишь оболочкой для чьего-то стэка.</AC_VatGrownChild.description>
+  <!-- EN: Gestated Sleeve -->
+  <AC_VatGrownChild.title>выращенная оболочка</AC_VatGrownChild.title>
+  <!-- EN: Gestated Sleeve -->
+  <AC_VatGrownChild.titleShort>выращенная оболочка</AC_VatGrownChild.titleShort>
+  
+</LanguageData>

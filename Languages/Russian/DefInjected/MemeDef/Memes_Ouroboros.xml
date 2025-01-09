@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ouroboros -->
+  <AC_Ouroboros.label>Уроборос</AC_Ouroboros.label>
+  <!-- EN: We are the beginning and the end, for we are beyond death. We shall live forever, from now on to the death of the universe. -->
+  <AC_Ouroboros.description>Мы — начало и конец, ибо мы за пределами смерти. Мы будем жить вечно, с этого момента и до конца вселенной.</AC_Ouroboros.description>
+  <!-- EN:
+    <li>creation(tag=meme_Ouroboros)        ->[deity0_name] granted us the knowledge of how to cheat death, that we may live forever and explore the universe to our hearts content.</li>
+    <li>episode(uses=1,tag=meme_Ouroboros)  ->Human bio-engineers created sleeves of immense quality, which pleased [deity0_objective].</li>
+    <li>episode(uses=1,tag=meme_Ouroboros)  ->as [deity0_name] hoped, humanity abandoned the old structures of male and female.</li>
+    <li>lessonIntro(tag=meme_Ouroboros)         ->humanity's great future is one without death, where bodies are nothing more than vessels for our incredible intellect.</li>
+    <li>lesson(tag=meme_Ouroboros)              ->for death is nothing more than a hindrance on our road to biological perfection</li>
+  -->
+  <AC_Ouroboros.descriptionMaker.rules.rulesStrings>
+    <!-- theist myth -->
+    <li>creation(tag=meme_Ouroboros)        ->[deity0_name] даровал нам знание о том, как обмануть смерть, чтобы мы могли жить вечно и исследовать Вселенную в своё удовольствие.</li>
+    <li>episode(uses=1,tag=meme_Ouroboros)  ->Биоинженеры создали оболочки высочайшего качества, которые порадовали [deity0_objective].</li>
+    <li>episode(uses=1,tag=meme_Ouroboros)  ->как и надеялось [deity0_name], человечество отказалось от старых представлений о мужчинах и женщинах.</li>
+    <!-- ideological lesson -->
+    <li>lessonIntro(tag=meme_Ouroboros)         ->Великое будущее человечества — это будущее без смерти, где тела — не более чем вместилища для нашего невероятного интеллекта.</li>
+    <li>lesson(tag=meme_Ouroboros)              ->Ибо смерть - это не более чем препятствие на нашем пути к биологическому совершенству</li>
+  </AC_Ouroboros.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>memeAdjective->immortal</li>
+    <li>memeAdjective->endless</li>
+    <li>memeAdjective->ethernal</li>
+    <li>memeAdjective->unfading</li>
+    <li>memeAdjective->perpetual</li>
+    <li>memeAdjective->perdurable</li>
+    <li>memeLeaderNoun->constant</li>
+    <li>memeConcept->eternalism</li>
+    <li>memeConcept->immortality</li>
+    <li>memeConcept->deathlessness</li>
+    <li>memeConcept->enhancement</li>
+    <li>memeLeaderAdjective->undying</li>
+    <li>memeLeaderAdjective->everlasting</li>
+    <li>memeMoralist->installer</li>
+    <li>memeMoralist->preserver</li>
+    <li>memeMoralist->forerunner</li>
+    <li>memeMoralist->eternalist</li>
+  -->
+  <AC_Ouroboros.generalRules.rulesStrings>
+    <li>memeAdjective->бессмертный</li>
+    <li>memeAdjective->бесконечный</li>
+    <li>memeAdjective->вечный</li>
+    <li>memeAdjective->неувядающий</li>
+    <li>memeAdjective->беспрерывный</li>
+    <li>memeAdjective->долговечный</li>
+    <li>memeLeaderNoun->постоянный</li>
+    <li>memeConcept->этернализм</li>
+    <li>memeConcept->бессмертие</li>
+    <li>memeConcept->нетленность</li>
+    <li>memeConcept->совершенствование</li>
+    <li>memeLeaderAdjective->неумирающий</li>
+    <li>memeLeaderAdjective->вечный</li>
+    <li>memeMoralist->установщик</li>
+    <li>memeMoralist->хранитель</li>
+    <li>memeMoralist->предвестник</li>
+    <li>memeMoralist->этерналист</li>
+  </AC_Ouroboros.generalRules.rulesStrings>
+  <!-- EN: technologistic -->
+  <AC_Ouroboros.symbolPacks.0.adjective>Технологистик</AC_Ouroboros.symbolPacks.0.adjective>
+  <!-- EN: Technologism -->
+  <AC_Ouroboros.symbolPacks.0.ideoName>Технологизм</AC_Ouroboros.symbolPacks.0.ideoName>
+  <!-- EN: technologist -->
+  <AC_Ouroboros.symbolPacks.0.member>Технологист</AC_Ouroboros.symbolPacks.0.member>
+  <!-- EN: technology -->
+  <AC_Ouroboros.symbolPacks.0.theme>Технология</AC_Ouroboros.symbolPacks.0.theme>
+  <!-- EN: progressist -->
+  <AC_Ouroboros.symbolPacks.1.adjective>Прогрессист</AC_Ouroboros.symbolPacks.1.adjective>
+  <!-- EN: Progressism -->
+  <AC_Ouroboros.symbolPacks.1.ideoName>Прогрессизм</AC_Ouroboros.symbolPacks.1.ideoName>
+  <!-- EN: progressor -->
+  <AC_Ouroboros.symbolPacks.1.member>Прогрессор</AC_Ouroboros.symbolPacks.1.member>
+  <!-- EN: progress -->
+  <AC_Ouroboros.symbolPacks.1.theme>Прогресс</AC_Ouroboros.symbolPacks.1.theme>
+  <!-- EN: automatist -->
+  <AC_Ouroboros.symbolPacks.2.adjective>Автоматист</AC_Ouroboros.symbolPacks.2.adjective>
+  <!-- EN: Automatism -->
+  <AC_Ouroboros.symbolPacks.2.ideoName>Автоматизм</AC_Ouroboros.symbolPacks.2.ideoName>
+  <!-- EN: automator -->
+  <AC_Ouroboros.symbolPacks.2.member>Автоматор</AC_Ouroboros.symbolPacks.2.member>
+  <!-- EN: automata -->
+  <AC_Ouroboros.symbolPacks.2.theme>Автомата</AC_Ouroboros.symbolPacks.2.theme>
+  <!-- EN: augmentist -->
+  <AC_Ouroboros.symbolPacks.3.adjective>Аугментист</AC_Ouroboros.symbolPacks.3.adjective>
+  <!-- EN: Augmentism -->
+  <AC_Ouroboros.symbolPacks.3.ideoName>Аугментизм</AC_Ouroboros.symbolPacks.3.ideoName>
+  <!-- EN: augmentor -->
+  <AC_Ouroboros.symbolPacks.3.member>Аугментор</AC_Ouroboros.symbolPacks.3.member>
+  <!-- EN: augmentation -->
+  <AC_Ouroboros.symbolPacks.3.theme>Аугментация</AC_Ouroboros.symbolPacks.3.theme>
+  
+</LanguageData>

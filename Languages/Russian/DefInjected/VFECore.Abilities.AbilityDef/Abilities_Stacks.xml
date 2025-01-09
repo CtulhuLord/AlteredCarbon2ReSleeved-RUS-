@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: stack skip -->
+  <AC_ArchotechStackSkip.label>绕过堆叠</AC_ArchotechStackSkip.label>
+  <!-- EN: Skip the archotech stack into the targets body, taking control over it. Kills the target and the sleeve the archostack is currently in. This is useful if the current sleeve is near death. -->
+  <AC_ArchotechStackSkip.description>绕过超凡科技堆叠进入目标身体并取得控制权。杀死目标与超凡科技堆叠目前所在的义体。如果当前义体濒临死亡时这招会很有用。</AC_ArchotechStackSkip.description>
+  <!-- EN: Using ability: {0} -->
+  <AC_ArchotechStackSkip.jobReportString>使用能力:{0}</AC_ArchotechStackSkip.jobReportString>
+  <!-- EN: 跳过堆叠 -->
+  <AC_ArchotechStackSkip.verbProperties.label>绕过堆叠</AC_ArchotechStackSkip.verbProperties.label>
+  
+</LanguageData>

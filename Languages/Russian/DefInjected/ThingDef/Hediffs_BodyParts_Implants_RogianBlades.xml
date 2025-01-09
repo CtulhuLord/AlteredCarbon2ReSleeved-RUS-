@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arm-blade -->
+  <AC_RogianArmBlade.label>手臂镰刀</AC_RogianArmBlade.label>
+  <!-- EN: An advanced artificial combat focused arm. Razor-sharp, retractable and powered by silenced nano-motors which replace the radius and ulna. When extended the blade allows for devastating attacks, offering unparalleled swiftness and precision. When retracted neuromuscular synchronisation makes them appear and function like a normal arm. -->
+  <AC_RogianArmBlade.description>先进的人工战斗手臂。锐利、可伸缩，并由取代桡骨和尺骨的消音奈米电机驱动。当刀片伸展时可进行毁灭性攻击，并提供无与伦比的迅捷度与精确度。刀片缩回时，神经肌肉同步则使其外观与功能都和正常手臂无异。</AC_RogianArmBlade.description>
+  
+</LanguageData>

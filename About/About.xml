@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modMetaData>
+  <packageId>kearril.ultratechalteredcarbon.zh</packageId>
+  <name>Altered Carbon 2: ReSleeved简中汉化包</name>
+  <loadAfter>
+		<li>Ludeon.RimWorld</li>
+    <li>hlx.UltratechAlteredCarbon</li>
+	</loadAfter>
+  <author>kearril</author>
+  <supportedVersions>
+    <li>1.5</li>
+  </supportedVersions>
+  <modDependencies>
+		<li>
+			<packageId>hlx.ultratechalteredcarbon</packageId>
+			<displayName>Altered Carbon 2: ReSleeved</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2196278117</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+  <description>
+  This is just a Chinese translation package
+
+  这是Altered Carbon 2: ReSleeved的简中翻译包。
+
+
+  </description>
+</modMetaData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Install archotech stack -->
+  <AC_InstallArchotechStack.label>植入超凡科技堆叠</AC_InstallArchotechStack.label>
+  <!-- EN: Install an archotech stack. -->
+  <AC_InstallArchotechStack.description>植入超凡科技堆叠。</AC_InstallArchotechStack.description>
+  <!-- EN: Installing archotech stack. -->
+  <AC_InstallArchotechStack.jobString>正在植入超凡科技堆叠。</AC_InstallArchotechStack.jobString>
+  
+  <!-- EN: Install archotech stack -->
+  <AC_InstallEmptyArchotechStack.label>植入超凡科技堆叠</AC_InstallEmptyArchotechStack.label>
+  <!-- EN: Install an empty archotech stack. -->
+  <AC_InstallEmptyArchotechStack.description>植入空白的超凡科技堆叠。</AC_InstallEmptyArchotechStack.description>
+  <!-- EN: Installing archotech stack. -->
+  <AC_InstallEmptyArchotechStack.jobString>正在植入超凡科技堆叠。</AC_InstallEmptyArchotechStack.jobString>
+  
+  <!-- EN: Remove archotech stack -->
+  <AC_RemoveArchotechStack.label>移除超凡科技堆叠</AC_RemoveArchotechStack.label>
+  <!-- EN: Remove archotech stack. -->
+  <AC_RemoveArchotechStack.description>移除超凡科技堆叠。</AC_RemoveArchotechStack.description>
+  <!-- EN: Removing archotech stack. -->
+  <AC_RemoveArchotechStack.jobString>正在移除超凡科技堆叠。</AC_RemoveArchotechStack.jobString>
+  
+</LanguageData>

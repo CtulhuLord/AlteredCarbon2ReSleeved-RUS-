@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: neural stack -->
+  <AC_ActiveNeuralStack.label>神经堆叠</AC_ActiveNeuralStack.label>
+  <!-- EN: An ultratech neural implant with a human consciousness stored on it, commonly referred to as a neural. Can be implanted directly into a person's or sleeve’s spine in the neck to bring back the person stored on the stack. -->
+  <AC_ActiveNeuralStack.description>储存了人类意识的超科技神经植入物，通常被直接简称为神经。可直接植入义体或是人的颈部嵴椎，使储存在堆叠上的人復活。</AC_ActiveNeuralStack.description>
+  
+  <!-- EN: empty neural stack -->
+  <AC_EmptyNeuralStack.label>空白神经堆叠</AC_EmptyNeuralStack.label>
+  <!-- EN: An ultratech neural implant which can store a human consciousness, commonly referred to as a neural. Once implanted directly into a person's spine in the neck it will download their consciousness and safely store it. While the death of an organic or inorganic body is no longer a concern, being a fragile piece of technology, blunt force trauma and bullets to the neck area should be avoided at all cost.\n\nExtremely rare, heavily restricted and hard to produce, these implants are rare on non-ultratech worlds. -->
+  <AC_EmptyNeuralStack.description>由超科技製造的神经植入物，可以储存人类的意识，通常被直接简称为神经。一但直接植入人的颈部嵴椎，它就会下载他们的意识并且安全的储存起来。与一般的神经植入物不同，它更加的坚固耐用并可以在人体之间进行连结，必要时还能自行保护储存在其中的意识。它的内部运作对所有的人类来说都是一个谜，即使是那些幸运或受诅咒而成为该堆叠新居民的人也不例外。</AC_EmptyNeuralStack.description>
+  
+</LanguageData>

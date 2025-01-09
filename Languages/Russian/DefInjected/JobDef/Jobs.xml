@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: canceling gestation process. -->
+  <AC_CancelGestationProcess.reportString>Отмена процесса выращивания.</AC_CancelGestationProcess.reportString>
+  
+  <!-- EN: canceling body repurposing. -->
+  <AC_CancelRepurposingBody.reportString>Отмена переработки тела.</AC_CancelRepurposingBody.reportString>
+  
+  <!-- EN: charging cuirassier belt. -->
+  <AC_ChargeCuirassierBelt.reportString>Заряжает кавалерийский пояс.</AC_ChargeCuirassierBelt.reportString>
+  
+  <!-- EN: extracts neural stack from target. -->
+  <AC_ExtractStack.reportString>Извлекает стэк из цели.</AC_ExtractStack.reportString>
+  
+  <!-- EN: hauling TargetA to gestator. -->
+  <AC_HaulCorpseToGestation.reportString>Относит TargetA в инкубатор.</AC_HaulCorpseToGestation.reportString>
+  
+  <!-- EN: releasing sleeve from gestator. -->
+  <AC_ReleaseSleeve.reportString>Извлекает оболочку из инкубатора.</AC_ReleaseSleeve.reportString>
+  
+  <!-- EN: starting gestation process. -->
+  <AC_StartGestationProcess.reportString>Запускает процесс выращивания.</AC_StartGestationProcess.reportString>
+  
+  <!-- EN: taking empty sleeve. -->
+  <AC_TakeEmptySleeve.reportString>Извлекает пустую оболочку</AC_TakeEmptySleeve.reportString>
+  
+</LanguageData>

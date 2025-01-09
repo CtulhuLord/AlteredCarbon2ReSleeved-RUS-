@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chrysalis helmet -->
+  <AC_Apparel_ChrysalisHelmet.label>结蛹级头盔</AC_Apparel_ChrysalisHelmet.label>
+  <!-- EN: An advanced power armor helmet, with a solid plasteel-weave shell and complex visual system for near 360 degree view angles and tactical telemetry feed, including aim assist. -->
+  <AC_Apparel_ChrysalisHelmet.description>先进的动力装甲头盔，拥有坚固的塑钢编织外壳和複杂的视觉系统，可提供接近360度的视角和战术遥测反馈(包含瞄准辅助)。</AC_Apparel_ChrysalisHelmet.description>
+  
+  <!-- EN: dragoon helmet -->
+  <AC_Apparel_DragoonHelmet.label>龙骑士头盔</AC_Apparel_DragoonHelmet.label>
+  <!-- EN: A variant of the chrysalis armor helmet with a simple classifier AI, to analyze terrain composition and guide the user, effectively eliminating terrain movement penalties. -->
+  <AC_Apparel_DragoonHelmet.description>结蛹级头盔的变种，具有简单的分辨AI可分析地形组成并引导使用者行动，有效的消除地形移动惩罚。</AC_Apparel_DragoonHelmet.description>
+  
+  <!-- EN: fusilier helmet -->
+  <AC_Apparel_FusilierHelmet.label>火枪手头盔</AC_Apparel_FusilierHelmet.label>
+  <!-- EN: A variant of the chrysalis armor helmet with a heavy layer of plasteel-weave plates, next-gen solid ablative coatings and a package of several multi-spectrum sensors, including a classifier AI, allowing the user to see in darkness and smokey conditions. The integrated ballistic rangefinder provides optimal firing solutions, decreasing the user’s effective aiming delay by 50%. -->
+  <AC_Apparel_FusilierHelmet.description>结蛹级头盔的变体，具有厚厚的塑钢编织板层、次世代固体烧蚀涂层和一组多光谱传感器，包括分类器 AI，使用户能够在黑暗和烟雾弥漫的环境中看清目标。集成的弹道测距仪提供最佳射击解决方案，将用户的有效瞄准延迟减少 50%。</AC_Apparel_FusilierHelmet.description>
+  
+  <!-- EN: lancier helmet -->
+  <AC_Apparel_LancierHelmet.label>枪骑兵头盔</AC_Apparel_LancierHelmet.label>
+  <!-- EN: A variant of the chrysalis armor helmet with a specialised set of ballistic rangefinder arrays including an advanced classifier AI, to analyse optimal aiming solutions and firing patterns, as well as allowing the user to see in darkness and smokey conditions. Unlike other equipment based on the chrysalis-line, this helmet offers far less protection. -->
+  <AC_Apparel_LancierHelmet.description>结蛹级头盔的一个变种，配备了专门的弹道测距阵列，包括一个先进的分类AI，用于分析最佳瞄准方案和射击模式，同时使用户能够在黑暗和烟雾条件下视物。与其他基于蛹甲系列的装备不同，这款头盔提供的保护性要低得多</AC_Apparel_LancierHelmet.description>
+  
+  <!-- EN: enviro suit helmet -->
+  <AC_EnviroSuitHelmet.label>环境防护头盔</AC_EnviroSuitHelmet.label>
+  <!-- EN: A lightly armored, impermeable, airtight helmet with hyperweave lining designed for work in extreme conditions. Provides full protection against heat, cold, psychic and toxic effects alongside the enviro suit. -->
+  <AC_EnviroSuitHelmet.description>一种轻装、防渗透、密不透气且有超级布料内衬的头盔。专为在极端环境下工作而设计。与环境防护服搭配能提供全面的高温、寒冷、精神与毒气防护。</AC_EnviroSuitHelmet.description>
+  
+</LanguageData>

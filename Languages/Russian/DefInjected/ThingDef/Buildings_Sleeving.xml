@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: sleeve casket -->
+  <AC_SleeveCasket.label>义体棺</AC_SleeveCasket.label>
+  <!-- EN: A specialised, enclosed sarcophagus-like suspender, designed to maintain a sleeve in a state of suspended animation while still permitting medical access for procedures such as implant installations or bionic enhancements. -->
+  <AC_SleeveCasket.description>专门设计的密封棺材式悬吊器，可使义体维持悬浮状态，同时仍然允许医疗人员进行植入装置或是彷生增强等程序。</AC_SleeveCasket.description>
+  
+  <!-- EN: sleeve gestator -->
+  <AC_SleeveGestator.label>义体培养舱</AC_SleeveGestator.label>
+  <!-- EN: An exceedingly complex vat of nutrients that is capable of gestating sleeves, empty shells without a mind of their own. Neutroamine is used in order to grow the body through its different stages and the incubator must remain powered throughout this process. Should it lose power for extended periods, the gestation process will fail. \n\nSimple, low grade sleeves can be churned out quite quickly for minimal resources. However, more complex and sophisticated sleeves take longer and require more nutrients to ensure the body is properly formed. \n\nOnce the sleeve has finished growing, it should be extracted and cared for as it is incapable of independent movement or thought, including feeding itself. -->
+  <AC_SleeveGestator.description>一个极为複杂的营养舱，能够培养出没有自我意识的空壳与义体。中性胺被用来让躯体在不同阶段中成长，并且整个生长过程中培养舱必须持续供电。如果长时间失去供电，培养过程将会失败。</AC_SleeveGestator.description>
+  <!-- EN: Neutroamine -->
+  <AC_SleeveGestator.comps.CompRefuelable.fuelGizmoLabel>中性胺</AC_SleeveGestator.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Neutroamine -->
+  <AC_SleeveGestator.comps.CompRefuelable.fuelLabel>中性胺</AC_SleeveGestator.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot grow: Needs neutroamine -->
+  <AC_SleeveGestator.comps.CompRefuelable.outOfFuelMessage>无法培养：需要中性胺</AC_SleeveGestator.comps.CompRefuelable.outOfFuelMessage>
+  
+</LanguageData>

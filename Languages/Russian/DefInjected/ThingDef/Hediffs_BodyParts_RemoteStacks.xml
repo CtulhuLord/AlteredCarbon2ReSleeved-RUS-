@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Neural receiver -->
+  <AC_RemoteStack.label>神经接收器</AC_RemoteStack.label>
+  <!-- EN: An ultratech implant which allows for a neural stack to cast its stored human consciousness remotely into the body it is installed in. It is required for a sleeve to become a viable needlecasting target. -->
+  <AC_RemoteStack.description>一种超科技植入物，可让神经堆叠将储存的人类意识遥控投射到所安装的躯体中。它需要义体才能成为可行的针铸目标。</AC_RemoteStack.description>
+  
+</LanguageData>

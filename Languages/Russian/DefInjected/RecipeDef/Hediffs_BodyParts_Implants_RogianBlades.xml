@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Install arm-blade -->
+  <AC_InstallRogianArmBlade.label>安装手臂镰刀</AC_InstallRogianArmBlade.label>
+  <!-- EN: Install an arm-blade. -->
+  <AC_InstallRogianArmBlade.description>安装手臂镰刀。</AC_InstallRogianArmBlade.description>
+  <!-- EN: Installing arm-blade. -->
+  <AC_InstallRogianArmBlade.jobString>正在安装手臂镰刀。</AC_InstallRogianArmBlade.jobString>
+  
+  <!-- EN: remove arm-blade -->
+  <AC_RemoveRogianArmBlade.label>移除手臂镰刀</AC_RemoveRogianArmBlade.label>
+  <!-- EN: Remove arm-blade. -->
+  <AC_RemoveRogianArmBlade.description>移除手臂镰刀。</AC_RemoveRogianArmBlade.description>
+  <!-- EN: Removing arm-blade. -->
+  <AC_RemoveRogianArmBlade.jobString>正在移除手臂镰刀。</AC_RemoveRogianArmBlade.jobString>
+  
+</LanguageData>

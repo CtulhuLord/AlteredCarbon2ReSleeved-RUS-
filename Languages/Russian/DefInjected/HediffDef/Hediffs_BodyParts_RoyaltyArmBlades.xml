@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mono arm-blade -->
+  <AC_RogianArmBlade_Mono.label>моноклинок богомола</AC_RogianArmBlade_Mono.label>
+  <!-- EN: An installed crystal-metallic variation of an arm-blade, infused with mechanites that maintain a mono-molecular cutting edge. It cuts through even thick armor with ease, and its light weight permits fast attacks. When retracted neuromuscular synchronisation makes them appear and function like a normal arm. -->
+  <AC_RogianArmBlade_Mono.description>Установленная кристалло-металлическая вариация клинка богомола, наполненная механитами, которые поддерживают мономолекулярную режущую кромку. Она с лёгкостью прорезает даже толстую броню, а её малый вес позволяет быстро атаковать. Когда она убирается, нервно-мышечная синхронизация делает её похожей на обычную руку и позволяет ей функционировать как обычному оружию.</AC_RogianArmBlade_Mono.description>
+  <!-- EN: point -->
+  <AC_RogianArmBlade_Mono.comps.HediffComp_MeleeWeapon.tools.point.label>моноклинок богомола(острие)</AC_RogianArmBlade_Mono.comps.HediffComp_MeleeWeapon.tools.point.label>
+  <!-- EN: edge -->
+  <AC_RogianArmBlade_Mono.comps.HediffComp_MeleeWeapon.tools.edge.label>моноклинок богомола(лезвие)</AC_RogianArmBlade_Mono.comps.HediffComp_MeleeWeapon.tools.edge.label>
+  <!-- EN: a mono arm-blade -->
+  <AC_RogianArmBlade_Mono.labelNoun>моноклинок богомола</AC_RogianArmBlade_Mono.labelNoun>
+  
+  <!-- EN: plasma arm-blade -->
+  <AC_RogianArmBlade_Plasma.label>плазмоклинок богомола</AC_RogianArmBlade_Plasma.label>
+  <!-- EN: An installed metal-cored variation of an arm-blade. Plasma is wrapped around the core, held in place by an energy field. Targets are both sliced by the metal core, as well as burned or ignited by the plasma sheath. When retracted neuromuscular synchronisation makes them appear and function like a normal arm. -->
+  <AC_RogianArmBlade_Plasma.description>Установленная версия клинка богомола с металлическим сердечником. Плазма окутывает сердечник и удерживается на месте энергетическим полем. Металлический сердечник разрезает цели, а также сжигает или воспламеняет их с помощью плазменной оболочки. При втягивании нервно-мышечная синхронизация делает их похожими на обычную руку и позволяет им функционировать как обычной руке.</AC_RogianArmBlade_Plasma.description>
+  <!-- EN: point -->
+  <AC_RogianArmBlade_Plasma.comps.HediffComp_MeleeWeapon.tools.point.label>плазмоклинок богомола(острие)</AC_RogianArmBlade_Plasma.comps.HediffComp_MeleeWeapon.tools.point.label>
+  <!-- EN: edge -->
+  <AC_RogianArmBlade_Plasma.comps.HediffComp_MeleeWeapon.tools.edge.label>плазмоклинок богомола(лезвие)</AC_RogianArmBlade_Plasma.comps.HediffComp_MeleeWeapon.tools.edge.label>
+  <!-- EN: a plasma arm-blade -->
+  <AC_RogianArmBlade_Plasma.labelNoun>плазмоклинок богомола</AC_RogianArmBlade_Plasma.labelNoun>
+  
+  <!-- EN: zeus arm-blade -->
+  <AC_RogianArmBlade_Zeus.label>электроклинок богомола</AC_RogianArmBlade_Zeus.label>
+  <!-- EN: An installed variation of an arm-blade with an embedded EMP capacitor. Upon contact, it blasts the target with an EMP burst in addition to the physical damage. When retracted neuromuscular synchronisation makes them appear and function like a normal arm. -->
+  <AC_RogianArmBlade_Zeus.description>Установленная версия клинка богомола со встроенным ЭМИ конденсатором. При контакте он поражает цель электромагнитным импульсом в дополнение к физическому урону. При втягивании нервно-мышечная синхронизация делает его похожим на обычную руку.</AC_RogianArmBlade_Zeus.description>
+  <!-- EN: point -->
+  <AC_RogianArmBlade_Zeus.comps.HediffComp_MeleeWeapon.tools.point.label>электроклинок богомола(острие)</AC_RogianArmBlade_Zeus.comps.HediffComp_MeleeWeapon.tools.point.label>
+  <!-- EN: edge -->
+  <AC_RogianArmBlade_Zeus.comps.HediffComp_MeleeWeapon.tools.edge.label>электроклинок богомола(лезвие)</AC_RogianArmBlade_Zeus.comps.HediffComp_MeleeWeapon.tools.edge.label>
+  <!-- EN: a zeus arm-blade -->
+  <AC_RogianArmBlade_Zeus.labelNoun>электроклинок богомола</AC_RogianArmBlade_Zeus.labelNoun>
+  
+</LanguageData>

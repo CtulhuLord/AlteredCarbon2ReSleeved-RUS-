@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Neural receiver -->
+  <AC_RemoteStack.label>нейронный приёмник</AC_RemoteStack.label>
+  <!-- EN: An installed neural receiver. -->
+  <AC_RemoteStack.description>Установленный нейронный приёмник.</AC_RemoteStack.description>
+  <!-- EN: a neural receiver -->
+  <AC_RemoteStack.labelNoun>нейронный приёмник</AC_RemoteStack.labelNoun>
+  
+</LanguageData>
