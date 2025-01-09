@@ -14,7 +14,7 @@
 	<!-- EN: Select a pawn to implant the empty archotech stack in via surgery. The surgery bill will automatically be created in the health tab of the selected pawn or sleeve. -->
   <AC.InstallEmptyArchotechStackDesc>Выберите поселенца или пустую оболочку для хирургической имплантации архостэка. Операция будет автоматически добавлена в список назначенных процедур во вкладке здоровье.</AC.InstallEmptyArchotechStackDesc>
 	<!-- EN: Auto-load -->
-  <AC.AutoLoad>Авто-\nхранение</AC.AutoLoad>
+  <AC.AutoLoad>Авто\nзагрузка</AC.AutoLoad>
 	<!-- EN: If active, haulers will automatically store this stack in a stack cache or neural matrix. -->
   <AC.AutoLoadDesc>Если активно, носильщики будут автоматически помещать этот стэк в стэк-хранилище или нейронную матрицу.</AC.AutoLoadDesc>
 	<!-- EN: Faction -->
@@ -26,9 +26,9 @@
 	<!-- EN: Chronological age -->
   <AC.AgeChronologicalTicks>Хронологический возраст</AC.AgeChronologicalTicks>
 	<!-- EN: Destroying stack:\nWARNING! You are about to destroy this stack. Are you sure you want to continue? -->
-  <AC.DestroyStackConfirmation>Уничтожение стэка:\nВНИМАНИЕ! Вы собираетесь уничтожить этот стэк. Вы уверены, что хотите продолжить?</AC.DestroyStackConfirmation>
+  <AC.DestroyStackConfirmation>Уничтожить стэк?\nВНИМАНИЕ! Действие необратимо.</AC.DestroyStackConfirmation>
 	<!-- EN: {0} have a {1} chance of starting with a {2}. -->
-  <AC.ScenPart_PawnsHaveNeuralStack>{0} имеет вероятность {1} начать с {2}。</AC.ScenPart_PawnsHaveNeuralStack>
+  <AC.ScenPart_PawnsHaveNeuralStack>У {0} есть вероятность {1} начать с {2}。</AC.ScenPart_PawnsHaveNeuralStack>
 	<!-- EN: Sleeve with stack installed inside. -->
   <AC.SleeveWithStack>Оболочка с установленным стэком.</AC.SleeveWithStack>
 	<!-- EN: {PAWN_nameDef} already has a neural stack installed! -->
@@ -38,7 +38,7 @@
 	<!-- EN: {PAWN_nameDef} already has an archotech stack installed! -->
   <AC.PawnStackCannotDowngrade>{PAWN_nameDef}уже имеет имплантированный архостэк!</AC.PawnStackCannotDowngrade>
 	<!-- EN: Cannot install neural stack - neck is missing or another implant is already present. -->
-  <AC.CannotInstallStackNeckIsMissingOrAnotherImplantInstalled>Установка стэка невозможна - шея отсутствует или была занята другими имплантатами.</AC.CannotInstallStackNeckIsMissingOrAnotherImplantInstalled>
+  <AC.CannotInstallStackNeckIsMissingOrAnotherImplantInstalled>Установка стэка невозможна: отсутствует шея или уже установлен другой имплант.</AC.CannotInstallStackNeckIsMissingOrAnotherImplantInstalled>
 	<!-- EN: Stack is already marked for implantation. -->
   <AC.AlreadyMarkedForInstalling>Стэк уже назначен для имплантации.。</AC.AlreadyMarkedForInstalling>
 	<!-- EN: {PAWN_nameDef} has been overwritten by a neural stack. -->
@@ -52,27 +52,27 @@
 	<!-- EN: Start needlecasting -->
   <AC.StartNeedlecasting>Начать игольный перенос</AC.StartNeedlecasting>
 	<!-- EN: Select a traget with a neural reciver to needlecast to. -->
-  <AC.StartNeedlecastingDesc>Выберите цель с имплантированным стэком для начала игольного переноса.</AC.StartNeedlecastingDesc>
+  <AC.StartNeedlecastingDesc>Выберите цель со стэком для игольного переноса.</AC.StartNeedlecastingDesc>
 	<!-- EN: End needlecasting -->
   <AC.EndNeedlecasting>Завершить игольный перенос</AC.EndNeedlecasting>
 	<!-- EN: End the current needlecasting connection. -->
-  <AC.EndNeedlecastingDesc>Завершить текущую игольный перенос.</AC.EndNeedlecastingDesc>
+  <AC.EndNeedlecastingDesc>Завершить текущее соединение игольного переноса.</AC.EndNeedlecastingDesc>
 	<!-- EN: Maximum needlecasting range: {0} tiles -->
-  <AC.MaximumNeedlecastingRange>Максимальная дальность игольного переноса： {0} гексов</AC.MaximumNeedlecastingRange>
+  <AC.MaximumNeedlecastingRange>Максимальная дальность игольного переноса: {0} клеток (на карте мира).</AC.MaximumNeedlecastingRange>
 	<!-- EN: Current distance to casting origin: {0} tiles -->
-  <AC.CurrentDistanceToCastingOrigin>Текущая дальность игольного переноса： {0} гексов</AC.CurrentDistanceToCastingOrigin>
+  <AC.CurrentDistanceToCastingOrigin>Расстояние до точки переноса: {0} клеток (на карте мира).</AC.CurrentDistanceToCastingOrigin>
 	<!-- EN: {0} is currently needlecasting into this sleeve. If they travel beyond their casting range will automatically be ended and they might be lost.\n\nMaximum needlecasting range: {1} tiles -->
-  <AC.CaravanNeedlecastingIconTooltip>В данный момент {0} выполняет игольный перенос в эту оболочку. Если он выйдет за пределы своей дальности переноса, он автоматически отключится и может быть потерян.\n\nМаксимальная дальность игольного переноса: {1} гексов</AC.CaravanNeedlecastingIconTooltip>
+  <AC.CaravanNeedlecastingIconTooltip>{0} осуществляет игольный перенос в эту оболочку. Если оболочка выйдет за пределы дальности, связь будет разорвана, и она может быть потеряна.\n\nМаксимальная дальность игольного переноса: {1} клеток (на карте мира).</AC.CaravanNeedlecastingIconTooltip>
 	<!-- EN: Do your really want to end the {0}'s needlecasting connection?
 
 {0} is currently not on your colonies local map. The sleeve {0} is connected to might be lost if there are no other colonists on the same local map as them. -->
-  <AC.NeedlecastingDisconnectWarning>{0} в данный момент отсутствует на локальной карте вашего поселения.\n\nОболочка с которой {0} имеет подключение, может быть потеряна, если на той же локальной карте, что и он, нет других поселенцев.</AC.NeedlecastingDisconnectWarning>
+  <AC.NeedlecastingDisconnectWarning>Вы действительно хотите разорвать связь с оболочкой {0}?\n\nОболочка сейчас не на локальной карте вашего поселения. Если на той же карте не останется других поселенцев, она будет потеряна.</AC.NeedlecastingDisconnectWarning>
 	<!-- EN: {0} started needlecasting into sleeve of {1}. -->
   <AC.PawnStartedNeedlecastingIntoOtherPawn>{0} начал игольный перенос в оболочку {1}.</AC.PawnStartedNeedlecastingIntoOtherPawn>
 	<!-- EN: {0} started needlecasting into empty sleeve. -->
   <AC.PawnStartedNeedlecastingIntoEmptySleeve>{0} начал игольный перенос в пустую оболочку.</AC.PawnStartedNeedlecastingIntoEmptySleeve>
 	<!-- EN: {0} is no longer needlecasting. -->
-  <AC.PawnNoLongerNeedlecasting>{0} более не проводит игольный перенос.</AC.PawnNoLongerNeedlecasting>
+  <AC.PawnNoLongerNeedlecasting>{0} прекратил игольный перенос.</AC.PawnNoLongerNeedlecasting>
 	<!-- EN: {0} stopped needlecasting. Cause: {1} -->
   <AC.PawnStoppedNeedlecastingCause>{0} остановил игольный перенос. Причина: {1}</AC.PawnStoppedNeedlecastingCause>
 	<!-- EN: Controlled sleeve has died. -->
@@ -82,7 +82,7 @@
 	<!-- EN: Controlled sleeve no longer reachable. -->
   <AC.SleeveNoLongerReachable>Контролируемая оболочка недоступна.</AC.SleeveNoLongerReachable>
 	<!-- EN: {0} was removed from the crypto casket. -->
-  <AC.WasRemovedFromCryptoCasket>{0} покинул саркофаг криптосна</AC.WasRemovedFromCryptoCasket>
+  <AC.WasRemovedFromCryptoCasket>{0} изъят из криптосаркофага</AC.WasRemovedFromCryptoCasket>
 	<!-- EN: Connection to controlled sleeve disrupted. -->
   <AC.ConnectionDistrupted>Подключение к управляемой оболочке нарушено.</AC.ConnectionDistrupted>
 	<!-- EN: Controlled sleeve lost. -->
@@ -99,9 +99,9 @@
 	<!-- EN: Extract stack -->
   <AC.ExtractStack>Извлечь стэк</AC.ExtractStack>
 	<!-- EN: Extract stacks from corpses. -->
-  <AC.DesignatorExtractStackDesc>Извлечь из трупа стэк</AC.DesignatorExtractStackDesc>
+  <AC.DesignatorExtractStackDesc>Извлечь стэк из трупа</AC.DesignatorExtractStackDesc>
 	<!-- EN: Must designate corpses with stacks installed. -->
-  <AC.MessageMustDesignateHasStack>Необходимо обозначить трупы с имплантированными стэками.</AC.MessageMustDesignateHasStack>
+  <AC.MessageMustDesignateHasStack>Необходимо указать трупы с имплантированными стэками.</AC.MessageMustDesignateHasStack>
 	<!-- ================================ Sleeves ====================== -->
 	<!-- EN: Empty sleeve -->
   <AC.EmptySleeve>Пустая оболочка</AC.EmptySleeve>
@@ -114,9 +114,9 @@
 	<!-- EN: Sleeve of -->
   <AC.SleveOf>Оболочка</AC.SleveOf>
 	<!-- EN: Take empty sleeve to sleeve casket or medical bed. -->
-  <AC.TakeToSleeveCasketOrMedicalBed>Поместите пустую оболочку в саркофаг криптосна или на медицинскую кроывть.</AC.TakeToSleeveCasketOrMedicalBed>
+  <AC.TakeToSleeveCasketOrMedicalBed>Поместите пустую оболочку в криптосаркофаг или на медицинскую кровать.</AC.TakeToSleeveCasketOrMedicalBed>
 	<!-- EN: Cannot take: No reachable, un-reserved sleeve casket or medical bed in safe temperature. -->
-  <AC.CannotTakeToSleeveCasketOrMedicalBed>Невозможно поместить: недоступны саркофаг криптосна или медицинская кровать с безопасной температурой.</AC.CannotTakeToSleeveCasketOrMedicalBed>
+  <AC.CannotTakeToSleeveCasketOrMedicalBed>Нет доступных криптосаркофагов или медицинских кроватей с подходящей температурой в пределах досягаемости.</AC.CannotTakeToSleeveCasketOrMedicalBed>
 	<!-- ================================ Sleeve Gestator ====================== -->
 	<!-- EN: Grow sleeve -->
   <AC.CreateSleeveBody>Вырастить оболочку</AC.CreateSleeveBody>
@@ -127,7 +127,7 @@
 	<!-- EN: Sleeve -->
   <AC.Sleeve>Оболочка</AC.Sleeve>
 	<!-- EN: Create a new baseliner or xenotype sleeve using available xenogerms. -->
-  <AC.CreateSleeveBodyDesc>Создать новую стандартную или ксено оболочку используя доступные ксеногены.</AC.CreateSleeveBodyDesc>
+  <AC.CreateSleeveBodyDesc>Создать новую стандартную или ксено-оболочку, используя доступные ксеногены.</AC.CreateSleeveBodyDesc>
 	<!-- EN: Gene options -->
   <AC.GeneOptions>Генетические параметры</AC.GeneOptions>
 	<!-- EN: Body options -->
@@ -139,13 +139,13 @@
 	<!-- EN: Baseliner skins and hair colour options are always available. Chosen options will be used as active genes, while conflicting ones will be dormant. -->
   <AC.BodyOptionsExplanation>Стандартная внешность всегда доступна. Выбранные варианты будут использоваться в качестве активных генов.</AC.BodyOptionsExplanation>
 	<!-- EN: Grow non-archotech genes in xenogerm as germline genes: -->
-  <AC.ConvertGenesToGermline>Выращивать неархотек гены в ксенотипе в качестве генов зародышевой линии:：</AC.ConvertGenesToGermline>
+  <AC.ConvertGenesToGermline>Вырастить не-архотек гены в ксеногене как зародышевые:</AC.ConvertGenesToGermline>
 	<!-- EN: Due to lack of power, the sleeve will be lost in {0}. -->
-  <AC.PowerSleeveWillBeLostIn>Из-за отсутствия питания оболочка будет потеряна через {0}</AC.PowerSleeveWillBeLostIn>
+  <AC.PowerSleeveWillBeLostIn>Из-за отключения питания оболочка будет потеряна через {0}.</AC.PowerSleeveWillBeLostIn>
 	<!-- EN: Due to lack of neutroamine, the sleeve will be lost in {0}. -->
   <AC.FuelSleeveWillBeLostIn>Из-за отсутствия нейтроамина оболочка будет потеряна через {0}.</AC.FuelSleeveWillBeLostIn>
 	<!-- EN: Due to lack of neutroamine, the sleeve will begin to deteriorate in {0} -->
-  <AC.FuelSleeveWillBeDeteriorated>Из-за отсутствия нейтроамина оболочка начнёт деградировать {0}</AC.FuelSleeveWillBeDeteriorated>
+  <AC.FuelSleeveWillBeDeteriorated>Из-за отсутствия нейтроамина оболочка начнет деградировать через {0}.</AC.FuelSleeveWillBeDeteriorated>
 	<!-- EN: Due to lack of neutroamine, the sleeve is deteriorating. -->
   <AC.FuelSleeveIsDeteriorating>Из-за отсутствия нейтроамина оболочка деградирует.</AC.FuelSleeveIsDeteriorating>
 	<!-- EN: Race -->
@@ -157,7 +157,7 @@
 	<!-- EN: Sleeve beauty -->
   <AC.SleeveBeauty>Красота оболочки</AC.SleeveBeauty>
 	<!-- EN: When you press Accept, a sleeve will begin growing in this Sleeve gestator. During growth, it will require a constant power connection as well as neutroamine connection via neutro pipes. When the timer finishes, a Sleeve can be extracted and either used straight-away, or inserted into a Sleeve casket. -->
-  <AC.SleeveCustomizationExplanation>Когда вы нажмете кнопку "Принять", в этом инкубаторе оболочек начнет расти новое тело. Во время всего периода выращивания требуются постоянное электропитание и подвод нейтроамина по нейтроаминовым трубам. Когда оболочка завершит свой рост, её можно будет извлечь и либо сразу использовать, либо поместить в саркофаг криптосна.</AC.SleeveCustomizationExplanation>
+  <AC.SleeveCustomizationExplanation>Когда вы нажмете «Принять», в этом инкубаторе начнет расти новая оболочка. Во время роста потребуется постоянное электропитание и подача нейтроамина по трубам.</AC.SleeveCustomizationExplanation>
 	<!-- EN: Save template -->
   <AC.SaveTemplate>Сохранить шаблон</AC.SaveTemplate>
 	<!-- EN: Load template -->
@@ -171,7 +171,7 @@
 	<!-- EN: Cancel -->
   <AC.Cancel>Отмена</AC.Cancel>
 	<!-- EN: Growth progress:  -->
-  <AC.GrowthProgress>Прогресс выращивания：</AC.GrowthProgress>
+  <AC.GrowthProgress>Прогресс выращивания:</AC.GrowthProgress>
 	<!-- EN: Hair colour -->
   <AC.HairColour>Цвет волос</AC.HairColour>
 	<!-- EN: Hair type -->
@@ -185,7 +185,7 @@
 	<!-- EN: Total time to grow: {0} -->
   <AC.TimeToGrow>Общее время роста: {0}</AC.TimeToGrow>
 	<!-- EN: Total neutroamine needed: {0} -->
-  <AC.GrowCost>Общее количество требуемого нейтроамина： {0}</AC.GrowCost>
+  <AC.GrowCost>Общее количество требуемого нейтроамина: {0}</AC.GrowCost>
 	<!-- EN: Select race -->
   <AC.SelectRace>Выберите расу</AC.SelectRace>
 	<!-- EN: Clone sleeve -->
@@ -195,39 +195,39 @@
 	<!-- EN: Sleeve gestator is running out neutroamine -->
   <AC.IsRunningOutFuel>В инкубаторе оболочек заканчивается нейтроамин.</AC.IsRunningOutFuel>
 	<!-- EN: Sleeve gestator is running out power -->
-  <AC.IsRunningOutPower>Инкубатору оболочек не хватает электроэнергии.</AC.IsRunningOutPower>
+  <AC.IsRunningOutPower>Инкубатору оболочек не хватает энергии.</AC.IsRunningOutPower>
 	<!-- EN: Sleeve body in the gestator is dead -->
   <AC.SleeveIngestatorIsDead>Оболочка в инкубаторе мертва</AC.SleeveIngestatorIsDead>
 	<!-- EN: Repurpose corpse -->
-  <AC.RepurposeCorpse>Сделать из трупа оболочку</AC.RepurposeCorpse>
+  <AC.RepurposeCorpse>Создать оболочку из трупа</AC.RepurposeCorpse>
 	<!-- EN: Repurpose a not fully rotten corpse and turn it into an empty sleeve. -->
-  <AC.RepurposeCorpseDesc>Переработайте не до конца разложившийся труп и превратите в пустую оболочку.</AC.RepurposeCorpseDesc>
+  <AC.RepurposeCorpseDesc>Создайте пустую оболочку из свежего трупа.</AC.RepurposeCorpseDesc>
 	<!-- EN: Sleeve grower is occupied. -->
   <AC.SleeveGrowerIsOccupied>Инкубатор оболочек занят.</AC.SleeveGrowerIsOccupied>
 	<!-- EN: Cancel repurposing corpse -->
-  <AC.CancelRepurposingCorpse>Отменить переработку трупа</AC.CancelRepurposingCorpse>
+  <AC.CancelRepurposingCorpse>Отменить создание оболочки из трупа</AC.CancelRepurposingCorpse>
 	<!-- EN: Cancel repurposing corpse into a empty sleeve. -->
-  <AC.CancelRepurposingCorpseDesc>Отменить переработку трупа в пустую оболочку.</AC.CancelRepurposingCorpseDesc>
+  <AC.CancelRepurposingCorpseDesc>Отменить создание оболочки на основе этого трупа.</AC.CancelRepurposingCorpseDesc>
 	<!-- EN: Neural stack must be removed first. -->
   <AC.NeuralStackMustBeRemovedFirst>Сначала необходимо извлечь стэк.</AC.NeuralStackMustBeRemovedFirst>
 	<!-- EN: Cannot repurpose corpse with missing head. -->
-  <AC.CannotRepurposeCorspeWithoutHead>Невозможно переработать труп с отсутствующей головой.</AC.CannotRepurposeCorspeWithoutHead>
+  <AC.CannotRepurposeCorspeWithoutHead>Невозможно создать оболочку из трупа без головы.</AC.CannotRepurposeCorspeWithoutHead>
 	<!-- EN: Saved Sleeve Design could not be fully loaded. Missing required xenogerm! -->
-  <AC.SleeveDesignCouldntBeFullyLoaded>Сохраненный дизайн оболочки не удалось полностью загрузить. Отсутствует необходимый ксеноген!</AC.SleeveDesignCouldntBeFullyLoaded>
+  <AC.SleeveDesignCouldntBeFullyLoaded>Не удалось загрузить сохраненный дизайн оболочки: отсутствует необходимый ксеноген!</AC.SleeveDesignCouldntBeFullyLoaded>
 	<!-- EN: A {PAWN_nameDef} body couldn't be copied fully. The following xenogenes were skipped: {1} -->
-  <AC.PawnBodyCouldntBeFullyCopied>Не удалось полностью скопировать тело {PAWN_nameDef}. Следующие ксеногены были пропущены: {1}</AC.PawnBodyCouldntBeFullyCopied>
+  <AC.PawnBodyCouldntBeFullyCopied>Не удалось полностью скопировать тело {PAWN_nameDef} для создания оболочки. Пропущены следующие ксеногены: {1}.</AC.PawnBodyCouldntBeFullyCopied>
 	<!-- EN: Start growing -->
   <AC.StartGrowing>Начать выращивание</AC.StartGrowing>
 	<!-- EN: Sleeve gestator: Finished growing sleeve! -->
-  <AC.FinishedGrowingSleeve>Инкубатор оболочек завершил выращивание тела！</AC.FinishedGrowingSleeve>
+  <AC.FinishedGrowingSleeve>Инкубатор оболочек завершил выращивание оболочки.</AC.FinishedGrowingSleeve>
 	<!-- EN: Age: -->
-  <AC.SleeveAge>Возраст：</AC.SleeveAge>
+  <AC.SleeveAge>Возраст:</AC.SleeveAge>
 	<!-- EN: {0} years old -->
   <AC.YearsOld>{0} лет</AC.YearsOld>
 	<!-- EN: Psychic sensitivity -->
   <AC.PsychicSensitivity>Псионическая\nчувствительность</AC.PsychicSensitivity>
 	<!-- EN: Corpse repurposing is in process. -->
-  <AC.CorpseRepurposingIsInProcess>Переработка трупа в процессе.</AC.CorpseRepurposingIsInProcess>
+  <AC.CorpseRepurposingIsInProcess>Создание оболочки из трупа в процессе.</AC.CorpseRepurposingIsInProcess>
 	<!-- EN: Sleeve growing is in process. -->
   <AC.SleeveGrowingIsInProcess>Выращивание оболочки в процессе.</AC.SleeveGrowingIsInProcess>
 	<!-- ================================ Neural Matrix & Stack Cache ====================== -->
