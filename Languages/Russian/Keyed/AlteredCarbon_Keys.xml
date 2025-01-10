@@ -358,7 +358,7 @@
 	<!-- EN: No untracked stacks stored -->
   <AC.NoUntrackedStacksStored>Не сохранено ни одного неотслеживаемого стэка</AC.NoUntrackedStacksStored>
 	<!-- EN: tile -->
-  <AC.Tile>Гекс</AC.Tile>
+  <AC.Tile>Клеток (на карте мира)</AC.Tile>
 	<!-- EN: Tune this casting relay to a neural matrix. Tuning will take {0} to complete. -->
   <AC.StackRelayTuningDesc>Настройте этот ретранслятор на нейронную матрицу. Для завершения настройки потребуется {0}.</AC.StackRelayTuningDesc>
 	<!-- EN: Retune this casting relay to another neural matrix. Retuning will take {0} to complete. -->
@@ -495,25 +495,25 @@ If you edit the content from a non-colonist stack from another faction, their en
   <AC.CancelUnbondingPersonaDesc>Отменить сброс связи оружия.</AC.CancelUnbondingPersonaDesc>
 	<!-- ================================ Mod Settings ====================== -->
 	<!-- EN: Enable Stack Spawning -->
-  <AC.EnableStackSpawning>Разрешить спавн со стэком</AC.EnableStackSpawning>
+  <AC.EnableStackSpawning>Разрешить появление поселенцев со стэками</AC.EnableStackSpawning>
 	<!-- EN: If disabled, Neural Stacks and Archostacks will NOT spawn on any pawns. You can still craft them, get them as rewards or trade for them. -->
-  <AC.EnableStackSpawningDesc>Если отключено, стэки и архостэк не будут появляться ни на каких поселенцах. Вы по-прежнему можете создавать их, получать в качестве награды или покупать.</AC.EnableStackSpawningDesc>
+  <AC.EnableStackSpawningDesc>Если отключено, стэки и архостэки не будут появляться у поселенцев. Вы по-прежнему сможете создавать, получать в награду или покупать их.</AC.EnableStackSpawningDesc>
 	<!-- EN: Enable techstack requirements in research projects -->
-  <AC.EnableTechstackRequirement>Включить требования к технологическому уровню в исследовательских проектах.</AC.EnableTechstackRequirement>
+  <AC.EnableTechstackRequirement>Требование к технологическому уровню для исследования</AC.EnableTechstackRequirement>
 	<!-- EN: Only affects Royalty owners! -->
-  <AC.EnableTechstackRequirementDesc>Имеет эффект только для владельцев DLC Royalty!</AC.EnableTechstackRequirementDesc>
+  <AC.EnableTechstackRequirementDesc>Действует только при наличии DLC Royalty!</AC.EnableTechstackRequirementDesc>
 	<!-- EN: Time to grow sleeve multiplicator: -->
-  <AC.TimeToGrowSleeveMultiplier>Множитель времени роста оболочки：</AC.TimeToGrowSleeveMultiplier>
+  <AC.TimeToGrowSleeveMultiplier>Множитель времени роста оболочки:</AC.TimeToGrowSleeveMultiplier>
 	<!-- EN: Multiplicator of the overall time needed to grow a new sleeve. -->
   <AC.TimeToGrowSleeveMultiplierDesc>Множитель общего времени, необходимого для выращивания новой оболочки.</AC.TimeToGrowSleeveMultiplierDesc>
 	<!-- EN: Cost to grow sleeve multiplicator: -->
   <AC.CostToGrowSleeveMultiplier>Множитель стоимости выращивания оболочки:</AC.CostToGrowSleeveMultiplier>
 	<!-- EN: Multiplicator of the overall neutroamine cost needed to grow a new sleeve. -->
-  <AC.CostToGrowSleeveMultiplierDesc>Множитель общего количества нейтроамина, необходимого для изготовления новой оболочки.</AC.CostToGrowSleeveMultiplierDesc>
+  <AC.CostToGrowSleeveMultiplierDesc>Множитель расхода нейтроамина на выращивание новой оболочки.</AC.CostToGrowSleeveMultiplierDesc>
 	<!-- EN: Enable Stack Degradation -->
   <AC.EnableStackDegradation>Разрешить деградацию стэков</AC.EnableStackDegradation>
 	<!-- EN: If disabled, Neural Stacks can be edited to your heart's content without having to worry about stack degradation. -->
-  <AC.EnableStackDegradationDesc>Если отключено, стэки можно редактировать по своему усмотрению, не беспокоясь об ухудшении качества стэка.</AC.EnableStackDegradationDesc>
+  <AC.EnableStackDegradationDesc>Если отключено, редактирование стэков не будет приводить к их деградации.</AC.EnableStackDegradationDesc>
 	<!-- EN: Stack editing time gain multiplier: -->
   <AC.StackEditEditTimeValueMultiplier>Множитель времени редактирования стэка:</AC.StackEditEditTimeValueMultiplier>
 	<!-- EN: Multiplicator of the overall stack editing time. -->
@@ -521,7 +521,7 @@ If you edit the content from a non-colonist stack from another faction, their en
 	<!-- EN: Stack Degradation gain multiplier: -->
   <AC.StackEditDegradationValueMultiplier>Множитель деградации стэка:</AC.StackEditDegradationValueMultiplier>
 	<!-- EN: Multiplies the overall stack degradation that is accumulated through editing. -->
-  <AC.StackEditDegradationValueMultiplierDesc>Множитель общего ухудшения качества стека, который накапливается в результате редактирования.</AC.StackEditDegradationValueMultiplierDesc>
+  <AC.StackEditDegradationValueMultiplierDesc>Множитель степени деградации стэка при редактировании.</AC.StackEditDegradationValueMultiplierDesc>
 	<!-- EN: Enable Archo Stack editing -->
   <AC.EnableArchostackEditing>Разрешить редактировать архостэк</AC.EnableArchostackEditing>
 	<!-- EN: Allows you to edit the content of Archo Stacks. -->
@@ -529,17 +529,17 @@ If you edit the content from a non-colonist stack from another faction, their en
 	<!-- EN: Colonist stack needs extracting. -->
   <AC.ColonistStackNeedsExtracting>Необходимо извлечь стэк поселенца.</AC.ColonistStackNeedsExtracting>
 	<!-- EN: These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue.) -->
-  <AC.ColonistStackNeedsExtractingDesc>Эти колонисты выведены из строя:\n\n{0}\nПослать другого колониста, чтобы он спас их и отнес обратно в постель.\n\n (Чтобы спасти, выберите другого колониста, затем щелкните правой кнопкой мыши на жертве и выберите "Спасти".)</AC.ColonistStackNeedsExtractingDesc>
+ <AC.ColonistStackNeedsExtractingDesc>Эти поселенцы недееспособны:\n\n{0}\nОтправьте другого поселенца для спасения и переноса в постель.</AC.ColonistStackNeedsExtractingDesc>
 	<!-- EN: Sleeve death doesn't cause gear to be tainted -->
-  <AC.SleeveDeathDoesNotCauseGearTainting>Смерть оболочки не приводит к порче снаряжения</AC.SleeveDeathDoesNotCauseGearTainting>
+  <AC.SleeveDeathDoesNotCauseGearTainting>Смерть оболочки не влияет на одежду</AC.SleeveDeathDoesNotCauseGearTainting>
 	<!-- EN: Selling neural stacks can create duplicates -->
   <AC.EnableSoldNeuralStacksCreatingPawnDuplicates>Продажа стэков может привести к появлению их дубликатов</AC.EnableSoldNeuralStacksCreatingPawnDuplicates>
 	<!-- EN: text.todo -->
-  <AC.EnableSoldNeuralStacksCreatingPawnDuplicatesDesc>Проданные стэки могут быть скопированы другими поселениями и вы сможете встретить результаты этого.</AC.EnableSoldNeuralStacksCreatingPawnDuplicatesDesc>
+  <AC.EnableSoldNeuralStacksCreatingPawnDuplicatesDesc>Продажа стэков может привести к появлению их копий в игровом мире.</AC.EnableSoldNeuralStacksCreatingPawnDuplicatesDesc>
 	<!-- EN: Enable neural stacks spawning in ancient dangers -->
   <AC.EnableNeuralStacksInAncientDangers>Разрешить стэкам, появляться в древних опасностях</AC.EnableNeuralStacksInAncientDangers>
 	<!-- EN: text.todo -->
-  <AC.EnableNeuralStacksInAncientDangersDesc>Стэки и архостэки смогут появляться в древних опасностях</AC.EnableNeuralStacksInAncientDangersDesc>
+  <AC.EnableNeuralStacksInAncientDangersDesc>Стэки и архостэки можно найти в древних опасностях.</AC.EnableNeuralStacksInAncientDangersDesc>
 	<!-- ================================ Warnings ====================== -->
 	<!-- EN: Cannot install stacks into androids without a neural module. -->
   <AC.CannotInstallStackOnAndroidWithoutNeuralModule>Невозможно установить стэки в андроиды без нейронного модуля.</AC.CannotInstallStackOnAndroidWithoutNeuralModule>
@@ -552,13 +552,13 @@ If you edit the content from a non-colonist stack from another faction, their en
 	<!-- EN: Cannot install an active stack into children. -->
   <AC.CannotInstallActiveStackInChildren>Невозможно установить активный стэк в ребёнка.</AC.CannotInstallActiveStackInChildren>
 	<!-- EN: Cannot install stack: Already has a stack installed. -->
-  <AC.CannotInstallAlreadyHaveStack>Невозможно установить ещё один стэк.</AC.CannotInstallAlreadyHaveStack>
+  <AC.CannotInstallAlreadyHaveStack>Невозможно установить: стэк уже установлен.</AC.CannotInstallAlreadyHaveStack>
 	<!-- EN: requires artifical parent part -->
-  <AC.RequiresArtificalParentPart>Требуется искусственная родительская часть</AC.RequiresArtificalParentPart>
+  <AC.RequiresArtificalParentPart>Требуется искусственный родительский компонент</AC.RequiresArtificalParentPart>
 	<!-- EN: Cannot implant: Remot stack present. -->
-  <AC.CannotInstallNeuralStackWithRemoteStack>Невозможно установить: присутствует удаленный стэк.</AC.CannotInstallNeuralStackWithRemoteStack>
+  <AC.CannotInstallNeuralStackWithRemoteStack>Невозможно установить стэк при наличии дистанционного стэка.</AC.CannotInstallNeuralStackWithRemoteStack>
 	<!-- EN: Cannot implant: Stack present. -->
-  <AC.CannotInstallRemoteStackWithNeuralStack>Невозможно установить: присутствует стэк.</AC.CannotInstallRemoteStackWithNeuralStack>
+  <AC.CannotInstallRemoteStackWithNeuralStack>Невозможно установить дистанционный стэк при наличии стэка.</AC.CannotInstallRemoteStackWithNeuralStack>
 	<!-- EN: {PAWN_nameDef} has no sleeve. -->
   <AC.PawnHasNoSleeve>{PAWN_nameDef} не имеет оболочки.</AC.PawnHasNoSleeve>
 	<!-- ================================ Mental Fuse ====================== -->
@@ -569,7 +569,7 @@ If you edit the content from a non-colonist stack from another faction, their en
 	<!-- EN: Mental fuse trauma -->
   <AC.MentalFuseTraumaLabel>Травма ментального предохранителя</AC.MentalFuseTraumaLabel>
 	<!-- EN: {PAWN_nameDef}'s mental fuse has caused permanent damage in {PAWN_objective} brain. This damage has caused {PAWN_objective} to develop strange savant-like abilities. -->
-  <AC.MentalFuseTraumaText>Ментальный предохранитель поселенца {PAWN_nameDef} привел к необратимому повреждению мозга {PAWN_objective}. Это повреждение привело к тому, что у {PAWN_objective} развились странные способности, похожие на способности саванта.</AC.MentalFuseTraumaText>
+  <AC.MentalFuseTraumaText>Срабатывание ментального предохранителя {PAWN_nameDef} вызвало необратимое повреждение {PAWN_objective} мозга. В результате у {PAWN_objective} развились странные способности, подобные способностям саванта.</AC.MentalFuseTraumaText>
 	<!-- ================================ Neural Connector ====================== -->
 	<!-- EN: Requires neural stack installed. -->
   <AC.RequiresNeuralStackInstalled>Требуется установить стэк.</AC.RequiresNeuralStackInstalled>
