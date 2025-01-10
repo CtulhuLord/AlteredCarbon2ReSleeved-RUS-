@@ -569,7 +569,7 @@ If you edit the content from a non-colonist stack from another faction, their en
 	<!-- EN: Mental fuse trauma -->
   <AC.MentalFuseTraumaLabel>Травма ментального предохранителя</AC.MentalFuseTraumaLabel>
 	<!-- EN: {PAWN_nameDef}'s mental fuse has caused permanent damage in {PAWN_objective} brain. This damage has caused {PAWN_objective} to develop strange savant-like abilities. -->
-  <AC.MentalFuseTraumaText>Срабатывание ментального предохранителя {PAWN_nameDef} вызвало необратимое повреждение {PAWN_objective} мозга. В результате у {PAWN_objective} развились странные способности, подобные способностям саванта.</AC.MentalFuseTraumaText>
+  <AC.MentalFuseTraumaText>Срабатывание ментального предохранителя {PAWN_nameDef} вызвало необратимое повреждение мозга. В результате у {PAWN_objective} развились странные способности, подобные способностям саванта.</AC.MentalFuseTraumaText>
 	<!-- ================================ Neural Connector ====================== -->
 	<!-- EN: Requires neural stack installed. -->
   <AC.RequiresNeuralStackInstalled>Требуется установить стэк.</AC.RequiresNeuralStackInstalled>
@@ -578,33 +578,33 @@ If you edit the content from a non-colonist stack from another faction, their en
 	<!-- EN: Create skilltrainer -->
   <AC.CreateSkilltrainer>Создать нейротренер навыка</AC.CreateSkilltrainer>
 	<!-- EN: Not sufficient skill levels -->
-  <AC.NotSufficientSkillLevels>Недостаточный уровень квалификации</AC.NotSufficientSkillLevels>
+  <AC.NotSufficientSkillLevels>Недостаточный уровень навыка</AC.NotSufficientSkillLevels>
 	<!-- EN: Creating neural stack completed for {PAWN_nameDef}. -->
-  <AC.CreatingNeuralStackCompleted>Создание стэка завершено поселенцем {PAWN_nameDef}.</AC.CreatingNeuralStackCompleted>
+  <AC.CreatingNeuralStackCompleted>Создание стэка поселенцем {PAWN_nameDef} завершено.</AC.CreatingNeuralStackCompleted>
 	<!-- EN: Creating skilltrainer completed for {PAWN_nameDef}. {PAWN_nameDef}'s brain has been destroyed by the neural connector. -->
-  <AC.CreatingSkilltrainerCompleted>Создание нейротренера навыка завершено поселенцем {PAWN_nameDef}. Мозг поселенца {PAWN_nameDef} был уничтожен нейронным коннектором</AC.CreatingSkilltrainerCompleted>
+  <AC.CreatingSkilltrainerCompleted>Создание нейротренера навыка поселенцем {PAWN_nameDef} завершено. Мозг поселенца {PAWN_nameDef} был уничтожен.</AC.CreatingSkilltrainerCompleted>
 	<!-- EN: Scanning {PAWN_nameDef} to create a skilltrainer will kill {PAWN_objective}. Are you sure you want to continue?
 
 Scanning {PAWN_nameDef} will create a skilltrainer for one of the following skills:
 {1} -->
-  <AC.ConfirmSkilltrainerPawn>Сканирование поселенцем {PAWN_nameDef} для создания нейротренера навыков убъёт объект сканнирования {PAWN_objective}. Вы уверены что хотите продолжить?\n\nСканнирование {PAWN_nameDef} позволит создать нейротренер навыков одного из следующих навыков:{1}</AC.ConfirmSkilltrainerPawn>
+	<AC.ConfirmSkilltrainerPawn>Сканирование {PAWN_nameDef} для создания нейротренера убьёт {PAWN_objective}. Продолжить?\n\nБудет создан нейротренер для одного из навыков:\n{1}</AC.ConfirmSkilltrainerPawn>
 	<!-- EN: Cancelling a skilltrainer process will still kill {PAWN_nameDef}. Are you sure you want to continue? -->
   <AC.ConfirmCancelSkilltrainerPawn>Отмена процесса создания нейротренера навыков все равно приведет к смерти {PAWN_name Def}. Вы уверены, что хотите продолжить?</AC.ConfirmCancelSkilltrainerPawn>
 	<!-- EN: Already registered selected the neural matrix -->
-  <AC.AlreadyRegisteredToMatrix>Уже зарегистрирован в выбранной нейронной матрице</AC.AlreadyRegisteredToMatrix>
+  <AC.AlreadyRegisteredToMatrix>Уже зарегистрирован в нейронной матрице</AC.AlreadyRegisteredToMatrix>
 	<!-- EN: Stack of {PAWN_nameDef} successfully registered with neural matrix. -->
   <AC.RegisteringStackCompleted>Стэк поселенца {PAWN_nameDef} успешно зарегистрирован в нейронной матрице.</AC.RegisteringStackCompleted>
 	<!-- EN: Register stack -->
-  <AC.RegisterStack>Отслеживать стэк</AC.RegisterStack>
+  <AC.RegisterStack>Зарегистрировать стэк</AC.RegisterStack>
 	<!-- EN: {PAWN_nameDef}'s brain has been destroyed by the neural connector. -->
-  <AC.MessagePawnKilledNeuralConnector>Мозг {PAWN_nameDef} был уничтожен нейронным коннектором.</AC.MessagePawnKilledNeuralConnector>
+  <AC.MessagePawnKilledNeuralConnector>Мозг поселенца {PAWN_nameDef} был уничтожен нейронным коннектором.</AC.MessagePawnKilledNeuralConnector>
 	<!-- EN: Creating skilltrainer from {PAWN_nameDef} -->
-  <AC.CreatingSkillTrainer>Создание нейротренера навыков из {PAWN_nameDef}.</AC.CreatingSkillTrainer>
+  <AC.CreatingSkillTrainer>Создаётся нейротренер навыка из {PAWN_nameDef}.</AC.CreatingSkillTrainer>
 	<!-- EN: Registering stack of {PAWN_nameDef} -->
   <AC.RegisteringStack>Регистрация стэка {PAWN_nameDef}</AC.RegisteringStack>
 	<!-- ================================ Biocoding ====================== -->
 	<!-- EN: Once imprinted to a user, the weapon can not be used by anyone else until its biocoding is reset again. Are you sure you want to equip this time? -->
-  <AC.BiocodableEquipWarning>После того, как оружие будет отпечатано у пользователя, им не сможет воспользоваться никто другой, пока его биокодирование не будет сброшено снова. Вы уверены, что хотите экипироваться?</AC.BiocodableEquipWarning>
+	<AC.BiocodableEquipWarning>Оружие будет привязано к этому поселенцу с помощью биокодирования. Другие не смогут им пользоваться, пока привязка не будет снята. Продолжить?</AC.BiocodableEquipWarning>
 	<!-- EN: Biocoding: Ready to imprint. -->
-  <AC.BiocodingNotYetImprinted>Биокодирование: готово к отпечатыванию.</AC.BiocodingNotYetImprinted>
+  <AC.BiocodingNotYetImprinted>Оружие готово к биокодированию.</AC.BiocodingNotYetImprinted>
 </LanguageData>
