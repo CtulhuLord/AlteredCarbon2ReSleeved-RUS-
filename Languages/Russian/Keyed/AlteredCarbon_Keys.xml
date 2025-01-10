@@ -381,9 +381,9 @@
 	<!-- EN: Search -->
   <AC.Search>Поиск</AC.Search>
 	<!-- EN: Add filter -->
-  <AC.AddFilter>Фильтры</AC.AddFilter>
+  <AC.AddFilter>Добавить фильтр</AC.AddFilter>
 	<!-- EN: Is empty sleeve -->
-  <AC.IsEmptySleeve>Это пустая оболочка</AC.IsEmptySleeve>
+  <AC.IsEmptySleeve>Пустая оболочка</AC.IsEmptySleeve>
 	<!-- EN: Original gender -->
   <AC.OriginalGender>Первоначальный пол</AC.OriginalGender>
 	<!-- EN: Charge cuirassier belt -->
@@ -391,26 +391,26 @@
 	<!-- EN: Needlecasting -->
   <AC.NeedlecastingCaster>Игольный перенос</AC.NeedlecastingCaster>
 	<!-- EN: Used for needlecasting by {0} -->
-  <AC.NeedlecastingTarget>Используется для игольного переноса поселенцем {0}</AC.NeedlecastingTarget>
+  <AC.NeedlecastingTarget>Цель игольного переноса: {0}</AC.NeedlecastingTarget>
 	<!-- EN: A cuirassier belt that will attempt to stop incoming projectiles or shrapnel, while not preventing the wearer from firing out. Just like a regular shield belt, it is susceptible to EMP.\n\nCuirassier do not recharge themselves, rather they need to be manually fed from a power grid, like batteries, rechargers or exposed conduits. -->
-  <AC.CuirassierBeltTooltip>Кавалерийский пояс, который попытается остановить летящие снаряды или шрапнель, но не помешает владельцу выстрелить. Как и обычный защитный пояс, он подвержен ЭМИ.\n\n Кавалерийский пояс не подзаряжается самостоятельно, его необходимо запитывать самостоятельно от электросети.</AC.CuirassierBeltTooltip>
+  <AC.CuirassierBeltTooltip>Кавалерийский пояс блокирует летящие снаряды и шрапнель, не мешая владельцу стрелять. Как и обычный защитный пояс, он уязвим к ЭМИ.\n\n Кавалерийский пояс не подзаряжается самостоятельно, его необходимо вручную запитывать от электросети.</AC.CuirassierBeltTooltip>
 	<!-- ================================ Neural editor ====================== -->
 	<!-- EN: Cannot use: No Neural Matrix nearby. -->
   <AC.NoConnectedMatrix>Невозможно использовать: поблизости нет нейронной матрицы.</AC.NoConnectedMatrix>
 	<!-- EN: Cannot use: Connected Neural Matrix is not powered. -->
-  <AC.ConnectedMatrixHasNoPower>Невозможно использовать: нейронная матрица не подключена к электросети.</AC.ConnectedMatrixHasNoPower>
+  <AC.ConnectedMatrixHasNoPower>Невозможно использовать: нейронная матрица обесточена.</AC.ConnectedMatrixHasNoPower>
 	<!-- EN: Warning: The stack you are trying to factory reset does not belong to your faction.
 
 If you erase the content from a non-colonist stack from another faction, their entire faction may become your enemy. -->
-  <AC.WipingFriendlyStackWarning>Внимание: стэк, который вы пытаетесь стереть, не принадлежит вашей фракции.\n\n Если вы удалите содержимое стэка поселенца другой фракции, вся фракция может стать вашим врагом.</AC.WipingFriendlyStackWarning>
+  <AC.WipingFriendlyStackWarning>Внимание: стирание стэка чужой фракции может сделать её враждебной.</AC.WipingFriendlyStackWarning>
 	<!-- EN: Warning: The stack you are trying to duplicate does not belong to your faction.
 
 If you make a copy of the content from a non-colonist stack from another faction, their entire faction may become your enemy. -->
-  <AC.DuplicatingFriendlyStackWarning>Внимание: стэк, который вы пытаетесь копировать, не принадлежит вашей фракции.\n\n Если вы копируете содержимое стэка поселенца другой фракции, вся фракция может стать вашим врагом.</AC.DuplicatingFriendlyStackWarning>
+  <AC.DuplicatingFriendlyStackWarning>Внимание: копирование стэка чужой фракции может сделать её враждебной.</AC.DuplicatingFriendlyStackWarning>
 	<!-- EN: The stack you are trying to edit does not belong to your faction.
 
 If you edit the content from a non-colonist stack from another faction, their entire faction may become your enemy. -->
-  <AC.EditingFriendlyStackWarning>Внимание: стэк, который вы пытаетесь отредактировать, не принадлежит вашей фракции.\n\n Если вы отредактируете содержимое стэка поселенца другой фракции, вся фракция может стать вашим врагом.</AC.EditingFriendlyStackWarning>
+  <AC.EditingFriendlyStackWarning>Внимание: редактирование стэка чужой фракции может сделать её враждебной.</AC.EditingFriendlyStackWarning>
 	<!-- EN: This stack is set for reseting already on a neural editor. Remove the bill in order to add new operation on it. -->
   <AC.AlreadyOrderedToWipeStack>Этот стэк уже настроен на сброс в нейронном редакторе. Удалите задание, чтобы добавить к нему новую операцию.</AC.AlreadyOrderedToWipeStack>
 	<!-- EN: This stack is set for editing already on a neural editor. Remove the bill in order to add new operation on it. -->
@@ -424,13 +424,13 @@ If you edit the content from a non-colonist stack from another faction, their en
 	<!-- EN: This persona weapon is set for unbounding already on a neural editor. Remove the bill in order to add new operation on it. -->
   <AC.AlreadyOrderedToUnboundPersonaThing>Это оружие с личностью уже настроено на сброс связи в нейронном редакторе. Удалите задание, чтобы добавить к нему новую операцию.</AC.AlreadyOrderedToUnboundPersonaThing>
 	<!-- EN: Resetting biocoded equipment: Failed, {0} destroyed! -->
-  <AC.ResettingBiocodedFailed>Сброс бикодирования: Провал, {0} уничтожено!</AC.ResettingBiocodedFailed>
+  <AC.ResettingBiocodedFailed>Сброс биокодирования не удался: {0} уничтожено.</AC.ResettingBiocodedFailed>
 	<!-- EN: Resetting biocoded equipment: Successful! {0} is unlocked. -->
-  <AC.ResettingBiocodedSuccess>Сброс бикодирования: Успех, {0} разблокировано!</AC.ResettingBiocodedSuccess>
+  <AC.ResettingBiocodedSuccess>Сброс бикодирования успешен: {0} разблокировано!</AC.ResettingBiocodedSuccess>
 	<!-- EN: Unbonding persona weapon: Failed, {0} destroyed! -->
-  <AC.UnbondingPersonaFailed>Сброс связи оружия с личностью：Провал，{0} уничтожено！</AC.UnbondingPersonaFailed>
+  <AC.UnbondingPersonaFailed>Сброс связи не удался: {0} уничтожено.</AC.UnbondingPersonaFailed>
 	<!-- EN: Unbonding persona weapon: Successful! {0} is unbound. -->
-  <AC.UnbondingPersonaSuccess>Сброс связи оружия с личностью：Успех, {0} связь сброшена!</AC.UnbondingPersonaSuccess>
+  <AC.UnbondingPersonaSuccess>Сброс связи успешен: {0} связь сброшена!</AC.UnbondingPersonaSuccess>
 	<!-- EN: Edit Neural Stack -->
   <AC.EditNeuralStack>Редактировать стэк</AC.EditNeuralStack>
 	<!-- EN: Neural Stacks feature advanced encryption to prevent outside forces from messing with the stored consciousness. Known exploits allow for some data to be edited and rewritten at the cost of stack degradation. -->
@@ -454,21 +454,21 @@ If you edit the content from a non-colonist stack from another faction, their en
 	<!-- EN: Changing a pawn ideology will also remove any roles assosiated from them. -->
   <AC.ChangingPawnIdeologyWarning>Изменение идеологии личности также приведет к удалению всех связанных ролей.</AC.ChangingPawnIdeologyWarning>
 	<!-- EN: Total time to edit: {0} -->
-  <AC.TotalTimeToEdit>Общее время редактирования:：{0}</AC.TotalTimeToEdit>
+  <AC.TotalTimeToEdit>Время редактирования: {0}</AC.TotalTimeToEdit>
 	<!-- EN: Expected stack degradation: {0} -->
-  <AC.TotalStackDegradation>Ожидаемая деградация стека：{0}</AC.TotalStackDegradation>
+  <AC.TotalStackDegradation>Деградация стэка: {0}</AC.TotalStackDegradation>
 	<!-- EN: WARNING: The more you edit, the higher the stack degradation will be, causing the stored pawns neurallity to become more and more unstable. Stack degradation will go away over time after being installed in a body, but can take years. -->
-  <AC.Tutorial>ВНИМАНИЕ: Чем больше вы редактируете, тем выше будет деградация стэка, в результате чего сохраненная личность  будет становиться все более и более нестабильной. Деградация стека со временем исчезнет после установки в основной файл, но может занять годы.</AC.Tutorial>
+  <AC.Tutorial>ВНИМАНИЕ: Чем больше изменений, тем сильнее деградация стэка, что может привести к нестабильности личности. Деградация со временем снижается после установки в тело, но может занять годы.</AC.Tutorial>
 	<!-- EN: Reset all -->
   <AC.ResetAll>Сбросить все</AC.ResetAll>
 	<!-- EN: Stack degradation: {0} -->
-  <AC.StackDegradation>Деградация стэка：{0}</AC.StackDegradation>
+  <AC.StackDegradation>Деградация стэка: {0}</AC.StackDegradation>
 	<!-- EN: Start editing -->
   <AC.StartEditing>Начать редактирование</AC.StartEditing>
 	<!-- EN: Cancel stack reset -->
   <AC.CancelStackReset>Отменить сброс стэка</AC.CancelStackReset>
 	<!-- EN: Cancel reseting neural stack. -->
-  <AC.CancelStackResetDesc>Отмените сброс стэка.</AC.CancelStackResetDesc>
+  <AC.CancelStackResetDesc>Отменить сброс стэка.</AC.CancelStackResetDesc>
 	<!-- EN: Cancel stack edit -->
   <AC.CancelStackEdit>Отменить редактирование стэка</AC.CancelStackEdit>
 	<!-- EN: Cancel editing neural stack. -->
@@ -482,17 +482,17 @@ If you edit the content from a non-colonist stack from another faction, their en
 	<!-- EN: Cancel reseting biocoded thing. -->
   <AC.CancelBiocodingResetDesc>Отменить сброс биокодирования</AC.CancelBiocodingResetDesc>
 	<!-- EN: {PAWN_nameDef} successfully duplicated neural stack. -->
-  <AC.SuccessfullyDuplicatedStack>{PAWN_nameDef} успешно копировал стэк.</AC.SuccessfullyDuplicatedStack>
+  <AC.SuccessfullyDuplicatedStack>{PAWN_nameDef} скопировал стэк.</AC.SuccessfullyDuplicatedStack>
 	<!-- EN: Cancel stack duplication -->
   <AC.CancelStackDuplication>Отменить копирование стэка</AC.CancelStackDuplication>
 	<!-- EN: Cancel duplication of stored neural stack. -->
   <AC.CancelStackDuplicationDesc>Отменить копирование стэка.</AC.CancelStackDuplicationDesc>
 	<!-- EN: Cannot {0} while needlecasting. -->
-  <AC.CannotModifyWhileNeedlecasting>Невозможно {0} пока активен игольный перенос.</AC.CannotModifyWhileNeedlecasting>
+  <AC.CannotModifyWhileNeedlecasting>Невозможно {0} во время игольного переноса.</AC.CannotModifyWhileNeedlecasting>
 	<!-- EN: Cancel unbound persona. -->
-  <AC.CancelUnbondingPersona>Отменить сброс связи оружия с личностью</AC.CancelUnbondingPersona>
+  <AC.CancelUnbondingPersona>Отменить сброс связи оружия</AC.CancelUnbondingPersona>
 	<!-- EN: Cancel unbonding persona thing. -->
-  <AC.CancelUnbondingPersonaDesc>Отменить сброс связи оружия с личностью.</AC.CancelUnbondingPersonaDesc>
+  <AC.CancelUnbondingPersonaDesc>Отменить сброс связи оружия.</AC.CancelUnbondingPersonaDesc>
 	<!-- ================================ Mod Settings ====================== -->
 	<!-- EN: Enable Stack Spawning -->
   <AC.EnableStackSpawning>Разрешить спавн со стэком</AC.EnableStackSpawning>
