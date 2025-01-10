@@ -260,7 +260,7 @@
 	<!-- EN: Eject this stack from the matrix. -->
   <AC.EjectNeuralStackTooltip>Извлечь этот стэк из матрицы.</AC.EjectNeuralStackTooltip>
 	<!-- EN: Do you really want to eject {0}? It will be immediately ejected onto the ground nearby. -->
-  <AC.EjectNeuralStackConfirmation>Вы действительно хотите извлечь {0}？ Он будет немедленно выброшен на землю.</AC.EjectNeuralStackConfirmation>
+  <AC.EjectNeuralStackConfirmation>Вы действительно хотите извлечь {0}? Он будет немедленно выброшен на землю.</AC.EjectNeuralStackConfirmation>
 	<!-- EN: Erase this neural stack irreversibly. -->
   <AC.EraseNeuralStackTooltip>Необратимо стереть этот стэк.</AC.EraseNeuralStackTooltip>
 	<!-- EN: Do you really want to erase {0}? It will be immediately destroyed. -->
@@ -268,19 +268,19 @@
 	<!-- EN: Contents -->
   <AC.NeuralStackStorage>Склад</AC.NeuralStackStorage>
 	<!-- EN: Stacks stored: {0}/{1} -->
-  <AC.NeuralStacksStored>Хранящиеся стэки： {0}/{1}</AC.NeuralStacksStored>
+  <AC.NeuralStacksStored>Хранится стэков: {0} / {1}</AC.NeuralStacksStored>
 	<!-- EN: Stacks stored: {0} / {1} -->
-  <AC.StacksStored>Хранящиеся стэки： {0}/{1}</AC.StacksStored>
+  <AC.StacksStored>Хранится стэков: {0} / {1}</AC.StacksStored>
 	<!-- EN: Stacks tracked: {0} -->
-  <AC.StacksTracked>Отслеживаемые стэки： {0}</AC.StacksTracked>
+  <AC.StacksTracked>Отслеживается стэков: {0}</AC.StacksTracked>
 	<!-- EN: Eject this stack from the stack cache. -->
   <AC.EjectStackTooltip>Извлеките этот стэк из стэк-хранилища.</AC.EjectStackTooltip>
 	<!-- EN: Do you really want to eject {0}? It will be immediately ejected onto the ground nearby. -->
-  <AC.EjectStackConfirmation>Вы действительно хотите извлечь {0}？ Он будет немедленно выброшен на землю.</AC.EjectStackConfirmation>
+  <AC.EjectStackConfirmation>Вы действительно хотите извлечь {0}? Он будет немедленно выброшен на землю.</AC.EjectStackConfirmation>
 	<!-- EN: Contents -->
   <AC.StackStorage>Склад</AC.StackStorage>
 	<!-- EN: Stacks stored: ({0}/{1}) -->
-  <AC.NeuralStacksInCache>Хранящиеся стэки： {0}/{1}</AC.NeuralStacksInCache>
+  <AC.NeuralStacksInCache>Хранится стэков: {0} / {1}</AC.NeuralStacksInCache>
 	<!-- EN: *Allow colonist stacks -->
   <AC.AllowColonistStacks>*Разрешить стэки поселенцев</AC.AllowColonistStacks>
 	<!-- EN: *Allow stranger stacks -->
@@ -368,7 +368,7 @@
 	<!-- EN: Max range: -->
   <AC.MaxRange>Дистанция：</AC.MaxRange>
 	<!-- EN: {0} world tiles -->
-  <AC.WorldTiles>{0} гексов</AC.WorldTiles>
+  <AC.WorldTiles>{0} клеток (на карте мира)</AC.WorldTiles>
 	<!-- ================================ Other ====================== -->
 	<!-- EN: Call psylink neuroformers -->
   <AC.CommandCallsNeuroformers>Вызвать нейроформер пси-связи</AC.CommandCallsNeuroformers>
