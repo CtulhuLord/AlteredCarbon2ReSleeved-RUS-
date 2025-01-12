@@ -4,7 +4,7 @@
   <!-- EN: Awful quality -->
   <AC_SleeveQuality_Awful.label>ужасное качество</AC_SleeveQuality_Awful.label>
   <!-- EN: Carriers of this gene had their bodies artificially gestated. As little effort as possible was put into it, resulting in awful quality. -->
-  <AC_SleeveQuality_Awful.description>Тело носителя этого гена было искусственно выращено. Было потрачено как можно меньше усилий, что привело к ужасному качеству.</AC_SleeveQuality_Awful.description>
+	<AC_SleeveQuality_Awful.description>Тело носителя этого гена было искусственно выращено. Было приложено минимум усилий, что привело к ужасному качеству.</AC_SleeveQuality_Awful.description>
   
   <!-- EN: Excellent quality -->
   <AC_SleeveQuality_Excellent.label>отличное качество</AC_SleeveQuality_Excellent.label>

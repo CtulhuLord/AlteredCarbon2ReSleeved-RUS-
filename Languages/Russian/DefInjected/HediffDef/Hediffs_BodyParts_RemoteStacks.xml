@@ -2,10 +2,10 @@
 <LanguageData>
   
   <!-- EN: Neural receiver -->
-  <AC_RemoteStack.label>нейронный приёмник</AC_RemoteStack.label>
+  <AC_RemoteStack.label>дистанционный стэк</AC_RemoteStack.label>
   <!-- EN: An installed neural receiver. -->
-  <AC_RemoteStack.description>Установленный нейронный приёмник.</AC_RemoteStack.description>
+  <AC_RemoteStack.description>Установленный дистанционный стэк.</AC_RemoteStack.description>
   <!-- EN: a neural receiver -->
-  <AC_RemoteStack.labelNoun>нейронный приёмник</AC_RemoteStack.labelNoun>
+  <AC_RemoteStack.labelNoun>дистанционный стэк</AC_RemoteStack.labelNoun>
   
 </LanguageData>
