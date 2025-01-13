@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: cross-sleeving -->
-  <AC_CrossSleeving.label>Кросс-перенос</AC_CrossSleeving.label>
+  <AC_CrossSleeving.label>Кросс-перенос сознания</AC_CrossSleeving.label>
   
   <!-- EN: sleeving -->
-  <AC_Sleeving.label>Перенос</AC_Sleeving.label>
+  <AC_Sleeving.label>Перенос сознания</AC_Sleeving.label>
   
   <!-- EN: duplicating -->
-  <AC_StackDuplicating.label>Копирование</AC_StackDuplicating.label>
+  <AC_StackDuplicating.label>Копирование стэков</AC_StackDuplicating.label>
   
   <!-- EN: stacking -->
   <AC_Stacking.label>Стэкинг</AC_Stacking.label>
   
   <!-- EN: xeno-sleeving -->
-  <AC_XenoSleeving.label>Ксено-оболочки</AC_XenoSleeving.label>
+  <AC_XenoSleeving.label>Перенос в ксено-оболочку</AC_XenoSleeving.label>
   
 </LanguageData>

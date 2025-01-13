@@ -2,13 +2,13 @@
 <LanguageData>
 	<!-- ================================ Stacks ====================== -->
 	<!-- EN: Implant stack -->
-  <AC.InstallStack>Установить стэк</AC.InstallStack>
+  <AC.InstallStack>Установить нейростэк</AC.InstallStack>
 	<!-- EN: Select a pawn or empty sleeve to implant the neural stack into via surgery. The surgery bill will automatically be created in the health tab of the selected pawn or sleeve. -->
-  <AC.InstallStackDesc>Выберите поселенца или пустую оболочку для хирургической имплантации стэка. Операция будет автоматически добавлена в список назначенных процедур во вкладке здоровье.</AC.InstallStackDesc>
+  <AC.InstallStackDesc>Выберите поселенца или пустую оболочку для хирургической имплантации нейростэка. Операция будет автоматически добавлена в список назначенных процедур во вкладке здоровье.</AC.InstallStackDesc>
 	<!-- EN: Select a pawn to implant the empty neural stack in via surgery. The surgery bill  will automatically be created in the health tab of the selected pawn or sleeve. -->
-  <AC.InstallEmptyStackDesc>Выберите поселенца или пустую оболочку для хирургической имплантации стэка. Операция будет автоматически добавлена в список назначенных процедур во вкладке здоровье.</AC.InstallEmptyStackDesc>
+  <AC.InstallEmptyStackDesc>Выберите поселенца или пустую оболочку для хирургической имплантации нейростэка. Операция будет автоматически добавлена в список назначенных процедур во вкладке здоровье.</AC.InstallEmptyStackDesc>
 	<!-- EN: Implant stack -->
-  <AC.InstallArchotechStack>Установить стэк</AC.InstallArchotechStack>
+  <AC.InstallArchotechStack>Установить нейростэк</AC.InstallArchotechStack>
 	<!-- EN: Select a pawn or empty sleeve to implant the archotech stack in via surgery. The surgery bill will automatically be created in the health tab of the selected pawn or sleeve. -->
   <AC.InstallArchotechStackDesc>Выберите поселенца или пустую оболочку для хирургической имплантации архостэка. Операция будет автоматически добавлена в список назначенных процедур во вкладке здоровье.</AC.InstallArchotechStackDesc>
 	<!-- EN: Select a pawn to implant the empty archotech stack in via surgery. The surgery bill will automatically be created in the health tab of the selected pawn or sleeve. -->
@@ -16,7 +16,7 @@
 	<!-- EN: Auto-load -->
   <AC.AutoLoad>Авто\nзагрузка</AC.AutoLoad>
 	<!-- EN: If active, haulers will automatically store this stack in a stack cache or neural matrix. -->
-  <AC.AutoLoadDesc>Если активно, носильщики будут автоматически помещать этот стэк в стэк-хранилище или нейронную матрицу.</AC.AutoLoadDesc>
+  <AC.AutoLoadDesc>Если активно, носильщики будут автоматически помещать этот нейростэк в стэк-хранилище или нейронную матрицу.</AC.AutoLoadDesc>
 	<!-- EN: Faction -->
   <AC.Faction>Фракция</AC.Faction>
 	<!-- EN: Childhood -->
@@ -26,25 +26,25 @@
 	<!-- EN: Chronological age -->
   <AC.AgeChronologicalTicks>Хронологический возраст</AC.AgeChronologicalTicks>
 	<!-- EN: Destroying stack:\nWARNING! You are about to destroy this stack. Are you sure you want to continue? -->
-  <AC.DestroyStackConfirmation>Уничтожить стэк?\nВНИМАНИЕ! Действие необратимо.</AC.DestroyStackConfirmation>
+  <AC.DestroyStackConfirmation>Уничтожить нейростэк?\nВНИМАНИЕ! Действие необратимо.</AC.DestroyStackConfirmation>
 	<!-- EN: {0} have a {1} chance of starting with a {2}. -->
   <AC.ScenPart_PawnsHaveNeuralStack>У {0} есть вероятность {1} начать с {2}。</AC.ScenPart_PawnsHaveNeuralStack>
 	<!-- EN: Sleeve with stack installed inside. -->
-  <AC.SleeveWithStack>Оболочка с установленным стэком.</AC.SleeveWithStack>
+  <AC.SleeveWithStack>Оболочка с установленным нейростэком.</AC.SleeveWithStack>
 	<!-- EN: {PAWN_nameDef} already has a neural stack installed! -->
-  <AC.PawnAlreadyHasStack>{PAWN_nameDef} уже имеет имплантированный стэк!</AC.PawnAlreadyHasStack>
+  <AC.PawnAlreadyHasStack>{PAWN_nameDef} уже имеет имплантированный нейростэк!</AC.PawnAlreadyHasStack>
 	<!-- EN: {PAWN_nameDef} already has an archotech stack installed! -->
   <AC.PawnAlreadyHasArchotechStack>{PAWN_nameDef}уже имеет имплантированный архостэк!</AC.PawnAlreadyHasArchotechStack>
 	<!-- EN: {PAWN_nameDef} already has an archotech stack installed! -->
   <AC.PawnStackCannotDowngrade>{PAWN_nameDef}уже имеет имплантированный архостэк!</AC.PawnStackCannotDowngrade>
 	<!-- EN: Cannot install neural stack - neck is missing or another implant is already present. -->
-  <AC.CannotInstallStackNeckIsMissingOrAnotherImplantInstalled>Установка стэка невозможна: отсутствует шея или уже установлен другой имплант.</AC.CannotInstallStackNeckIsMissingOrAnotherImplantInstalled>
+  <AC.CannotInstallStackNeckIsMissingOrAnotherImplantInstalled>Установка нейростэка невозможна: отсутствует шея или уже установлен другой имплант.</AC.CannotInstallStackNeckIsMissingOrAnotherImplantInstalled>
 	<!-- EN: Stack is already marked for implantation. -->
-  <AC.AlreadyMarkedForInstalling>Стэк уже назначен для имплантации.。</AC.AlreadyMarkedForInstalling>
+  <AC.AlreadyMarkedForInstalling>Нейростэк уже назначен для имплантации.</AC.AlreadyMarkedForInstalling>
 	<!-- EN: {PAWN_nameDef} has been overwritten by a neural stack. -->
-  <AC.PawnDiedOfImplantingStack>{PAWN_nameDef} был перезаписан стэком.</AC.PawnDiedOfImplantingStack>
+  <AC.PawnDiedOfImplantingStack>{PAWN_nameDef} был перезаписан нейростэком.</AC.PawnDiedOfImplantingStack>
 	<!-- EN: {0} has a neural stack implanted. -->
-  <AC.PawnHasNeutralStack>{0} имеет имплантированный стэк.</AC.PawnHasNeutralStack>
+  <AC.PawnHasNeutralStack>{0} имеет имплантированный нейростэк.</AC.PawnHasNeutralStack>
 	<!-- EN: {PAWN_nameDef} has died. -->
   <AC.PawnDiedOfErasingStack>{PAWN_nameDef} умер.</AC.PawnDiedOfErasingStack>
 
@@ -52,7 +52,7 @@
 	<!-- EN: Start needlecasting -->
   <AC.StartNeedlecasting>Начать игольный перенос</AC.StartNeedlecasting>
 	<!-- EN: Select a traget with a neural reciver to needlecast to. -->
-  <AC.StartNeedlecastingDesc>Выберите цель со стэком для игольного переноса.</AC.StartNeedlecastingDesc>
+  <AC.StartNeedlecastingDesc>Выберите цель с дистанционным стэком для игольного переноса.</AC.StartNeedlecastingDesc>
 	<!-- EN: End needlecasting -->
   <AC.EndNeedlecasting>Завершить игольный перенос</AC.EndNeedlecasting>
 	<!-- EN: End the current needlecasting connection. -->
@@ -92,16 +92,16 @@
 	<!-- EN: Caster has died. -->
   <AC.CasterHasDied>Пилот оболочки мертв</AC.CasterHasDied>
 	<!-- EN: Caster stack destroyed. -->
-  <AC.CasterStackDestroyed>Стэк пилота уничтожен</AC.CasterStackDestroyed>
+  <AC.CasterStackDestroyed>Нейростэк пилота уничтожен</AC.CasterStackDestroyed>
 	<!-- ================================ Extract Stacks ====================== -->
 	<!-- EN: Extract stack -->
-  <AC.DesignatorExtractStack>Извлечь стэк</AC.DesignatorExtractStack>
+  <AC.DesignatorExtractStack>Извлечь нейростэк</AC.DesignatorExtractStack>
 	<!-- EN: Extract stack -->
-  <AC.ExtractStack>Извлечь стэк</AC.ExtractStack>
+  <AC.ExtractStack>Извлечь нейростэк</AC.ExtractStack>
 	<!-- EN: Extract stacks from corpses. -->
-  <AC.DesignatorExtractStackDesc>Извлечь стэк из трупа</AC.DesignatorExtractStackDesc>
+  <AC.DesignatorExtractStackDesc>Извлечь нейростэк из трупа</AC.DesignatorExtractStackDesc>
 	<!-- EN: Must designate corpses with stacks installed. -->
-  <AC.MessageMustDesignateHasStack>Необходимо указать трупы с имплантированными стэками.</AC.MessageMustDesignateHasStack>
+  <AC.MessageMustDesignateHasStack>Необходимо указать трупы с имплантированными нейростэками.</AC.MessageMustDesignateHasStack>
 	<!-- ================================ Sleeves ====================== -->
 	<!-- EN: Empty sleeve -->
   <AC.EmptySleeve>Пустая оболочка</AC.EmptySleeve>
@@ -209,7 +209,7 @@
 	<!-- EN: Cancel repurposing corpse into a empty sleeve. -->
   <AC.CancelRepurposingCorpseDesc>Отменить создание оболочки на основе этого трупа.</AC.CancelRepurposingCorpseDesc>
 	<!-- EN: Neural stack must be removed first. -->
-  <AC.NeuralStackMustBeRemovedFirst>Сначала необходимо извлечь стэк.</AC.NeuralStackMustBeRemovedFirst>
+  <AC.NeuralStackMustBeRemovedFirst>Сначала необходимо извлечь нейростэк.</AC.NeuralStackMustBeRemovedFirst>
 	<!-- EN: Cannot repurpose corpse with missing head. -->
   <AC.CannotRepurposeCorspeWithoutHead>Невозможно создать оболочку из трупа без головы.</AC.CannotRepurposeCorspeWithoutHead>
 	<!-- EN: Saved Sleeve Design could not be fully loaded. Missing required xenogerm! -->
@@ -240,29 +240,29 @@
 	<!-- EN: Storage filters -->
   <AC.StorageFilters>Фильтры хранилища</AC.StorageFilters>
 	<!-- EN: *Allow colonist stacks -->
-  <AC.AllowColonistNeuralStacks>*Разрешить стэки поселенцев</AC.AllowColonistNeuralStacks>
+  <AC.AllowColonistNeuralStacks>*Разрешить нейростэки поселенцев</AC.AllowColonistNeuralStacks>
 	<!-- EN: *Allow stranger stacks -->
-  <AC.AllowStrangerNeuralStacks>*Разрешить стэки незнакомцев</AC.AllowStrangerNeuralStacks>
+  <AC.AllowStrangerNeuralStacks>*Разрешить нейростэки незнакомцев</AC.AllowStrangerNeuralStacks>
 	<!-- EN: *Allow hostile stacks -->
-  <AC.AllowHostileNeuralStacks>*Разрешить стэки врагов</AC.AllowHostileNeuralStacks>
+  <AC.AllowHostileNeuralStacks>*Разрешить нейростэки врагов</AC.AllowHostileNeuralStacks>
 	<!-- EN: Register {0} with the neural matrix. -->
   <AC.TooltipTrackStack>Зарегистрировать {0} в нейронной матрице.</AC.TooltipTrackStack>
 	<!-- EN: Implant {0} into an empty sleeve. The stack will stay registered with the neural matrix and will continue to be tracked. -->
-  <AC.TooltipImplantStack>Установить {0} в пустую оболочку. Стэк останется зарегистрирован в нейронной матрице и будет отслеживаться в дальнейшем.</AC.TooltipImplantStack>
+  <AC.TooltipImplantStack>Установить {0} в пустую оболочку. Нейростэк останется зарегистрирован в нейронной матрице и будет отслеживаться в дальнейшем.</AC.TooltipImplantStack>
 	<!-- EN: Drop stack onto the ground. The stack will stay registered with the neural matrix and will continue to be tracked. -->
-  <AC.TooltipRemoveStack>Выбросить стэк на землю. Стэк останется зарегистрирован в нейронной матрице и будет по-прежнему отслеживаться.</AC.TooltipRemoveStack>
+  <AC.TooltipRemoveStack>Выбросить нейростэк на землю. Нейростэк останется зарегистрирован в нейронной матрице и будет по-прежнему отслеживаться.</AC.TooltipRemoveStack>
 	<!-- EN: Unregister {0}. It will still be stored inside the neural matrix storage, but no longer be tracked. -->
   <AC.TooltipStopManaging>Прекратить отслеживание {0}. Он по-прежнему будет храниться в нейронной матрице, но больше не будет отслеживаться.</AC.TooltipStopManaging>
 	<!-- EN: Needlecast {0} into any sleeve with an installed neural reciver. The stack will not be removed from the neural matrix. -->
-  <AC.TooltipNeedlecast>Игольный перенос {0} в любую оболочку с установленным нейронным приемником. Стэк не удаляется из нейронной матрицы.</AC.TooltipNeedlecast>
+  <AC.TooltipNeedlecast>Игольный перенос {0} в любую оболочку с установленным нейронным приемником. Нейростэк не удаляется из нейронной матрицы.</AC.TooltipNeedlecast>
 	<!-- EN: Drop all contained stacks onto the ground. -->
-  <AC.EjectAllNeuralStacksDesc>Выбросить все хранящиеся стэки на землю.</AC.EjectAllNeuralStacksDesc>
+  <AC.EjectAllNeuralStacksDesc>Выбросить все хранящиеся нейростэки на землю.</AC.EjectAllNeuralStacksDesc>
 	<!-- EN: Eject this stack from the matrix. -->
-  <AC.EjectNeuralStackTooltip>Извлечь этот стэк из матрицы.</AC.EjectNeuralStackTooltip>
+  <AC.EjectNeuralStackTooltip>Извлечь этот нейростэк из матрицы.</AC.EjectNeuralStackTooltip>
 	<!-- EN: Do you really want to eject {0}? It will be immediately ejected onto the ground nearby. -->
   <AC.EjectNeuralStackConfirmation>Вы действительно хотите извлечь {0}? Он будет немедленно выброшен на землю.</AC.EjectNeuralStackConfirmation>
 	<!-- EN: Erase this neural stack irreversibly. -->
-  <AC.EraseNeuralStackTooltip>Необратимо стереть этот стэк.</AC.EraseNeuralStackTooltip>
+  <AC.EraseNeuralStackTooltip>Необратимо стереть этот нейростэк.</AC.EraseNeuralStackTooltip>
 	<!-- EN: Do you really want to erase {0}? It will be immediately destroyed. -->
   <AC.EraseNeuralStackConfirmation>Вы действительно хотите необратимо стереть {0}? Он будет немедленно уничтожен.</AC.EraseNeuralStackConfirmation>
 	<!-- EN: Contents -->
@@ -270,23 +270,23 @@
 	<!-- EN: Stacks stored: {0}/{1} -->
   <AC.NeuralStacksStored>Хранится стэков: {0} / {1}</AC.NeuralStacksStored>
 	<!-- EN: Stacks stored: {0} / {1} -->
-  <AC.StacksStored>Хранится стэков: {0} / {1}</AC.StacksStored>
+  <AC.StacksStored>Хранится нейростэков: {0} / {1}</AC.StacksStored>
 	<!-- EN: Stacks tracked: {0} -->
-  <AC.StacksTracked>Отслеживается стэков: {0}</AC.StacksTracked>
+  <AC.StacksTracked>Отслеживается нейростэков: {0}</AC.StacksTracked>
 	<!-- EN: Eject this stack from the stack cache. -->
-  <AC.EjectStackTooltip>Извлеките этот стэк из стэк-хранилища.</AC.EjectStackTooltip>
+  <AC.EjectStackTooltip>Извлеките этот нейростэк из стэк-хранилища.</AC.EjectStackTooltip>
 	<!-- EN: Do you really want to eject {0}? It will be immediately ejected onto the ground nearby. -->
   <AC.EjectStackConfirmation>Вы действительно хотите извлечь {0}? Он будет немедленно выброшен на землю.</AC.EjectStackConfirmation>
 	<!-- EN: Contents -->
   <AC.StackStorage>Склад</AC.StackStorage>
 	<!-- EN: Stacks stored: ({0}/{1}) -->
-  <AC.NeuralStacksInCache>Хранится стэков: {0} / {1}</AC.NeuralStacksInCache>
+  <AC.NeuralStacksInCache>Хранится нейростэков: {0} / {1}</AC.NeuralStacksInCache>
 	<!-- EN: *Allow colonist stacks -->
-  <AC.AllowColonistStacks>*Разрешить стэки поселенцев</AC.AllowColonistStacks>
+  <AC.AllowColonistStacks>*Разрешить нейростэки поселенцев</AC.AllowColonistStacks>
 	<!-- EN: *Allow stranger stacks -->
-  <AC.AllowStrangerStacks>*Разрешить стэки незнакомцев</AC.AllowStrangerStacks>
+  <AC.AllowStrangerStacks>*Разрешить нейростэки незнакомцев</AC.AllowStrangerStacks>
 	<!-- EN: *Allow hostile stacks -->
-  <AC.AllowHostileStacks>*Разрешить стэки врагов</AC.AllowHostileStacks>
+  <AC.AllowHostileStacks>*Разрешить нейростэки врагов</AC.AllowHostileStacks>
 	<!-- EN: Status -->
   <AC.Status>Состояние</AC.Status>
 	<!-- EN: Tracked -->
@@ -310,7 +310,7 @@
 	<!-- EN: Low conscioussness -->
   <AC.LowConscioussness>Низкое сознание</AC.LowConscioussness>
 	<!-- EN: Stack Information -->
-  <AC.StackInformation>Информация о стэке</AC.StackInformation>
+  <AC.StackInformation>Информация о нейростэке</AC.StackInformation>
 	<!-- EN: Currently Status -->
   <AC.CurrentlyStatus>Текущее состояние</AC.CurrentlyStatus>
 	<!-- EN: Original Gender -->
@@ -318,7 +318,7 @@
 	<!-- EN: Needlecasting range -->
   <AC.NeedlecastingRange>Дальность игольного переноса</AC.NeedlecastingRange>
 	<!-- EN: Stack Degradation: {0} -->
-  <AC.StackDegradation>Деградация стэка：{0}</AC.StackDegradation>
+  <AC.StackDegradation>Деградация нейростэка：{0}</AC.StackDegradation>
 	<!-- EN: Eject all -->
   <AC.EjectAll>Извлечь все</AC.EjectAll>
 	<!-- EN: Colonists -->
@@ -336,9 +336,9 @@
 	<!-- EN: Local only -->
   <AC.LocalOnly>Только локальные</AC.LocalOnly>
 	<!-- EN: Stack Configuration -->
-  <AC.StackConfiguration>Настройка стэка</AC.StackConfiguration>
+  <AC.StackConfiguration>Настройка нейростэка</AC.StackConfiguration>
 	<!-- EN: Autobank Stack -->
-  <AC.AutobankStack>Автохранение стэка</AC.AutobankStack>
+  <AC.AutobankStack>Автохранение нейростэка</AC.AutobankStack>
 	<!-- EN: Stop needlecasting {0} into {1}. -->
   <AC.TooltipStopNeedlecasting>Остановить игольный перенос {0} в {1}.</AC.TooltipStopNeedlecasting>
 	<!-- EN: Cancel implanting {0} into {1}. -->
@@ -350,13 +350,13 @@
 	<!-- EN: False -->
   <AC.False>Нет</AC.False>
 	<!-- EN: Relationships of {0} unavailable. \n\nStack must be sleeved or needlecasting to show relationships. -->
-  <AC.RelationshipsUnavailable>Отношения с {0} недоступны.\n\nСтэк должен быть в оболочке или совершать игольный перенос для отображения взаимоотношений.</AC.RelationshipsUnavailable>
+  <AC.RelationshipsUnavailable>Отношения с {0} недоступны.\n\nНейростэк должен быть в оболочке или совершать игольный перенос для отображения взаимоотношений.</AC.RelationshipsUnavailable>
 	<!-- EN: Needs of {0} unavailable. \n\nStack must be sleeved or needlecasting to show needs. -->
-  <AC.NeedsUnavailable>Нужды с {0} недоступны.\n\nСтэк должен быть в оболочке или совершать игольный перенос для отображения нужд.</AC.NeedsUnavailable>
+  <AC.NeedsUnavailable>Нужды с {0} недоступны.\n\nНейростэк должен быть в оболочке или совершать игольный перенос для отображения нужд.</AC.NeedsUnavailable>
 	<!-- EN: No stacks currently registered -->
-  <AC.NoStacksRegistered>Сейчас нет зарегистрированных стэков.</AC.NoStacksRegistered>
+  <AC.NoStacksRegistered>Сейчас нет зарегистрированных нейростэков.</AC.NoStacksRegistered>
 	<!-- EN: No untracked stacks stored -->
-  <AC.NoUntrackedStacksStored>Не сохранено ни одного неотслеживаемого стэка</AC.NoUntrackedStacksStored>
+  <AC.NoUntrackedStacksStored>Не сохранено ни одного неотслеживаемого нейростэка</AC.NoUntrackedStacksStored>
 	<!-- EN: tile -->
   <AC.Tile>Клеток (на карте мира)</AC.Tile>
 	<!-- EN: Tune this casting relay to a neural matrix. Tuning will take {0} to complete. -->
@@ -402,23 +402,23 @@
 	<!-- EN: Warning: The stack you are trying to factory reset does not belong to your faction.
 
 If you erase the content from a non-colonist stack from another faction, their entire faction may become your enemy. -->
-  <AC.WipingFriendlyStackWarning>Внимание: стирание стэка чужой фракции может сделать её враждебной.</AC.WipingFriendlyStackWarning>
+  <AC.WipingFriendlyStackWarning>Внимание: стирание нейростэка чужой фракции может сделать её враждебной.</AC.WipingFriendlyStackWarning>
 	<!-- EN: Warning: The stack you are trying to duplicate does not belong to your faction.
 
 If you make a copy of the content from a non-colonist stack from another faction, their entire faction may become your enemy. -->
-  <AC.DuplicatingFriendlyStackWarning>Внимание: копирование стэка чужой фракции может сделать её враждебной.</AC.DuplicatingFriendlyStackWarning>
+  <AC.DuplicatingFriendlyStackWarning>Внимание: копирование нейростэка чужой фракции может сделать её враждебной.</AC.DuplicatingFriendlyStackWarning>
 	<!-- EN: The stack you are trying to edit does not belong to your faction.
 
 If you edit the content from a non-colonist stack from another faction, their entire faction may become your enemy. -->
-  <AC.EditingFriendlyStackWarning>Внимание: редактирование стэка чужой фракции может сделать её враждебной.</AC.EditingFriendlyStackWarning>
+  <AC.EditingFriendlyStackWarning>Внимание: редактирование нейростэка чужой фракции может сделать её враждебной.</AC.EditingFriendlyStackWarning>
 	<!-- EN: This stack is set for reseting already on a neural editor. Remove the bill in order to add new operation on it. -->
-  <AC.AlreadyOrderedToWipeStack>Этот стэк уже настроен на сброс в нейронном редакторе. Удалите задание, чтобы добавить к нему новую операцию.</AC.AlreadyOrderedToWipeStack>
+  <AC.AlreadyOrderedToWipeStack>Этот нейростэк уже настроен на сброс в нейронном редакторе. Удалите задание, чтобы добавить к нему новую операцию.</AC.AlreadyOrderedToWipeStack>
 	<!-- EN: This stack is set for editing already on a neural editor. Remove the bill in order to add new operation on it. -->
-  <AC.AlreadyOrderedToEditStack>Этот стэк уже настроен на редактирование в нейронном редакторе. Удалите задание, чтобы добавить к нему новую операцию.</AC.AlreadyOrderedToEditStack>
+  <AC.AlreadyOrderedToEditStack>Этот нейростэк уже настроен на редактирование в нейронном редакторе. Удалите задание, чтобы добавить к нему новую операцию.</AC.AlreadyOrderedToEditStack>
 	<!-- EN: This stack is set for duplicating already on a neural editor. Remove the bill in order to add new operation on it. -->
-  <AC.AlreadyOrderedToDuplicateStack>Этот стэк уже настроен на копирование в нейронном редакторе. Удалите задание, чтобы добавить к нему новую операцию.</AC.AlreadyOrderedToDuplicateStack>
+  <AC.AlreadyOrderedToDuplicateStack>Этот нейростэк уже настроен на копирование в нейронном редакторе. Удалите задание, чтобы добавить к нему новую операцию.</AC.AlreadyOrderedToDuplicateStack>
 	<!-- EN: This stack is set for restoring already on a neural editor. Remove the bill in order to add new operation on it. -->
-  <AC.AlreadyOrderedToRestoreStack>Этот стэк уже настроен на восстановление в нейронном редакторе. Удалите задание, чтобы добавить к нему новую операцию.</AC.AlreadyOrderedToRestoreStack>
+  <AC.AlreadyOrderedToRestoreStack>Этот нейростэк уже настроен на восстановление в нейронном редакторе. Удалите задание, чтобы добавить к нему новую операцию.</AC.AlreadyOrderedToRestoreStack>
 	<!-- EN: This biocoded thing is set for resetting already on a neural editor. Remove the bill in order to add new operation on it. -->
   <AC.AlreadyOrderedToResetBiocodedThing>Эта биокодированная вещь уже настроена на сброс в нейронном редакторе. Удалите задание, чтобы добавить к нему новую операцию.</AC.AlreadyOrderedToResetBiocodedThing>
 	<!-- EN: This persona weapon is set for unbounding already on a neural editor. Remove the bill in order to add new operation on it. -->
@@ -432,9 +432,9 @@ If you edit the content from a non-colonist stack from another faction, their en
 	<!-- EN: Unbonding persona weapon: Successful! {0} is unbound. -->
   <AC.UnbondingPersonaSuccess>Сброс связи успешен: {0} связь сброшена!</AC.UnbondingPersonaSuccess>
 	<!-- EN: Edit Neural Stack -->
-  <AC.EditNeuralStack>Редактировать стэк</AC.EditNeuralStack>
+  <AC.EditNeuralStack>Редактировать нейростэк</AC.EditNeuralStack>
 	<!-- EN: Neural Stacks feature advanced encryption to prevent outside forces from messing with the stored consciousness. Known exploits allow for some data to be edited and rewritten at the cost of stack degradation. -->
-  <AC.NeuralStackEditExplanation>Стэки оснащены усовершенствованным шифрованием, предотвращающим вмешательство внешних сил в сохраненное сознание. Известные эксплойты позволяют редактировать и переписывать некоторые данные за счет деградации стэка.</AC.NeuralStackEditExplanation>
+  <AC.NeuralStackEditExplanation>Нейростэки оснащены усовершенствованным шифрованием, предотвращающим вмешательство внешних сил в сохраненное сознание. Известные эксплойты позволяют редактировать и переписывать некоторые данные за счет деградации стэка.</AC.NeuralStackEditExplanation>
 	<!-- EN: Backstories -->
   <AC.Backstories>Предыстория</AC.Backstories>
 	<!-- EN: No disabled work types -->
@@ -456,37 +456,33 @@ If you edit the content from a non-colonist stack from another faction, their en
 	<!-- EN: Total time to edit: {0} -->
   <AC.TotalTimeToEdit>Время редактирования: {0}</AC.TotalTimeToEdit>
 	<!-- EN: Expected stack degradation: {0} -->
-  <AC.TotalStackDegradation>Деградация стэка: {0}</AC.TotalStackDegradation>
+  <AC.TotalStackDegradation>Деградация нейростэка: {0}</AC.TotalStackDegradation>
 	<!-- EN: WARNING: The more you edit, the higher the stack degradation will be, causing the stored pawns neurallity to become more and more unstable. Stack degradation will go away over time after being installed in a body, but can take years. -->
-  <AC.Tutorial>ВНИМАНИЕ: Чем больше изменений, тем сильнее деградация стэка, что может привести к нестабильности личности. Деградация со временем снижается после установки в тело, но может занять годы.</AC.Tutorial>
+  <AC.Tutorial>ВНИМАНИЕ: Чем больше изменений, тем сильнее деградация нейростэка, что может привести к нестабильности личности. Деградация со временем снижается после установки в тело, но может занять годы.</AC.Tutorial>
 	<!-- EN: Reset all -->
   <AC.ResetAll>Сбросить все</AC.ResetAll>
 	<!-- EN: Stack degradation: {0} -->
-  <AC.StackDegradation>Деградация стэка: {0}</AC.StackDegradation>
+  <AC.StackDegradation>Деградация нейростэка: {0}</AC.StackDegradation>
 	<!-- EN: Start editing -->
   <AC.StartEditing>Начать редактирование</AC.StartEditing>
 	<!-- EN: Cancel stack reset -->
-  <AC.CancelStackReset>Отменить сброс стэка</AC.CancelStackReset>
+  <AC.CancelStackReset>Отменить сброс нейростэка</AC.CancelStackReset>
 	<!-- EN: Cancel reseting neural stack. -->
-  <AC.CancelStackResetDesc>Отменить сброс стэка.</AC.CancelStackResetDesc>
+  <AC.CancelStackResetDesc>Отменить сброс нейростэка.</AC.CancelStackResetDesc>
 	<!-- EN: Cancel stack edit -->
-  <AC.CancelStackEdit>Отменить редактирование стэка</AC.CancelStackEdit>
+  <AC.CancelStackEdit>Отменить редактирование нейростэка</AC.CancelStackEdit>
 	<!-- EN: Cancel editing neural stack. -->
-  <AC.CancelStackEditDesc>Отменить редактирование стэка.</AC.CancelStackEditDesc>
+  <AC.CancelStackEditDesc>Отменить редактирование нейростэка.</AC.CancelStackEditDesc>
 	<!-- EN: Cancel stack duplication -->
-  <AC.CancelStackDuplication>Отменить копирование стэка</AC.CancelStackDuplication>
+  <AC.CancelStackDuplication>Отменить копирование нейростэка</AC.CancelStackDuplication>
 	<!-- EN: Cancel stack duplicating. -->
-  <AC.CancelStackDuplicationDesc>Отменить копирование стэка.</AC.CancelStackDuplicationDesc>
+  <AC.CancelStackDuplicationDesc>Отменить копирование нейростэка.</AC.CancelStackDuplicationDesc>
 	<!-- EN: Cancel biocoding reset. -->
   <AC.CancelBiocodingReset>Отменить сброс биокодирования</AC.CancelBiocodingReset>
 	<!-- EN: Cancel reseting biocoded thing. -->
   <AC.CancelBiocodingResetDesc>Отменить сброс биокодирования</AC.CancelBiocodingResetDesc>
 	<!-- EN: {PAWN_nameDef} successfully duplicated neural stack. -->
-  <AC.SuccessfullyDuplicatedStack>{PAWN_nameDef} скопировал стэк.</AC.SuccessfullyDuplicatedStack>
-	<!-- EN: Cancel stack duplication -->
-  <AC.CancelStackDuplication>Отменить копирование стэка</AC.CancelStackDuplication>
-	<!-- EN: Cancel duplication of stored neural stack. -->
-  <AC.CancelStackDuplicationDesc>Отменить копирование стэка.</AC.CancelStackDuplicationDesc>
+  <AC.SuccessfullyDuplicatedStack>{PAWN_nameDef} скопировал нейростэк.</AC.SuccessfullyDuplicatedStack>
 	<!-- EN: Cannot {0} while needlecasting. -->
   <AC.CannotModifyWhileNeedlecasting>Невозможно {0} во время игольного переноса.</AC.CannotModifyWhileNeedlecasting>
 	<!-- EN: Cancel unbound persona. -->
@@ -497,7 +493,7 @@ If you edit the content from a non-colonist stack from another faction, their en
 	<!-- EN: Enable Stack Spawning -->
   <AC.EnableStackSpawning>Разрешить появление поселенцев со стэками</AC.EnableStackSpawning>
 	<!-- EN: If disabled, Neural Stacks and Archostacks will NOT spawn on any pawns. You can still craft them, get them as rewards or trade for them. -->
-  <AC.EnableStackSpawningDesc>Если отключено, стэки и архостэки не будут появляться у поселенцев. Вы по-прежнему сможете создавать, получать в награду или покупать их.</AC.EnableStackSpawningDesc>
+  <AC.EnableStackSpawningDesc>Если отключено, нейростэки и архостэки не будут появляться у поселенцев. Вы по-прежнему сможете создавать, получать в награду или покупать их.</AC.EnableStackSpawningDesc>
 	<!-- EN: Enable techstack requirements in research projects -->
   <AC.EnableTechstackRequirement>Требование к технологическому уровню для исследования</AC.EnableTechstackRequirement>
 	<!-- EN: Only affects Royalty owners! -->
@@ -511,54 +507,54 @@ If you edit the content from a non-colonist stack from another faction, their en
 	<!-- EN: Multiplicator of the overall neutroamine cost needed to grow a new sleeve. -->
   <AC.CostToGrowSleeveMultiplierDesc>Множитель расхода нейтроамина на выращивание новой оболочки.</AC.CostToGrowSleeveMultiplierDesc>
 	<!-- EN: Enable Stack Degradation -->
-  <AC.EnableStackDegradation>Разрешить деградацию стэков</AC.EnableStackDegradation>
+  <AC.EnableStackDegradation>Разрешить деградацию нейростэков</AC.EnableStackDegradation>
 	<!-- EN: If disabled, Neural Stacks can be edited to your heart's content without having to worry about stack degradation. -->
-  <AC.EnableStackDegradationDesc>Если отключено, редактирование стэков не будет приводить к их деградации.</AC.EnableStackDegradationDesc>
+  <AC.EnableStackDegradationDesc>Если отключено, редактирование нейростэков не будет приводить к их деградации.</AC.EnableStackDegradationDesc>
 	<!-- EN: Stack editing time gain multiplier: -->
-  <AC.StackEditEditTimeValueMultiplier>Множитель времени редактирования стэка:</AC.StackEditEditTimeValueMultiplier>
+  <AC.StackEditEditTimeValueMultiplier>Множитель времени редактирования нейростэка:</AC.StackEditEditTimeValueMultiplier>
 	<!-- EN: Multiplicator of the overall stack editing time. -->
-  <AC.StackEditEditTimeValueMultiplierDesc>Множитель общего времени редактирования стэка.</AC.StackEditEditTimeValueMultiplierDesc>
+  <AC.StackEditEditTimeValueMultiplierDesc>Множитель общего времени редактирования нейростэка.</AC.StackEditEditTimeValueMultiplierDesc>
 	<!-- EN: Stack Degradation gain multiplier: -->
-  <AC.StackEditDegradationValueMultiplier>Множитель деградации стэка:</AC.StackEditDegradationValueMultiplier>
+  <AC.StackEditDegradationValueMultiplier>Множитель деградации нейростэка:</AC.StackEditDegradationValueMultiplier>
 	<!-- EN: Multiplies the overall stack degradation that is accumulated through editing. -->
-  <AC.StackEditDegradationValueMultiplierDesc>Множитель степени деградации стэка при редактировании.</AC.StackEditDegradationValueMultiplierDesc>
+  <AC.StackEditDegradationValueMultiplierDesc>Множитель степени деградации нейростэка при редактировании.</AC.StackEditDegradationValueMultiplierDesc>
 	<!-- EN: Enable Archo Stack editing -->
   <AC.EnableArchostackEditing>Разрешить редактировать архостэк</AC.EnableArchostackEditing>
 	<!-- EN: Allows you to edit the content of Archo Stacks. -->
   <AC.EnableArchostackEditingDesc>Позволяет вам редактировать содержимое архостэка.</AC.EnableArchostackEditingDesc>
 	<!-- EN: Colonist stack needs extracting. -->
-  <AC.ColonistStackNeedsExtracting>Необходимо извлечь стэк поселенца.</AC.ColonistStackNeedsExtracting>
+  <AC.ColonistStackNeedsExtracting>Необходимо извлечь нейростэк поселенца.</AC.ColonistStackNeedsExtracting>
 	<!-- EN: These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue.) -->
  <AC.ColonistStackNeedsExtractingDesc>Эти поселенцы недееспособны:\n\n{0}\nОтправьте другого поселенца для спасения и переноса в постель.</AC.ColonistStackNeedsExtractingDesc>
 	<!-- EN: Sleeve death doesn't cause gear to be tainted -->
   <AC.SleeveDeathDoesNotCauseGearTainting>Смерть оболочки не влияет на одежду</AC.SleeveDeathDoesNotCauseGearTainting>
 	<!-- EN: Selling neural stacks can create duplicates -->
-  <AC.EnableSoldNeuralStacksCreatingPawnDuplicates>Продажа стэков может привести к появлению их дубликатов</AC.EnableSoldNeuralStacksCreatingPawnDuplicates>
+  <AC.EnableSoldNeuralStacksCreatingPawnDuplicates>Продажа нейростэков может привести к появлению их дубликатов</AC.EnableSoldNeuralStacksCreatingPawnDuplicates>
 	<!-- EN: text.todo -->
-  <AC.EnableSoldNeuralStacksCreatingPawnDuplicatesDesc>Продажа стэков может привести к появлению их копий в игровом мире.</AC.EnableSoldNeuralStacksCreatingPawnDuplicatesDesc>
+  <AC.EnableSoldNeuralStacksCreatingPawnDuplicatesDesc>Продажа нейростэков может привести к появлению их копий в игровом мире.</AC.EnableSoldNeuralStacksCreatingPawnDuplicatesDesc>
 	<!-- EN: Enable neural stacks spawning in ancient dangers -->
-  <AC.EnableNeuralStacksInAncientDangers>Разрешить стэкам, появляться в древних опасностях</AC.EnableNeuralStacksInAncientDangers>
+  <AC.EnableNeuralStacksInAncientDangers>Разрешить нейростэкам, появляться в древних опасностях</AC.EnableNeuralStacksInAncientDangers>
 	<!-- EN: text.todo -->
-  <AC.EnableNeuralStacksInAncientDangersDesc>Стэки и архостэки можно найти в древних опасностях.</AC.EnableNeuralStacksInAncientDangersDesc>
+  <AC.EnableNeuralStacksInAncientDangersDesc>Нейростэки и архостэки можно найти в древних опасностях.</AC.EnableNeuralStacksInAncientDangersDesc>
 	<!-- ================================ Warnings ====================== -->
 	<!-- EN: Cannot install stacks into androids without a neural module. -->
-  <AC.CannotInstallStackOnAndroidWithoutNeuralModule>Невозможно установить стэки в андроиды без нейронного модуля.</AC.CannotInstallStackOnAndroidWithoutNeuralModule>
+  <AC.CannotInstallStackOnAndroidWithoutNeuralModule>Невозможно установить нейростэки в андроиды без нейронного модуля.</AC.CannotInstallStackOnAndroidWithoutNeuralModule>
 	<!-- EN: Cannot install an empty stack into an empty sleeve. -->
-  <AC.CannotInstallEmptyStackInEmptySleeve>Невозможно установить пустой стэк в пустую оболочку.</AC.CannotInstallEmptyStackInEmptySleeve>
+  <AC.CannotInstallEmptyStackInEmptySleeve>Невозможно установить пустой нейростэк в пустую оболочку.</AC.CannotInstallEmptyStackInEmptySleeve>
 	<!-- EN: Cannot install stacks into this race: {0}. -->
-  <AC.CannotInstallStackInBodyOfThisRace>Невозможно установить стэк в эту расу: {0}.</AC.CannotInstallStackInBodyOfThisRace>
+  <AC.CannotInstallStackInBodyOfThisRace>Невозможно установить нейростэк в эту расу: {0}.</AC.CannotInstallStackInBodyOfThisRace>
 	<!-- EN: Cannot install stacks into non-humanlikes. -->
-  <AC.CannotInstallStackInNonHumanlikes>Невозможно установить стэк в негуманоидов.</AC.CannotInstallStackInNonHumanlikes>
+  <AC.CannotInstallStackInNonHumanlikes>Невозможно установить нейростэк в негуманоидов.</AC.CannotInstallStackInNonHumanlikes>
 	<!-- EN: Cannot install an active stack into children. -->
-  <AC.CannotInstallActiveStackInChildren>Невозможно установить активный стэк в ребёнка.</AC.CannotInstallActiveStackInChildren>
+  <AC.CannotInstallActiveStackInChildren>Невозможно установить активный нейростэк в ребёнка.</AC.CannotInstallActiveStackInChildren>
 	<!-- EN: Cannot install stack: Already has a stack installed. -->
-  <AC.CannotInstallAlreadyHaveStack>Невозможно установить: стэк уже установлен.</AC.CannotInstallAlreadyHaveStack>
+  <AC.CannotInstallAlreadyHaveStack>Невозможно установить: нейростэк уже установлен.</AC.CannotInstallAlreadyHaveStack>
 	<!-- EN: requires artifical parent part -->
   <AC.RequiresArtificalParentPart>Требуется искусственный родительский компонент</AC.RequiresArtificalParentPart>
 	<!-- EN: Cannot implant: Remot stack present. -->
-  <AC.CannotInstallNeuralStackWithRemoteStack>Невозможно установить стэк при наличии дистанционного стэка.</AC.CannotInstallNeuralStackWithRemoteStack>
+  <AC.CannotInstallNeuralStackWithRemoteStack>Невозможно установить нейростэк при наличии дистанционного стэка.</AC.CannotInstallNeuralStackWithRemoteStack>
 	<!-- EN: Cannot implant: Stack present. -->
-  <AC.CannotInstallRemoteStackWithNeuralStack>Невозможно установить дистанционный стэк при наличии стэка.</AC.CannotInstallRemoteStackWithNeuralStack>
+  <AC.CannotInstallRemoteStackWithNeuralStack>Невозможно установить дистанционный стэк при наличии нейростэка.</AC.CannotInstallRemoteStackWithNeuralStack>
 	<!-- EN: {PAWN_nameDef} has no sleeve. -->
   <AC.PawnHasNoSleeve>{PAWN_nameDef} не имеет оболочки.</AC.PawnHasNoSleeve>
 	<!-- ================================ Mental Fuse ====================== -->
@@ -572,15 +568,15 @@ If you edit the content from a non-colonist stack from another faction, their en
   <AC.MentalFuseTraumaText>Срабатывание ментального предохранителя {PAWN_nameDef} вызвало необратимое повреждение мозга. В результате у {PAWN_objective} развились странные способности, подобные способностям саванта.</AC.MentalFuseTraumaText>
 	<!-- ================================ Neural Connector ====================== -->
 	<!-- EN: Requires neural stack installed. -->
-  <AC.RequiresNeuralStackInstalled>Требуется установить стэк.</AC.RequiresNeuralStackInstalled>
+  <AC.RequiresNeuralStackInstalled>Требуется установить нейростэк.</AC.RequiresNeuralStackInstalled>
 	<!-- EN: Create neural stack -->
-  <AC.CreateNeuralStack>Создать стэк</AC.CreateNeuralStack>
+  <AC.CreateNeuralStack>Создать нейростэк</AC.CreateNeuralStack>
 	<!-- EN: Create skilltrainer -->
   <AC.CreateSkilltrainer>Создать нейротренер навыка</AC.CreateSkilltrainer>
 	<!-- EN: Not sufficient skill levels -->
   <AC.NotSufficientSkillLevels>Недостаточный уровень навыка</AC.NotSufficientSkillLevels>
 	<!-- EN: Creating neural stack completed for {PAWN_nameDef}. -->
-  <AC.CreatingNeuralStackCompleted>Создание стэка поселенцем {PAWN_nameDef} завершено.</AC.CreatingNeuralStackCompleted>
+  <AC.CreatingNeuralStackCompleted>Создание нейростэка поселенцем {PAWN_nameDef} завершено.</AC.CreatingNeuralStackCompleted>
 	<!-- EN: Creating skilltrainer completed for {PAWN_nameDef}. {PAWN_nameDef}'s brain has been destroyed by the neural connector. -->
   <AC.CreatingSkilltrainerCompleted>Создание нейротренера навыка поселенцем {PAWN_nameDef} завершено. Мозг поселенца {PAWN_nameDef} был уничтожен.</AC.CreatingSkilltrainerCompleted>
 	<!-- EN: Scanning {PAWN_nameDef} to create a skilltrainer will kill {PAWN_objective}. Are you sure you want to continue?
@@ -593,15 +589,15 @@ Scanning {PAWN_nameDef} will create a skilltrainer for one of the following skil
 	<!-- EN: Already registered selected the neural matrix -->
   <AC.AlreadyRegisteredToMatrix>Уже зарегистрирован в нейронной матрице</AC.AlreadyRegisteredToMatrix>
 	<!-- EN: Stack of {PAWN_nameDef} successfully registered with neural matrix. -->
-  <AC.RegisteringStackCompleted>Стэк поселенца {PAWN_nameDef} успешно зарегистрирован в нейронной матрице.</AC.RegisteringStackCompleted>
+  <AC.RegisteringStackCompleted>Нейростэк поселенца {PAWN_nameDef} успешно зарегистрирован в нейронной матрице.</AC.RegisteringStackCompleted>
 	<!-- EN: Register stack -->
-  <AC.RegisterStack>Зарегистрировать стэк</AC.RegisterStack>
+  <AC.RegisterStack>Зарегистрировать нейростэк</AC.RegisterStack>
 	<!-- EN: {PAWN_nameDef}'s brain has been destroyed by the neural connector. -->
   <AC.MessagePawnKilledNeuralConnector>Мозг поселенца {PAWN_nameDef} был уничтожен нейронным коннектором.</AC.MessagePawnKilledNeuralConnector>
 	<!-- EN: Creating skilltrainer from {PAWN_nameDef} -->
   <AC.CreatingSkillTrainer>Создаётся нейротренер навыка из {PAWN_nameDef}.</AC.CreatingSkillTrainer>
 	<!-- EN: Registering stack of {PAWN_nameDef} -->
-  <AC.RegisteringStack>Регистрация стэка {PAWN_nameDef}</AC.RegisteringStack>
+  <AC.RegisteringStack>Регистрация нейростэка {PAWN_nameDef}</AC.RegisteringStack>
 	<!-- ================================ Biocoding ====================== -->
 	<!-- EN: Once imprinted to a user, the weapon can not be used by anyone else until its biocoding is reset again. Are you sure you want to equip this time? -->
 	<AC.BiocodableEquipWarning>Оружие будет привязано к этому поселенцу с помощью биокодирования. Другие не смогут им пользоваться, пока привязка не будет снята. Продолжить?</AC.BiocodableEquipWarning>

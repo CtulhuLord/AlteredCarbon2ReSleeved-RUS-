@@ -2,17 +2,17 @@
 <LanguageData>
   
   <!-- EN: Install arm-blade -->
-  <AC_InstallRogianArmBlade.label>安装手臂镰刀</AC_InstallRogianArmBlade.label>
+  <AC_InstallRogianArmBlade.label>Установить клинок богомола</AC_InstallRogianArmBlade.label>
   <!-- EN: Install an arm-blade. -->
-  <AC_InstallRogianArmBlade.description>安装手臂镰刀。</AC_InstallRogianArmBlade.description>
+  <AC_InstallRogianArmBlade.description>Установить клинок богомола.</AC_InstallRogianArmBlade.description>
   <!-- EN: Installing arm-blade. -->
-  <AC_InstallRogianArmBlade.jobString>正在安装手臂镰刀。</AC_InstallRogianArmBlade.jobString>
+  <AC_InstallRogianArmBlade.jobString>Устанавливает клинок богомола.</AC_InstallRogianArmBlade.jobString>
   
   <!-- EN: remove arm-blade -->
-  <AC_RemoveRogianArmBlade.label>移除手臂镰刀</AC_RemoveRogianArmBlade.label>
+  <AC_RemoveRogianArmBlade.label>Удалить клинок богомола</AC_RemoveRogianArmBlade.label>
   <!-- EN: Remove arm-blade. -->
-  <AC_RemoveRogianArmBlade.description>移除手臂镰刀。</AC_RemoveRogianArmBlade.description>
+  <AC_RemoveRogianArmBlade.description>Удалить клинок богомола.</AC_RemoveRogianArmBlade.description>
   <!-- EN: Removing arm-blade. -->
-  <AC_RemoveRogianArmBlade.jobString>正在移除手臂镰刀。</AC_RemoveRogianArmBlade.jobString>
+  <AC_RemoveRogianArmBlade.jobString>Удаляет клинок богомола.</AC_RemoveRogianArmBlade.jobString>
   
 </LanguageData>

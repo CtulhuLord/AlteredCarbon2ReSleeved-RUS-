@@ -2,45 +2,45 @@
 <LanguageData>
   
   <!-- EN: install mono arm-blade -->
-  <AC_InstallRogianArmBlade_Mono.label>安装单分子手臂镰刀</AC_InstallRogianArmBlade_Mono.label>
+  <AC_InstallRogianArmBlade_Mono.label>Установить моноклинок богомола</AC_InstallRogianArmBlade_Mono.label>
   <!-- EN: Install a mono-arm-blade. -->
-  <AC_InstallRogianArmBlade_Mono.description>安装单分子手臂镰刀。</AC_InstallRogianArmBlade_Mono.description>
+  <AC_InstallRogianArmBlade_Mono.description>Установить моноклинок богомола.</AC_InstallRogianArmBlade_Mono.description>
   <!-- EN: Installing mono arm-blade. -->
-  <AC_InstallRogianArmBlade_Mono.jobString>正在安装单分子手臂镰刀。</AC_InstallRogianArmBlade_Mono.jobString>
+  <AC_InstallRogianArmBlade_Mono.jobString>Устанавливает моноклинок богомола.</AC_InstallRogianArmBlade_Mono.jobString>
   
   <!-- EN: install plasma arm-blade -->
-  <AC_InstallRogianArmBlade_Plasma.label>安装等离子手臂镰刀</AC_InstallRogianArmBlade_Plasma.label>
+  <AC_InstallRogianArmBlade_Plasma.label>Установить плазмоклинок богомола</AC_InstallRogianArmBlade_Plasma.label>
   <!-- EN: Install a plasma-arm blade. -->
-  <AC_InstallRogianArmBlade_Plasma.description>安装等离子手臂镰刀。</AC_InstallRogianArmBlade_Plasma.description>
+  <AC_InstallRogianArmBlade_Plasma.description>Установить плазмоклинок богомола.</AC_InstallRogianArmBlade_Plasma.description>
   <!-- EN: Installing plasma-arm blade. -->
-  <AC_InstallRogianArmBlade_Plasma.jobString>正在安装等离子手臂镰刀。</AC_InstallRogianArmBlade_Plasma.jobString>
+  <AC_InstallRogianArmBlade_Plasma.jobString>Устанавливает плазмоклинок богомола.</AC_InstallRogianArmBlade_Plasma.jobString>
   
   <!-- EN: install zeus arm-blade -->
-  <AC_InstallRogianArmBlade_Zeus.label>安装宙斯手臂镰刀</AC_InstallRogianArmBlade_Zeus.label>
+  <AC_InstallRogianArmBlade_Zeus.label>Установить электроклинок богомола</AC_InstallRogianArmBlade_Zeus.label>
   <!-- EN: Install a zeus arm-blade. -->
-  <AC_InstallRogianArmBlade_Zeus.description>安装宙斯手臂镰刀。</AC_InstallRogianArmBlade_Zeus.description>
+  <AC_InstallRogianArmBlade_Zeus.description>Установить электроклинок богомола.</AC_InstallRogianArmBlade_Zeus.description>
   <!-- EN: Installing zeus arm-blade. -->
-  <AC_InstallRogianArmBlade_Zeus.jobString>正在安装宙斯手臂镰刀。</AC_InstallRogianArmBlade_Zeus.jobString>
+  <AC_InstallRogianArmBlade_Zeus.jobString>Устанавливает электроклинок богомола.</AC_InstallRogianArmBlade_Zeus.jobString>
   
   <!-- EN: remove mono arm-blade -->
-  <AC_RemoveRogianArmBlade_Mono.label>移除单分子手臂镰刀</AC_RemoveRogianArmBlade_Mono.label>
+  <AC_RemoveRogianArmBlade_Mono.label>Удалить моноклинок богомола</AC_RemoveRogianArmBlade_Mono.label>
   <!-- EN: Remove mono arm-blade. -->
-  <AC_RemoveRogianArmBlade_Mono.description>移除单分子手臂镰刀。</AC_RemoveRogianArmBlade_Mono.description>
+  <AC_RemoveRogianArmBlade_Mono.description>Удалить моноклинок богомола.</AC_RemoveRogianArmBlade_Mono.description>
   <!-- EN: Removing mono arm-blade. -->
-  <AC_RemoveRogianArmBlade_Mono.jobString>正在移除单分子手臂镰刀。</AC_RemoveRogianArmBlade_Mono.jobString>
+  <AC_RemoveRogianArmBlade_Mono.jobString>Удаляет моноклинок богомола.</AC_RemoveRogianArmBlade_Mono.jobString>
   
   <!-- EN: remove plasma arm-blade -->
-  <AC_RemoveRogianArmBlade_Plasma.label>移除等离子手臂镰刀</AC_RemoveRogianArmBlade_Plasma.label>
+  <AC_RemoveRogianArmBlade_Plasma.label>Удалить плазмоклинок богомола</AC_RemoveRogianArmBlade_Plasma.label>
   <!-- EN: Remove plasma arm-blade. -->
-  <AC_RemoveRogianArmBlade_Plasma.description>移除等离子手臂镰刀。</AC_RemoveRogianArmBlade_Plasma.description>
+  <AC_RemoveRogianArmBlade_Plasma.description>Удалить плазмоклинок богомола.</AC_RemoveRogianArmBlade_Plasma.description>
   <!-- EN: Removing plasma arm-blade. -->
-  <AC_RemoveRogianArmBlade_Plasma.jobString>正在移除等离子手臂镰刀。</AC_RemoveRogianArmBlade_Plasma.jobString>
+  <AC_RemoveRogianArmBlade_Plasma.jobString>Удаляет плазмоклинок богомола.</AC_RemoveRogianArmBlade_Plasma.jobString>
   
   <!-- EN: remove zeus arm-blade -->
-  <AC_RemoveRogianArmBlade_Zeus.label>移除宙斯手臂镰刀</AC_RemoveRogianArmBlade_Zeus.label>
+  <AC_RemoveRogianArmBlade_Zeus.label>Удалить электроклинок богомола</AC_RemoveRogianArmBlade_Zeus.label>
   <!-- EN: Remove zeus arm-blade. -->
-  <AC_RemoveRogianArmBlade_Zeus.description>移除宙斯手臂镰刀。</AC_RemoveRogianArmBlade_Zeus.description>
+  <AC_RemoveRogianArmBlade_Zeus.description>Удалить электроклинок богомола.</AC_RemoveRogianArmBlade_Zeus.description>
   <!-- EN: Removing zeus arm-blade. -->
-  <AC_RemoveRogianArmBlade_Zeus.jobString>正在移除宙斯手臂镰刀。</AC_RemoveRogianArmBlade_Zeus.jobString>
+  <AC_RemoveRogianArmBlade_Zeus.jobString>Удаляет электроклинок богомола.</AC_RemoveRogianArmBlade_Zeus.jobString>
   
 </LanguageData>

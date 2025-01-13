@@ -2,17 +2,17 @@
 <LanguageData>
   
   <!-- EN: install neural receiver -->
-  <AC_InstallRemoteStack.label>安装神经接收器</AC_InstallRemoteStack.label>
+  <AC_InstallRemoteStack.label>Установить дистанционный стэк</AC_InstallRemoteStack.label>
   <!-- EN: Install a neural receiver. -->
-  <AC_InstallRemoteStack.description>安装神经接收器。</AC_InstallRemoteStack.description>
+  <AC_InstallRemoteStack.description>Установить дистанционный стэк.</AC_InstallRemoteStack.description>
   <!-- EN: Installing neural receiver. -->
-  <AC_InstallRemoteStack.jobString>正在安装神经接收器。</AC_InstallRemoteStack.jobString>
+  <AC_InstallRemoteStack.jobString>Устанавливает дистанционный стэк.</AC_InstallRemoteStack.jobString>
   
   <!-- EN: remove neural receiver -->
-  <AC_RemoveRemoteStack.label>移除神经接收器</AC_RemoveRemoteStack.label>
+  <AC_RemoveRemoteStack.label>Извлечь дистанционный стэк</AC_RemoveRemoteStack.label>
   <!-- EN: Remove neural receiver. -->
-  <AC_RemoveRemoteStack.description>移除神经接收器。</AC_RemoveRemoteStack.description>
+  <AC_RemoveRemoteStack.description>Извлечь дистанционный стэк.</AC_RemoveRemoteStack.description>
   <!-- EN: Removing neural receiver. -->
-  <AC_RemoveRemoteStack.jobString>正在移除神经接收器。</AC_RemoveRemoteStack.jobString>
+  <AC_RemoveRemoteStack.jobString>Извлекает дистанционный стэк.</AC_RemoveRemoteStack.jobString>
   
 </LanguageData>

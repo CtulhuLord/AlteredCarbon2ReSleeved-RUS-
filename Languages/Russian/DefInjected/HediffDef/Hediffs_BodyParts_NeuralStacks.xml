@@ -2,10 +2,10 @@
 <LanguageData>
   
   <!-- EN: Neural stack -->
-  <AC_NeuralStack.label>стэк</AC_NeuralStack.label>
+  <AC_NeuralStack.label>нейростэк</AC_NeuralStack.label>
   <!-- EN: An installed neural stack. -->
-  <AC_NeuralStack.description>Установленный стэк.</AC_NeuralStack.description>
+  <AC_NeuralStack.description>Установленный нейростэк.</AC_NeuralStack.description>
   <!-- EN: A neural stack -->
-  <AC_NeuralStack.labelNoun>стэк</AC_NeuralStack.labelNoun>
+  <AC_NeuralStack.labelNoun>нейростэк</AC_NeuralStack.labelNoun>
   
 </LanguageData>

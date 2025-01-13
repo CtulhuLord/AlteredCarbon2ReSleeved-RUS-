@@ -4,7 +4,7 @@
   <!-- EN: empty sleeve -->
   <AC_EmptySleeve.label>пустая оболочка</AC_EmptySleeve.label>
   <!-- EN: An empty sleeve. -->
-  <AC_EmptySleeve.description>пустая оболочка.</AC_EmptySleeve.description>
+  <AC_EmptySleeve.description>Это пустая оболочка.</AC_EmptySleeve.description>
   <!-- EN: empty -->
   <AC_EmptySleeve.stages.empty.label>пусто</AC_EmptySleeve.stages.empty.label>
   

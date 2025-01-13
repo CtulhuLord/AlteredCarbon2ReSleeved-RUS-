@@ -2,45 +2,45 @@
 <LanguageData>
   
   <!-- EN: install dreamcatcher -->
-  <AC_InstallDreamcatcher.label>安装捕梦者</AC_InstallDreamcatcher.label>
+  <AC_InstallDreamcatcher.label>Установить ловец снов</AC_InstallDreamcatcher.label>
   <!-- EN: Install a dreamcatcher. -->
-  <AC_InstallDreamcatcher.description>安装捕梦者。</AC_InstallDreamcatcher.description>
+  <AC_InstallDreamcatcher.description>Установить ловец снов.</AC_InstallDreamcatcher.description>
   <!-- EN: Installing dreamcatcher. -->
-  <AC_InstallDreamcatcher.jobString>正在安装捕梦者。</AC_InstallDreamcatcher.jobString>
+  <AC_InstallDreamcatcher.jobString>Устанавливает ловец снов.</AC_InstallDreamcatcher.jobString>
   
   <!-- EN: install mental fuse -->
-  <AC_InstallMentalFuse.label>安装心灵保险丝</AC_InstallMentalFuse.label>
+  <AC_InstallMentalFuse.label>Установить ментальный предохранитель</AC_InstallMentalFuse.label>
   <!-- EN: Install a mental fuse. -->
-  <AC_InstallMentalFuse.description>安装心灵保险丝。</AC_InstallMentalFuse.description>
+  <AC_InstallMentalFuse.description>Установить ментальный предохранитель.</AC_InstallMentalFuse.description>
   <!-- EN: Installing mental fuse. -->
-  <AC_InstallMentalFuse.jobString>正在安装心灵保险丝。</AC_InstallMentalFuse.jobString>
+  <AC_InstallMentalFuse.jobString>Устанавливает ментальный предохранитель.</AC_InstallMentalFuse.jobString>
   
   <!-- EN: install voice synthesizer -->
-  <AC_InstallVoiceSynthesizer.label>安装声音合成器</AC_InstallVoiceSynthesizer.label>
+  <AC_InstallVoiceSynthesizer.label>Установить голосовой синтезатор</AC_InstallVoiceSynthesizer.label>
   <!-- EN: Install a voice synthesizer. -->
-  <AC_InstallVoiceSynthesizer.description>安装声音合成器。</AC_InstallVoiceSynthesizer.description>
+  <AC_InstallVoiceSynthesizer.description>Установить голосовой синтезатор.</AC_InstallVoiceSynthesizer.description>
   <!-- EN: Installing voice synthesizer. -->
-  <AC_InstallVoiceSynthesizer.jobString>正在安装声音合成器。</AC_InstallVoiceSynthesizer.jobString>
+  <AC_InstallVoiceSynthesizer.jobString>Устанавливает голосовой синтезатор.</AC_InstallVoiceSynthesizer.jobString>
   
   <!-- EN: remove dreamcatcher -->
-  <AC_RemoveDreamcatcher.label>移除捕梦者</AC_RemoveDreamcatcher.label>
+  <AC_RemoveDreamcatcher.label>Удалить ловец снов</AC_RemoveDreamcatcher.label>
   <!-- EN: Remove dreamcatcher. -->
-  <AC_RemoveDreamcatcher.description>移除捕梦者。</AC_RemoveDreamcatcher.description>
+  <AC_RemoveDreamcatcher.description>Удалить ловец снов.</AC_RemoveDreamcatcher.description>
   <!-- EN: Removing dreamcatcher. -->
-  <AC_RemoveDreamcatcher.jobString>正在移除捕梦者。</AC_RemoveDreamcatcher.jobString>
+  <AC_RemoveDreamcatcher.jobString>Удаляет ловец снов.</AC_RemoveDreamcatcher.jobString>
   
   <!-- EN: remove mental fuse -->
-  <AC_RemoveMentalFuse.label>移除心灵保险丝</AC_RemoveMentalFuse.label>
+  <AC_RemoveMentalFuse.label>Удалить</AC_RemoveMentalFuse.label>
   <!-- EN: Remove mental fuse. -->
-  <AC_RemoveMentalFuse.description>移除心灵保险丝。</AC_RemoveMentalFuse.description>
+  <AC_RemoveMentalFuse.description>Удалить ментальный предохранитель.</AC_RemoveMentalFuse.description>
   <!-- EN: Removing mental fuse. -->
-  <AC_RemoveMentalFuse.jobString>正在移除心灵保险丝。</AC_RemoveMentalFuse.jobString>
+  <AC_RemoveMentalFuse.jobString>Удаляет ментальный предохранитель.</AC_RemoveMentalFuse.jobString>
   
   <!-- EN: remove voice synthesizer -->
-  <AC_RemoveVoiceSynthesizer.label>移除声音合成器</AC_RemoveVoiceSynthesizer.label>
+  <AC_RemoveVoiceSynthesizer.label>Удалить</AC_RemoveVoiceSynthesizer.label>
   <!-- EN: Remove voice synthesizer. -->
-  <AC_RemoveVoiceSynthesizer.description>移除声音合成器。</AC_RemoveVoiceSynthesizer.description>
+  <AC_RemoveVoiceSynthesizer.description>Удалить голосовой синтезатор.</AC_RemoveVoiceSynthesizer.description>
   <!-- EN: Removing voice synthesizer. -->
-  <AC_RemoveVoiceSynthesizer.jobString>正在移除声音合成器。</AC_RemoveVoiceSynthesizer.jobString>
+  <AC_RemoveVoiceSynthesizer.jobString>Удаляет голосовой синтезатор.</AC_RemoveVoiceSynthesizer.jobString>
   
 </LanguageData>

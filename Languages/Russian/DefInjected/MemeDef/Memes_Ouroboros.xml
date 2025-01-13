@@ -60,15 +60,15 @@
     <li>memeMoralist->этерналист</li>
   </AC_Ouroboros.generalRules.rulesStrings>
   <!-- EN: technologistic -->
-  <AC_Ouroboros.symbolPacks.0.adjective>Технологистик</AC_Ouroboros.symbolPacks.0.adjective>
+  <AC_Ouroboros.symbolPacks.0.adjective>Технологический</AC_Ouroboros.symbolPacks.0.adjective>
   <!-- EN: Technologism -->
   <AC_Ouroboros.symbolPacks.0.ideoName>Технологизм</AC_Ouroboros.symbolPacks.0.ideoName>
   <!-- EN: technologist -->
-  <AC_Ouroboros.symbolPacks.0.member>Технологист</AC_Ouroboros.symbolPacks.0.member>
+  <AC_Ouroboros.symbolPacks.0.member>Технолог</AC_Ouroboros.symbolPacks.0.member>
   <!-- EN: technology -->
   <AC_Ouroboros.symbolPacks.0.theme>Технология</AC_Ouroboros.symbolPacks.0.theme>
   <!-- EN: progressist -->
-  <AC_Ouroboros.symbolPacks.1.adjective>Прогрессист</AC_Ouroboros.symbolPacks.1.adjective>
+  <AC_Ouroboros.symbolPacks.1.adjective>Прогрессистский</AC_Ouroboros.symbolPacks.1.adjective>
   <!-- EN: Progressism -->
   <AC_Ouroboros.symbolPacks.1.ideoName>Прогрессизм</AC_Ouroboros.symbolPacks.1.ideoName>
   <!-- EN: progressor -->
@@ -76,19 +76,19 @@
   <!-- EN: progress -->
   <AC_Ouroboros.symbolPacks.1.theme>Прогресс</AC_Ouroboros.symbolPacks.1.theme>
   <!-- EN: automatist -->
-  <AC_Ouroboros.symbolPacks.2.adjective>Автоматист</AC_Ouroboros.symbolPacks.2.adjective>
+  <AC_Ouroboros.symbolPacks.2.adjective>Автоматический</AC_Ouroboros.symbolPacks.2.adjective>
   <!-- EN: Automatism -->
   <AC_Ouroboros.symbolPacks.2.ideoName>Автоматизм</AC_Ouroboros.symbolPacks.2.ideoName>
   <!-- EN: automator -->
-  <AC_Ouroboros.symbolPacks.2.member>Автоматор</AC_Ouroboros.symbolPacks.2.member>
+  <AC_Ouroboros.symbolPacks.2.member>Автоматизатор</AC_Ouroboros.symbolPacks.2.member>
   <!-- EN: automata -->
-  <AC_Ouroboros.symbolPacks.2.theme>Автомата</AC_Ouroboros.symbolPacks.2.theme>
+  <AC_Ouroboros.symbolPacks.2.theme>Автоматизация</AC_Ouroboros.symbolPacks.2.theme>
   <!-- EN: augmentist -->
-  <AC_Ouroboros.symbolPacks.3.adjective>Аугментист</AC_Ouroboros.symbolPacks.3.adjective>
+  <AC_Ouroboros.symbolPacks.3.adjective>Аугментистский</AC_Ouroboros.symbolPacks.3.adjective>
   <!-- EN: Augmentism -->
   <AC_Ouroboros.symbolPacks.3.ideoName>Аугментизм</AC_Ouroboros.symbolPacks.3.ideoName>
   <!-- EN: augmentor -->
-  <AC_Ouroboros.symbolPacks.3.member>Аугментор</AC_Ouroboros.symbolPacks.3.member>
+  <AC_Ouroboros.symbolPacks.3.member>Аугментатор</AC_Ouroboros.symbolPacks.3.member>
   <!-- EN: augmentation -->
   <AC_Ouroboros.symbolPacks.3.theme>Аугментация</AC_Ouroboros.symbolPacks.3.theme>
   

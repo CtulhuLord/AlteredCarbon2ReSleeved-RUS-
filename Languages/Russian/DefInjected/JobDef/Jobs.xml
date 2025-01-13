@@ -11,10 +11,10 @@
   <AC_ChargeCuirassierBelt.reportString>Заряжает кавалерийский пояс.</AC_ChargeCuirassierBelt.reportString>
   
   <!-- EN: extracts neural stack from target. -->
-  <AC_ExtractStack.reportString>Извлекает стэк из цели.</AC_ExtractStack.reportString>
+  <AC_ExtractStack.reportString>Извлекает нейростэк из цели.</AC_ExtractStack.reportString>
   
   <!-- EN: hauling TargetA to gestator. -->
-  <AC_HaulCorpseToGestation.reportString>Относит TargetA в инкубатор.</AC_HaulCorpseToGestation.reportString>
+  <AC_HaulCorpseToGestation.reportString>Относит труп TargetA в инкубатор оболочек.</AC_HaulCorpseToGestation.reportString>
   
   <!-- EN: releasing sleeve from gestator. -->
   <AC_ReleaseSleeve.reportString>Извлекает оболочку из инкубатора.</AC_ReleaseSleeve.reportString>

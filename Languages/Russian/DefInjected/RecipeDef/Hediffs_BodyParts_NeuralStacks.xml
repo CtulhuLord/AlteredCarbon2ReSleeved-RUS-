@@ -2,24 +2,24 @@
 <LanguageData>
   
   <!-- EN: install empty neural stack -->
-  <AC_InstallEmptyNeuralStack.label>植入空白神经堆叠</AC_InstallEmptyNeuralStack.label>
+  <AC_InstallEmptyNeuralStack.label>Установить пустой нейростэк</AC_InstallEmptyNeuralStack.label>
   <!-- EN: Install an empty neural stack. -->
-  <AC_InstallEmptyNeuralStack.description>植入空白神经堆叠。</AC_InstallEmptyNeuralStack.description>
+  <AC_InstallEmptyNeuralStack.description>Установить пустой нейростэк.</AC_InstallEmptyNeuralStack.description>
   <!-- EN: Installing neural stack. -->
-  <AC_InstallEmptyNeuralStack.jobString>正在植入空白神经堆叠。</AC_InstallEmptyNeuralStack.jobString>
+  <AC_InstallEmptyNeuralStack.jobString>Устанавливает пустой нейростэк.</AC_InstallEmptyNeuralStack.jobString>
   
   <!-- EN: install active neural stack -->
-  <AC_InstallNeuralStack.label>植入神经堆叠</AC_InstallNeuralStack.label>
+  <AC_InstallNeuralStack.label>Установить пустой нейростэк</AC_InstallNeuralStack.label>
   <!-- EN: Install a neural stack. -->
-  <AC_InstallNeuralStack.description>植入神经堆叠。</AC_InstallNeuralStack.description>
+  <AC_InstallNeuralStack.description>Установить пустой нейростэк.</AC_InstallNeuralStack.description>
   <!-- EN: Installing neural stack. -->
-  <AC_InstallNeuralStack.jobString>正在植入神经堆叠。</AC_InstallNeuralStack.jobString>
+  <AC_InstallNeuralStack.jobString>Устанавливает пустой нейростэк.</AC_InstallNeuralStack.jobString>
   
   <!-- EN: remove neural stack -->
-  <AC_RemoveNeuralStack.label>移除神经堆叠</AC_RemoveNeuralStack.label>
+  <AC_RemoveNeuralStack.label>Извлечь нейростэк</AC_RemoveNeuralStack.label>
   <!-- EN: Remove neural stack. -->
-  <AC_RemoveNeuralStack.description>移除神经堆叠。</AC_RemoveNeuralStack.description>
+  <AC_RemoveNeuralStack.description>Извлечь нейростэк.</AC_RemoveNeuralStack.description>
   <!-- EN: Removing neural stack. -->
-  <AC_RemoveNeuralStack.jobString>正在移除神经堆叠。</AC_RemoveNeuralStack.jobString>
+  <AC_RemoveNeuralStack.jobString>Извлекает нейростэк.</AC_RemoveNeuralStack.jobString>
   
 </LanguageData>

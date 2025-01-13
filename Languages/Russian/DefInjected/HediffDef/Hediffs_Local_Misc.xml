@@ -11,14 +11,14 @@
   <!-- EN: crypto stasis -->
   <AC_CryptoStasis.label>крипто-стазис</AC_CryptoStasis.label>
   <!-- EN: Active effect of the sleeve caskets suspension systems. -->
-  <AC_CryptoStasis.description>Активное действие саркофага криптосна по приостановке систем</AC_CryptoStasis.description>
+  <AC_CryptoStasis.description>Состояние криптостазиса, вызванное системами криптосаркофага.</AC_CryptoStasis.description>
   <!-- EN: crypto stasis -->
   <AC_CryptoStasis.labelNoun>крипто-стазис</AC_CryptoStasis.labelNoun>
   
   <!-- EN: deterioration -->
   <AC_Deterioration.label>деградация</AC_Deterioration.label>
   <!-- EN: A deterioration. -->
-  <AC_Deterioration.description>Деградация.</AC_Deterioration.description>
+  <AC_Deterioration.description>Состояние деградации.</AC_Deterioration.description>
   <!-- EN: a deterioration -->
   <AC_Deterioration.labelNoun>деградация</AC_Deterioration.labelNoun>
   <!-- EN: {0} in the {1} -->
@@ -32,8 +32,10 @@
   <AC_PainProtection.labelNoun>подавление боли</AC_PainProtection.labelNoun>
   
   <!-- EN: scanning sickness -->
-  <AC_ScanningSickness.label>сканирующая болезнь</AC_ScanningSickness.label>
+  <AC_ScanningSickness.label>болезнь сканирования</AC_ScanningSickness.label>
   <!-- EN: This person was scanned by a neural connector, which has caused light disturbances in the neural stack connection to their brain, which will take time to resolve themselves. There won't be any long-term damage. -->
-  <AC_ScanningSickness.description>Этот человек был просканирован нейронным коннектором, что вызвало небольшие нарушения в соединении стэка с его мозгом, которые со временем пройдут сами по себе. Долгосрочных повреждений не будет.</AC_ScanningSickness.description>
+  <AC_ScanningSickness.description>Этот человек был просканирован нейронным коннектором, что вызвало небольшие нарушения в соединении нейростэка с его мозгом, которые со временем пройдут сами по себе. Долгосрочных повреждений не будет.</AC_ScanningSickness.description>
+	<!-- EN: scanning sickness -->
+	<AC_ScanningSickness.labelNoun>болезнь сканирования</AC_ScanningSickness.labelNoun>
   
 </LanguageData>

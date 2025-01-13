@@ -2,31 +2,32 @@
 <LanguageData>
   
   <!-- EN: Reset biocoding -->
-  <AC_ResetBiocodedThings.label>重置生物编码</AC_ResetBiocodedThings.label>
+  <AC_ResetBiocodedThings.label>Сбросить биокодировку</AC_ResetBiocodedThings.label>
   <!-- EN: Reset biocoded equipment to factory settings, allowing for bonding with a new person.\n\nIf unsuccessful, the item may break. -->
-  <AC_ResetBiocodedThings.description>将生物编码装备重置为出厂设定，允许与新的人物结合。\n\n如果失败，该物品将会被摧毁。</AC_ResetBiocodedThings.description>
+	<AC_ResetBiocodedThings.description>Сбросить биокодирование до заводских настроек, позволяя установить связь с новым владельцем.\n\nВ случае неудачи предмет может сломаться.</AC_ResetBiocodedThings.description>
   <!-- EN: Resetting biocoded things. -->
-  <AC_ResetBiocodedThings.jobString>重置生物编码物品。</AC_ResetBiocodedThings.jobString>
+	<AC_ResetBiocodedThings.jobString>Сбрасывает биокодировку.</AC_ResetBiocodedThings.jobString>
   
   <!-- EN: Shred neural stack -->
-  <AC_ShredNeuralStacks.label>粉碎神经堆叠</AC_ShredNeuralStacks.label>
+  <AC_ShredNeuralStacks.label>Разобрать нейростэк</AC_ShredNeuralStacks.label>
   <!-- EN: Shred a neural stack to try to salvage usable material. -->
-  <AC_ShredNeuralStacks.description>粉碎神经堆叠并尝试从中提取有用的材料。</AC_ShredNeuralStacks.description>
+  <AC_ShredNeuralStacks.description>Разобрать нейростэк, чтобы попытаться извлечь пригодные материалы.</AC_ShredNeuralStacks.description>
   <!-- EN: Shredding neural stack. -->
-  <AC_ShredNeuralStacks.jobString>粉碎神经堆叠。</AC_ShredNeuralStacks.jobString>
-  
-  <!-- EN: Smash neural stack -->
-  <AC_SmashNeuralStacks.label>砸碎神经堆叠</AC_SmashNeuralStacks.label>
+  <AC_ShredNeuralStacks.jobString>Разбирает нейростэк.</AC_ShredNeuralStacks.jobString>
+
+	<!-- EN: Smash neural stack -->
+  <AC_SmashNeuralStacks.label>Разбить нейростэк</AC_SmashNeuralStacks.label>
   <!-- EN: Smash a neural stack with simple hand tools to salvage usable material. -->
-  <AC_SmashNeuralStacks.description>使用简单的手工工具砸碎神经堆叠，并尝试从中提取有用的材料。</AC_SmashNeuralStacks.description>
+  <AC_SmashNeuralStacks.description>Разбить нейростэк с помощью простых ручных инструментов, чтобы извлечь пригодные материалы.</AC_SmashNeuralStacks.description>
   <!-- EN: Smashing neural stack. -->
-  <AC_SmashNeuralStacks.jobString>砸碎神经堆叠。</AC_SmashNeuralStacks.jobString>
-  
-  <!-- EN: Unbound persona -->
-  <AC_UnboundPersona.label>解除绑定人格</AC_UnboundPersona.label>
+  <AC_SmashNeuralStacks.jobString>Разбивает нейростэк.</AC_SmashNeuralStacks.jobString>
+
+
+	<!-- EN: Unbound persona -->
+  <AC_UnboundPersona.label>Сбросить связь оружия</AC_UnboundPersona.label>
   <!-- EN: Unbound a persona weapon from their current user, allowing for bonding with a new person.\n\nIf unsuccessful, the item may break. -->
-  <AC_UnboundPersona.description>解除当前人物与人格武器的绑定状态，使其允许与新人物绑定\n\n如果失败，该物品将会被摧毁。</AC_UnboundPersona.description>
-  <!-- EN: Unbounding persona. -->
-  <AC_UnboundPersona.jobString>解除绑定人格。</AC_UnboundPersona.jobString>
+  <AC_UnboundPersona.description>Сбросить связь оружия с личностью от текущего пользователя, позволяя установить связь с новым владельцем.\n\nВ случае неудачи предмет может сломаться.</AC_UnboundPersona.description>
+	<!-- EN: Unbounding persona. -->
+  <AC_UnboundPersona.jobString>Сбрасывает связь оружия.</AC_UnboundPersona.jobString>
   
 </LanguageData>
