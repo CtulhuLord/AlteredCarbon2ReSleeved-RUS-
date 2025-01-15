@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: laboratory room -->
-  <AC_Laboratory.label>实验室</AC_Laboratory.label>
+  <AC_Laboratory.label>Лаборатория</AC_Laboratory.label>
   
   <!-- EN: Neural control room -->
-  <AC_NeuralControl.label>神经控制室</AC_NeuralControl.label>
+  <AC_NeuralControl.label>Центр нейрокоммуникаций</AC_NeuralControl.label>
   
 </LanguageData>

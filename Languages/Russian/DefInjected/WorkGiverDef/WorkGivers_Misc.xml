@@ -2,73 +2,73 @@
 <LanguageData>
   
   <!-- EN: Cancel gestating process -->
-  <AC_CancelGestationProcess.label>取消培养程序</AC_CancelGestationProcess.label>
+  <AC_CancelGestationProcess.label>Отменить выращивание</AC_CancelGestationProcess.label>
   <!-- EN: canceling gestating process at -->
-  <AC_CancelGestationProcess.gerund>正在取消培养程序于</AC_CancelGestationProcess.gerund>
+  <AC_CancelGestationProcess.gerund>Отмена выращивания</AC_CancelGestationProcess.gerund>
   <!-- EN: cancel gestating process -->
-  <AC_CancelGestationProcess.verb>取消培养程序</AC_CancelGestationProcess.verb>
+  <AC_CancelGestationProcess.verb>Отменить выращивание</AC_CancelGestationProcess.verb>
   
   <!-- EN: Cancel repurposing body -->
-  <AC_CancelRepurposingBody.label>取消身体再利用</AC_CancelRepurposingBody.label>
+  <AC_CancelRepurposingBody.label>Отменить переработку в оболочку</AC_CancelRepurposingBody.label>
   <!-- EN: canceling repurposing body at -->
-  <AC_CancelRepurposingBody.gerund>正在取消身体再利用于</AC_CancelRepurposingBody.gerund>
+  <AC_CancelRepurposingBody.gerund>Отмена переработки в оболочку</AC_CancelRepurposingBody.gerund>
   <!-- EN: cancel repurposing body -->
-  <AC_CancelRepurposingBody.verb>取消身体再利用</AC_CancelRepurposingBody.verb>
+  <AC_CancelRepurposingBody.verb>Отменить переработку в оболочку</AC_CancelRepurposingBody.verb>
   
   <!-- EN: carry to neural connector -->
-  <AC_CarryToNeuralConnector.label>搬运至神经连接器</AC_CarryToNeuralConnector.label>
+  <AC_CarryToNeuralConnector.label>Перенести к нейроконнектору</AC_CarryToNeuralConnector.label>
   <!-- EN: carrying -->
-  <AC_CarryToNeuralConnector.gerund>正在搬运中</AC_CarryToNeuralConnector.gerund>
+  <AC_CarryToNeuralConnector.gerund>Перенос к нейроконнектору</AC_CarryToNeuralConnector.gerund>
   <!-- EN: carry -->
-  <AC_CarryToNeuralConnector.verb>搬运</AC_CarryToNeuralConnector.verb>
+  <AC_CarryToNeuralConnector.verb>Перенести к нейроконнектору</AC_CarryToNeuralConnector.verb>
   
   <!-- EN: Neural editing -->
-  <AC_DoNeuralEditing.label>神经编辑</AC_DoNeuralEditing.label>
+  <AC_DoNeuralEditing.label>Нейроредактирование</AC_DoNeuralEditing.label>
   <!-- EN: neural editing at -->
-  <AC_DoNeuralEditing.gerund>神经编辑于</AC_DoNeuralEditing.gerund>
+  <AC_DoNeuralEditing.gerund>Нейроредактирование</AC_DoNeuralEditing.gerund>
   <!-- EN: neural editing -->
-  <AC_DoNeuralEditing.verb>神经编辑</AC_DoNeuralEditing.verb>
+  <AC_DoNeuralEditing.verb>Нейроредактирование</AC_DoNeuralEditing.verb>
   
   <!-- EN: enter neural connector -->
-  <AC_EnterNeuralConnector.label>进入神经连接器</AC_EnterNeuralConnector.label>
+  <AC_EnterNeuralConnector.label>Войти в нейроконнектор</AC_EnterNeuralConnector.label>
   <!-- EN: entering -->
-  <AC_EnterNeuralConnector.gerund>正在进入中</AC_EnterNeuralConnector.gerund>
+  <AC_EnterNeuralConnector.gerund>Вход в нейроконнектор</AC_EnterNeuralConnector.gerund>
   <!-- EN: enter -->
-  <AC_EnterNeuralConnector.verb>进入</AC_EnterNeuralConnector.verb>
+  <AC_EnterNeuralConnector.verb>Войти в нейроконнектор</AC_EnterNeuralConnector.verb>
   
   <!-- EN: Extracting stack -->
-  <AC_ExtractStack.label>提取堆叠</AC_ExtractStack.label>
+  <AC_ExtractStack.label>Извлечь стэк</AC_ExtractStack.label>
   <!-- EN: extracting stack -->
-  <AC_ExtractStack.gerund>正在提取堆叠中</AC_ExtractStack.gerund>
+  <AC_ExtractStack.gerund>Извлечение стэка</AC_ExtractStack.gerund>
   <!-- EN: extract stack -->
-  <AC_ExtractStack.verb>提取堆叠</AC_ExtractStack.verb>
+  <AC_ExtractStack.verb>Извлечь стэк</AC_ExtractStack.verb>
   
   <!-- EN: Haul corpse to sleeve grower -->
-  <AC_HaulCorpseToSleeveGrower.label>搬运尸体至义体培养舱</AC_HaulCorpseToSleeveGrower.label>
+  <AC_HaulCorpseToSleeveGrower.label>Перенести труп к инкубатору оболочек</AC_HaulCorpseToSleeveGrower.label>
   <!-- EN: hauling corpse to -->
-  <AC_HaulCorpseToSleeveGrower.gerund>正在搬运尸体至</AC_HaulCorpseToSleeveGrower.gerund>
+  <AC_HaulCorpseToSleeveGrower.gerund>Перенос трупа к инкубатору оболочек</AC_HaulCorpseToSleeveGrower.gerund>
   <!-- EN: haul corpse to -->
-  <AC_HaulCorpseToSleeveGrower.verb>搬运尸体至</AC_HaulCorpseToSleeveGrower.verb>
+  <AC_HaulCorpseToSleeveGrower.verb>Перенести труп к инкубатору оболочек</AC_HaulCorpseToSleeveGrower.verb>
   
   <!-- EN: Haul stacks -->
-  <AC_HaulNeuralStacksToStorage.label>搬运堆叠</AC_HaulNeuralStacksToStorage.label>
+  <AC_HaulNeuralStacksToStorage.label>Перенести нейростэки в хранилице</AC_HaulNeuralStacksToStorage.label>
   <!-- EN: banking -->
-  <AC_HaulNeuralStacksToStorage.gerund>正在搬运堆叠</AC_HaulNeuralStacksToStorage.gerund>
+  <AC_HaulNeuralStacksToStorage.gerund>Перенос нейростэков в хранилице</AC_HaulNeuralStacksToStorage.gerund>
   <!-- EN: bank -->
-  <AC_HaulNeuralStacksToStorage.verb>搬运堆叠</AC_HaulNeuralStacksToStorage.verb>
+  <AC_HaulNeuralStacksToStorage.verb>Перенести нейростэки в хранилице</AC_HaulNeuralStacksToStorage.verb>
   
   <!-- EN: Haul resources to neural connector -->
-  <AC_HaulToNeuralConnector.label>搬运资源到神经连接器</AC_HaulToNeuralConnector.label>
+  <AC_HaulToNeuralConnector.label>Перенести ресурсы к нейроконнектору</AC_HaulToNeuralConnector.label>
   <!-- EN: hauling to -->
-  <AC_HaulToNeuralConnector.gerund>正在搬运到</AC_HaulToNeuralConnector.gerund>
+  <AC_HaulToNeuralConnector.gerund>Перенос ресурсов к нейроконнектору</AC_HaulToNeuralConnector.gerund>
   <!-- EN: haul to -->
-  <AC_HaulToNeuralConnector.verb>搬运到</AC_HaulToNeuralConnector.verb>
+  <AC_HaulToNeuralConnector.verb>Перенести ресурсы к нейроконнектору</AC_HaulToNeuralConnector.verb>
   
   <!-- EN: Start gestating process -->
-  <AC_StartGestationProcess.label>启动培养程序</AC_StartGestationProcess.label>
+  <AC_StartGestationProcess.label>Начать выращивание</AC_StartGestationProcess.label>
   <!-- EN: starting gestating process at -->
-  <AC_StartGestationProcess.gerund>正在培养程序于</AC_StartGestationProcess.gerund>
+  <AC_StartGestationProcess.gerund>Начало выращивания</AC_StartGestationProcess.gerund>
   <!-- EN: start gestating process -->
-  <AC_StartGestationProcess.verb>培养程序</AC_StartGestationProcess.verb>
+  <AC_StartGestationProcess.verb>Начать выращивание</AC_StartGestationProcess.verb>
   
 </LanguageData>

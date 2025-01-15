@@ -4,14 +4,14 @@
   <!-- EN: Duplicate stack -->
   <AC_DuplicateNeuralStack.label>Копировать нейростэк</AC_DuplicateNeuralStack.label>
   <!-- EN: Duplicate the content of an active neural stack, effectively creating a "clone" or "duplicate" of the consciousness stored on the original stack. -->
-  <AC_DuplicateNeuralStack.description>>Копировать содержимое активного нейростэка, создавая «клон» или «дубликат» сознания, хранящегося в исходном стэке.</AC_DuplicateNeuralStack.description>
+  <AC_DuplicateNeuralStack.description>>Копировать содержимое активного стэка, создавая «клон» или «дубликат» сознания, хранящегося в исходном стэке.</AC_DuplicateNeuralStack.description>
   <!-- EN: Duplicating stack. -->
   <AC_DuplicateNeuralStack.jobString>Копирует нейростэк.</AC_DuplicateNeuralStack.jobString>
   
   <!-- EN: Duplicate stack -->
   <AC_DuplicateNeuralStackPawn.label>Копировать нейростэк</AC_DuplicateNeuralStackPawn.label>
   <!-- EN: Duplicate the content of an active neural stack, effectively creating a "clone" or "duplicate" of the consciousness stored on the original stack. -->
-  <AC_DuplicateNeuralStackPawn.description>Копировать содержимое активного нейростэка, создавая «клон» или «дубликат» сознания, хранящегося в исходном стэке.</AC_DuplicateNeuralStackPawn.description>
+  <AC_DuplicateNeuralStackPawn.description>Копировать содержимое активного стэка, создавая «клон» или «дубликат» сознания, хранящегося в исходном стэке.</AC_DuplicateNeuralStackPawn.description>
   <!-- EN: Duplicating stack. -->
   <AC_DuplicateNeuralStackPawn.jobString>Копирует нейростэк.</AC_DuplicateNeuralStackPawn.jobString>
   
@@ -32,7 +32,7 @@
   <!-- EN: Erase stack -->
   <AC_WipeActiveNeuralStack.label>Стереть нейростэк</AC_WipeActiveNeuralStack.label>
   <!-- EN: Erase all content from a selected active neural stack, effectively killing the consciousness stored on it. The stack can afterwards be reused for someone else. -->
-  <AC_WipeActiveNeuralStack.description>Стереть всё содержимое выбранного активного нейростэка, тем самым уничтожив хранящееся в нём сознание. После этого стэк можно использовать повторно.</AC_WipeActiveNeuralStack.description>
+  <AC_WipeActiveNeuralStack.description>Стереть всё содержимое выбранного активного стэка, тем самым уничтожив хранящееся в нём сознание. После этого стэк можно использовать повторно.</AC_WipeActiveNeuralStack.description>
   <!-- EN: Erasing stack. -->
   <AC_WipeActiveNeuralStack.jobString>Стирает нейростэк.</AC_WipeActiveNeuralStack.jobString>
   

@@ -2,14 +2,14 @@
 <LanguageData>
   
   <!-- EN: autorevolver -->
-  <AC_Gun_Autorevolver.label>自动左轮手枪</AC_Gun_Autorevolver.label>
+  <AC_Gun_Autorevolver.label>Авторевольвер</AC_Gun_Autorevolver.label>
   <!-- EN: An ancient pattern automatic revolver. It combines the strengths of a normal pistol and a classic revolver. It is quick on the draw. -->
-  <AC_Gun_Autorevolver.description>一把老式自动左轮手枪。它结合了普通手枪和经典左轮手枪的优点。并且拔枪迅速。</AC_Gun_Autorevolver.description>
+  <AC_Gun_Autorevolver.description>Древний автоматический револьвер. Он сочетает в себе достоинства обычного пистолета и классического револьвера. Отличается высокой скоростью извлечения.</AC_Gun_Autorevolver.description>
   <!-- EN: grip -->
-  <AC_Gun_Autorevolver.tools.grip.label>把手</AC_Gun_Autorevolver.tools.grip.label>
+  <AC_Gun_Autorevolver.tools.grip.label>Рукоять</AC_Gun_Autorevolver.tools.grip.label>
   <!-- EN: barrel -->
-  <AC_Gun_Autorevolver.tools.barrel.label>枪管</AC_Gun_Autorevolver.tools.barrel.label>
+  <AC_Gun_Autorevolver.tools.barrel.label>Ствол</AC_Gun_Autorevolver.tools.barrel.label>
   <!-- EN: autorevolver -->
-  <AC_Gun_Autorevolver.verbs.Verb_Shoot.label>自动左轮手枪</AC_Gun_Autorevolver.verbs.Verb_Shoot.label>
+  <AC_Gun_Autorevolver.verbs.Verb_Shoot.label>Авторевольвер</AC_Gun_Autorevolver.verbs.Verb_Shoot.label>
   
 </LanguageData>

@@ -2,18 +2,20 @@
 <LanguageData>
   
   <!-- EN: mono arm-blade -->
-  <AC_RogianArmBlade_Mono.label>单分子手臂镰刀</AC_RogianArmBlade_Mono.label>
+  <AC_RogianArmBlade_Mono.label>Моноклинок богомола</AC_RogianArmBlade_Mono.label>
   <!-- EN: A crystal-metallic variation of an arm-blade, infused with mechanites that maintain a mono-molecular cutting edge. It cuts through even thick armor with ease, and its light weight permits fast attacks. When retracted neuromuscular synchronisation makes them appear and function like a normal arm. -->
-  <AC_RogianArmBlade_Mono.description>一种水晶晶体变种镰刀，注入可维持单分子切削刃的机械分子。即使是厚重的装甲也能轻松穿透，并且重量极轻允许快速攻击。当收缩时，神经肌肉同步会使其看起来与正常手臂一样。</AC_RogianArmBlade_Mono.description>
+  <AC_RogianArmBlade_Mono.description>Кристаллическая разновидность Клинка богомола, содержащая механоиды, поддерживающие мономолекулярную режущую кромку. Он с легкостью прорезает даже толстую броню, а его малый вес позволяет наносить быстрые удары. В убранном положении нейромышечная синхронизация делает его похожим на обычную руку и обеспечивает аналогичную функциональность.</AC_RogianArmBlade_Mono.description>
+
   
   <!-- EN: plasma arm-blade -->
-  <AC_RogianArmBlade_Plasma.label>等离子手臂镰刀</AC_RogianArmBlade_Plasma.label>
+  <AC_RogianArmBlade_Plasma.label>Плазмоклинок богомола</AC_RogianArmBlade_Plasma.label>
   <!-- EN: A metal-cored variation of an arm-blade. Plasma is wrapped around the core, held in place by an energy field. Targets are both sliced by the metal core, as well as burned or ignited by the plasma sheath. When retracted neuromuscular synchronisation makes them appear and function like a normal arm. -->
-  <AC_RogianArmBlade_Plasma.description>一种金属核心变种镰刀，等离子体包复核心并由能量场固定。目标既会被金属核心切割，也会被电浆鞘烧毁或点燃。当收缩时，神经肌肉同步会使其看起来与正常手臂一样。</AC_RogianArmBlade_Plasma.description>
+  <AC_RogianArmBlade_Plasma.description>Разновидность Клинка богомола с металлическим сердечником. Плазма удерживается вокруг сердечника энергетическим полем. Цели не только разрезаются металлическим сердечником, но и обжигаются или воспламеняются плазменной оболочкой. В убранном положении нейромышечная синхронизация делает его похожим на обычную руку и обеспечивает аналогичную функциональность.</AC_RogianArmBlade_Plasma.description>
+
   
   <!-- EN: zeus arm-blade -->
-  <AC_RogianArmBlade_Zeus.label>宙斯手臂镰刀</AC_RogianArmBlade_Zeus.label>
+  <AC_RogianArmBlade_Zeus.label>Электроклинок богомола</AC_RogianArmBlade_Zeus.label>
   <!-- EN: An experimental variation of an arm-blade with an embedded EMP capacitor. Upon contact, it blasts the target with an EMP burst in addition to the physical damage. When retracted neuromuscular synchronisation makes them appear and function like a normal arm. -->
-  <AC_RogianArmBlade_Zeus.description>一种内建EMP电容器的实验型变种镰刀。一旦接触到目标，除了物理伤害以外还会以EMP爆发炸毁目标。当收缩时，神经肌肉同步会使其看起来与正常手臂一样。</AC_RogianArmBlade_Zeus.description>
+  <AC_RogianArmBlade_Zeus.description>Экспериментальная разновидность Клинка богомола со встроенным ЭМИ-конденсатором. При контакте он поражает цель ЭМИ-импульсом в дополнение к физическому урону. В убранном положении нейромышечная синхронизация делает его похожим на обычную руку и обеспечивает аналогичную функциональность.</AC_RogianArmBlade_Zeus.description>
   
 </LanguageData>

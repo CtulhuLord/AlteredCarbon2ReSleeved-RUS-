@@ -2,8 +2,8 @@
 <LanguageData>
   
   <!-- EN: stack shredding efficiency -->
-  <AC_StackShreddingEfficiency.label>堆叠粉碎效率</AC_StackShreddingEfficiency.label>
+  <AC_StackShreddingEfficiency.label>Эффективность разбора нейростэков</AC_StackShreddingEfficiency.label>
   <!-- EN: The amount of materials yielded when this person shreds a neural stack for resources. -->
-  <AC_StackShreddingEfficiency.description>当人物粉碎神经堆叠以取得资源时所产生的材料量。</AC_StackShreddingEfficiency.description>
+  <AC_StackShreddingEfficiency.description>Количество материалов, получаемых при разборе нейростэка этим персонажем.</AC_StackShreddingEfficiency.description>
   
 </LanguageData>

@@ -2,43 +2,43 @@
 <LanguageData>
   
   <!-- EN: erased a stack -->
-  <AC_ErasedStack.stages.erased_a_stack.label>擦除了堆叠</AC_ErasedStack.stages.erased_a_stack.label>
+  <AC_ErasedStack.stages.erased_a_stack.label>Стёрт нейростэк</AC_ErasedStack.stages.erased_a_stack.label>
   <!-- EN: We just erased the content of one of our stacks as if the person on it didn't exist. It's not just data, its a person! How would we be so barbaric? -->
-  <AC_ErasedStack.stages.erased_a_stack.description>我们刚刚擦除了其中一个堆叠上的内容，就好像上面的人不存在一样。这并不只是资料，而是活生生的一个人！我们怎麽会如此野蛮？</AC_ErasedStack.stages.erased_a_stack.description>
+  <AC_ErasedStack.stages.erased_a_stack.description>Мы только что стёрли содержимое одного из наших нейростэков, как будто человека в нём никогда не существовало. Это не просто данные, это живой человек! Как мы могли быть такими варварами?</AC_ErasedStack.stages.erased_a_stack.description>
   
   <!-- EN: What happened? -->
-  <AC_NeedlecastingVictim.stages.What_happened.label>发生什麽事了？</AC_NeedlecastingVictim.stages.What_happened.label>
+  <AC_NeedlecastingVictim.stages.What_happened.label>Что случилось?</AC_NeedlecastingVictim.stages.What_happened.label>
   <!-- EN: What... what happened? How did I get here? -->
-  <AC_NeedlecastingVictim.stages.What_happened.description>怎麽...发生了什麽事情？我怎麽会在这里？</AC_NeedlecastingVictim.stages.What_happened.description>
+  <AC_NeedlecastingVictim.stages.What_happened.description> Что… что случилось? Как я здесь оказался?</AC_NeedlecastingVictim.stages.What_happened.description>
   
   <!-- EN: pleasant dream -->
-  <AC_PleasantDream.stages.pleasant_dream.label>美梦</AC_PleasantDream.stages.pleasant_dream.label>
+  <AC_PleasantDream.stages.pleasant_dream.label>Приятный сон</AC_PleasantDream.stages.pleasant_dream.label>
   <!-- EN: My dreams were nothing but cozy and fulfilling. I slept great! -->
-  <AC_PleasantDream.stages.pleasant_dream.description>我的梦境既舒服又充实。我睡得很好！</AC_PleasantDream.stages.pleasant_dream.description>
+  <AC_PleasantDream.stages.pleasant_dream.description>Мои сны были приятными и безмятежными. Я отлично выспался!</AC_PleasantDream.stages.pleasant_dream.description>
   
   <!-- EN: Bugging feeling -->
-  <AC_StackDegradationThought.stages.Bugging_feeling.label>恼人的感觉</AC_StackDegradationThought.stages.Bugging_feeling.label>
+  <AC_StackDegradationThought.stages.Bugging_feeling.label>Навязчивое чувство</AC_StackDegradationThought.stages.Bugging_feeling.label>
   <!-- EN: Somethings bugging me, but I can't but my finger on it. -->
-  <AC_StackDegradationThought.stages.Bugging_feeling.description>有些事情让我感到困惑，但我又说不出来。</AC_StackDegradationThought.stages.Bugging_feeling.description>
+  <AC_StackDegradationThought.stages.Bugging_feeling.description> Что-то меня беспокоит, но я не могу понять, что именно.</AC_StackDegradationThought.stages.Bugging_feeling.description>
   <!-- EN: Feeling off -->
-  <AC_StackDegradationThought.stages.Feeling_off.label>感觉不对劲</AC_StackDegradationThought.stages.Feeling_off.label>
+  <AC_StackDegradationThought.stages.Feeling_off.label>Чувствую себя не в своей тарелке</AC_StackDegradationThought.stages.Feeling_off.label>
   <!-- EN: Something feels off, but whenever I put my finger on it it slips away... -->
-  <AC_StackDegradationThought.stages.Feeling_off.description>总觉得有什麽地方不对劲，但每当我用手指一指它就熘走了...</AC_StackDegradationThought.stages.Feeling_off.description>
+  <AC_StackDegradationThought.stages.Feeling_off.description> Что-то не так, но как только я пытаюсь это осознать, оно ускользает…</AC_StackDegradationThought.stages.Feeling_off.description>
   <!-- EN: Something is wrong -->
-  <AC_StackDegradationThought.stages.Something_is_wrong.label>有些事情不对劲</AC_StackDegradationThought.stages.Something_is_wrong.label>
+  <AC_StackDegradationThought.stages.Something_is_wrong.label>Что-то не так</AC_StackDegradationThought.stages.Something_is_wrong.label>
   <!-- EN: Something is wrong with me, this isnt right... -->
-  <AC_StackDegradationThought.stages.Something_is_wrong.description>我感觉有点不对劲，这不太对...</AC_StackDegradationThought.stages.Something_is_wrong.description>
+  <AC_StackDegradationThought.stages.Something_is_wrong.description>Со мной что-то не так, это неправильно…</AC_StackDegradationThought.stages.Something_is_wrong.description>
   <!-- EN: Feeling unlike myself -->
-  <AC_StackDegradationThought.stages.Feeling_unlike_myself.label>感觉不像我自己</AC_StackDegradationThought.stages.Feeling_unlike_myself.label>
+  <AC_StackDegradationThought.stages.Feeling_unlike_myself.label>Не чувствую себя собой</AC_StackDegradationThought.stages.Feeling_unlike_myself.label>
   <!-- EN: I dont feel like myself anymore, my memory... things dont make sense! -->
-  <AC_StackDegradationThought.stages.Feeling_unlike_myself.description>我感觉不再是我自己了，我的记忆...一切都变得毫无意义！</AC_StackDegradationThought.stages.Feeling_unlike_myself.description>
+  <AC_StackDegradationThought.stages.Feeling_unlike_myself.description>Я больше не чувствую себя собой, мои воспоминания… всё теряет смысл!</AC_StackDegradationThought.stages.Feeling_unlike_myself.description>
   <!-- EN: Not myself -->
-  <AC_StackDegradationThought.stages.Not_myself.label>这不是我自己</AC_StackDegradationThought.stages.Not_myself.label>
+  <AC_StackDegradationThought.stages.Not_myself.label>Это не я</AC_StackDegradationThought.stages.Not_myself.label>
   <!-- EN: My memories and who I am now dont line up, someone messed with my mind! -->
-  <AC_StackDegradationThought.stages.Not_myself.description>我的记忆与我现在的样子并不一致，有人扰乱了我的思维！</AC_StackDegradationThought.stages.Not_myself.description>
+  <AC_StackDegradationThought.stages.Not_myself.description>Мои воспоминания и то, кем я являюсь сейчас, не совпадают, кто-то покопался в моём разуме!</AC_StackDegradationThought.stages.Not_myself.description>
   <!-- EN: Stranger to myself -->
-  <AC_StackDegradationThought.stages.Stranger_to_myself.label>对自己感到陌生</AC_StackDegradationThought.stages.Stranger_to_myself.label>
+  <AC_StackDegradationThought.stages.Stranger_to_myself.label>Я себя не узнаю</AC_StackDegradationThought.stages.Stranger_to_myself.label>
   <!-- EN: I feel like a stranger to myself. What memories are my own and which ones where altered? I cant live like this! -->
-  <AC_StackDegradationThought.stages.Stranger_to_myself.description>我觉得自己很陌生。哪些记忆是我自己的，哪些是被窜改过的？我不能就这样生活下去！</AC_StackDegradationThought.stages.Stranger_to_myself.description>
+  <AC_StackDegradationThought.stages.Stranger_to_myself.description>Я себя не узнаю. Какие воспоминания мои, а какие были изменены? Я не могу так жить!</AC_StackDegradationThought.stages.Stranger_to_myself.description>
   
 </LanguageData>

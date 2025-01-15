@@ -2,172 +2,172 @@
 <LanguageData>
   
   <!-- EN: awful sleeve -->
-  <AC_Sleeving_Demanded_Sleeved.stages.awful_sleeve.label>极差级义体</AC_Sleeving_Demanded_Sleeved.stages.awful_sleeve.label>
+  <AC_Sleeving_Demanded_Sleeved.stages.awful_sleeve.label>Ужасная оболочка</AC_Sleeving_Demanded_Sleeved.stages.awful_sleeve.label>
   <!-- EN: My sleeve is of awful quality. -->
-  <AC_Sleeving_Demanded_Sleeved.stages.awful_sleeve.description>我的义体品质是极差级的。</AC_Sleeving_Demanded_Sleeved.stages.awful_sleeve.description>
+  <AC_Sleeving_Demanded_Sleeved.stages.awful_sleeve.description>Моя оболочка ужасного качества.</AC_Sleeving_Demanded_Sleeved.stages.awful_sleeve.description>
   <!-- EN: poor sleeve -->
-  <AC_Sleeving_Demanded_Sleeved.stages.poor_sleeve.label>较差级义体</AC_Sleeving_Demanded_Sleeved.stages.poor_sleeve.label>
+  <AC_Sleeving_Demanded_Sleeved.stages.poor_sleeve.label>Плохая оболочка</AC_Sleeving_Demanded_Sleeved.stages.poor_sleeve.label>
   <!-- EN: My sleeve is of poor quality. -->
-  <AC_Sleeving_Demanded_Sleeved.stages.poor_sleeve.description>我的义体品质是较差级的。</AC_Sleeving_Demanded_Sleeved.stages.poor_sleeve.description>
+  <AC_Sleeving_Demanded_Sleeved.stages.poor_sleeve.description>Моя оболочка плохого качества.</AC_Sleeving_Demanded_Sleeved.stages.poor_sleeve.description>
   <!-- EN: normal sleeve -->
-  <AC_Sleeving_Demanded_Sleeved.stages.normal_sleeve.label>普通级义体</AC_Sleeving_Demanded_Sleeved.stages.normal_sleeve.label>
+  <AC_Sleeving_Demanded_Sleeved.stages.normal_sleeve.label>Обычная оболочка</AC_Sleeving_Demanded_Sleeved.stages.normal_sleeve.label>
   <!-- EN: good sleeve -->
-  <AC_Sleeving_Demanded_Sleeved.stages.good_sleeve.label>良好级义体</AC_Sleeving_Demanded_Sleeved.stages.good_sleeve.label>
+  <AC_Sleeving_Demanded_Sleeved.stages.good_sleeve.label>Хорошая оболочка</AC_Sleeving_Demanded_Sleeved.stages.good_sleeve.label>
   <!-- EN: My sleeve is of good quality. -->
-  <AC_Sleeving_Demanded_Sleeved.stages.good_sleeve.description>我的义体品质是良好级的。</AC_Sleeving_Demanded_Sleeved.stages.good_sleeve.description>
+  <AC_Sleeving_Demanded_Sleeved.stages.good_sleeve.description>Моя оболочка хорошего качества.。</AC_Sleeving_Demanded_Sleeved.stages.good_sleeve.description>
   <!-- EN: excellent sleeve -->
-  <AC_Sleeving_Demanded_Sleeved.stages.excellent_sleeve.label>极佳级义体</AC_Sleeving_Demanded_Sleeved.stages.excellent_sleeve.label>
+  <AC_Sleeving_Demanded_Sleeved.stages.excellent_sleeve.label>Отличная оболочка</AC_Sleeving_Demanded_Sleeved.stages.excellent_sleeve.label>
   <!-- EN: My sleeve is of excellent quality. -->
-  <AC_Sleeving_Demanded_Sleeved.stages.excellent_sleeve.description>我的义体品质是极佳级的。</AC_Sleeving_Demanded_Sleeved.stages.excellent_sleeve.description>
+  <AC_Sleeving_Demanded_Sleeved.stages.excellent_sleeve.description>Моя оболочка отличного качества.</AC_Sleeving_Demanded_Sleeved.stages.excellent_sleeve.description>
   <!-- EN: masterwork sleeve -->
-  <AC_Sleeving_Demanded_Sleeved.stages.masterwork_sleeve.label>大师级义体</AC_Sleeving_Demanded_Sleeved.stages.masterwork_sleeve.label>
+  <AC_Sleeving_Demanded_Sleeved.stages.masterwork_sleeve.label>Шедевральная оболочка</AC_Sleeving_Demanded_Sleeved.stages.masterwork_sleeve.label>
   <!-- EN: My sleeve is of masterwork quality. -->
-  <AC_Sleeving_Demanded_Sleeved.stages.masterwork_sleeve.description>我的义体品质是大师级的。</AC_Sleeving_Demanded_Sleeved.stages.masterwork_sleeve.description>
+  <AC_Sleeving_Demanded_Sleeved.stages.masterwork_sleeve.description>Моя оболочка шедеврального качества.</AC_Sleeving_Demanded_Sleeved.stages.masterwork_sleeve.description>
   <!-- EN: legendary sleeve -->
-  <AC_Sleeving_Demanded_Sleeved.stages.legendary_sleeve.label>传奇级义体</AC_Sleeving_Demanded_Sleeved.stages.legendary_sleeve.label>
+  <AC_Sleeving_Demanded_Sleeved.stages.legendary_sleeve.label>Легендарная оболочка</AC_Sleeving_Demanded_Sleeved.stages.legendary_sleeve.label>
   <!-- EN: My sleeve is of legendary quality. -->
-  <AC_Sleeving_Demanded_Sleeved.stages.legendary_sleeve.description>我的义体品质是传奇级的。</AC_Sleeving_Demanded_Sleeved.stages.legendary_sleeve.description>
+  <AC_Sleeving_Demanded_Sleeved.stages.legendary_sleeve.description>Моя оболочка легендарного качества.</AC_Sleeving_Demanded_Sleeved.stages.legendary_sleeve.description>
   
   <!-- EN: awful sleeve -->
-  <AC_Sleeving_Demanded_Sleeved_Social.stages.awful_sleeve.label>极差级义体</AC_Sleeving_Demanded_Sleeved_Social.stages.awful_sleeve.label>
+  <AC_Sleeving_Demanded_Sleeved_Social.stages.awful_sleeve.label>Ужасная оболочка</AC_Sleeving_Demanded_Sleeved_Social.stages.awful_sleeve.label>
   <!-- EN: poor sleeve -->
-  <AC_Sleeving_Demanded_Sleeved_Social.stages.poor_sleeve.label>较差级义体</AC_Sleeving_Demanded_Sleeved_Social.stages.poor_sleeve.label>
+  <AC_Sleeving_Demanded_Sleeved_Social.stages.poor_sleeve.label>Плохая оболочка</AC_Sleeving_Demanded_Sleeved_Social.stages.poor_sleeve.label>
   <!-- EN: normal sleeve -->
-  <AC_Sleeving_Demanded_Sleeved_Social.stages.normal_sleeve.label>普通级义体</AC_Sleeving_Demanded_Sleeved_Social.stages.normal_sleeve.label>
+  <AC_Sleeving_Demanded_Sleeved_Social.stages.normal_sleeve.label>Обычная оболочка</AC_Sleeving_Demanded_Sleeved_Social.stages.normal_sleeve.label>
   <!-- EN: good sleeve -->
-  <AC_Sleeving_Demanded_Sleeved_Social.stages.good_sleeve.label>良好级义体</AC_Sleeving_Demanded_Sleeved_Social.stages.good_sleeve.label>
+  <AC_Sleeving_Demanded_Sleeved_Social.stages.good_sleeve.label>Хорошая оболочка</AC_Sleeving_Demanded_Sleeved_Social.stages.good_sleeve.label>
   <!-- EN: excellent sleeve -->
-  <AC_Sleeving_Demanded_Sleeved_Social.stages.excellent_sleeve.label>极佳级义体</AC_Sleeving_Demanded_Sleeved_Social.stages.excellent_sleeve.label>
+  <AC_Sleeving_Demanded_Sleeved_Social.stages.excellent_sleeve.label>Отличная оболочка</AC_Sleeving_Demanded_Sleeved_Social.stages.excellent_sleeve.label>
   <!-- EN: masterwork sleeve -->
-  <AC_Sleeving_Demanded_Sleeved_Social.stages.masterwork_sleeve.label>大师级义体</AC_Sleeving_Demanded_Sleeved_Social.stages.masterwork_sleeve.label>
+  <AC_Sleeving_Demanded_Sleeved_Social.stages.masterwork_sleeve.label>Шедевральная оболочка</AC_Sleeving_Demanded_Sleeved_Social.stages.masterwork_sleeve.label>
   <!-- EN: legendary sleeve -->
-  <AC_Sleeving_Demanded_Sleeved_Social.stages.legendary_sleeve.label>传奇级义体</AC_Sleeving_Demanded_Sleeved_Social.stages.legendary_sleeve.label>
+  <AC_Sleeving_Demanded_Sleeved_Social.stages.legendary_sleeve.label>Легендарная оболочка</AC_Sleeving_Demanded_Sleeved_Social.stages.legendary_sleeve.label>
   
   <!-- EN: sleeveless -->
-  <AC_Sleeving_Demanded_Sleeveless_Social.stages.sleeveless.label>无性义体</AC_Sleeving_Demanded_Sleeveless_Social.stages.sleeveless.label>
+  <AC_Sleeving_Demanded_Sleeveless_Social.stages.sleeveless.label>Без оболочки</AC_Sleeving_Demanded_Sleeveless_Social.stages.sleeveless.label>
   
   <!-- EN: cross sleeved -->
-  <AC_Sleeving_Despised_CrossSleeving.stages.cross_sleeved.label>跨性别义体</AC_Sleeving_Despised_CrossSleeving.stages.cross_sleeved.label>
+  <AC_Sleeving_Despised_CrossSleeving.stages.cross_sleeved.label>Оболочка другого пола</AC_Sleeving_Despised_CrossSleeving.stages.cross_sleeved.label>
   <!-- EN: I am forced to live in a body of the opposite gender. This is horrible and against my believes. -->
-  <AC_Sleeving_Despised_CrossSleeving.stages.cross_sleeved.description>我被迫生活在一个异性的身体里，这很可怕且违背了我的信念。</AC_Sleeving_Despised_CrossSleeving.stages.cross_sleeved.description>
+  <AC_Sleeving_Despised_CrossSleeving.stages.cross_sleeved.description>Я вынужден жить в теле противоположного пола. Это ужасно и противоречит моим убеждениям.</AC_Sleeving_Despised_CrossSleeving.stages.cross_sleeved.description>
   
   <!-- EN: cross sleeved -->
-  <AC_Sleeving_Despised_CrossSleeving_Social.stages.cross_sleeved.label>跨性别义体</AC_Sleeving_Despised_CrossSleeving_Social.stages.cross_sleeved.label>
+  <AC_Sleeving_Despised_CrossSleeving_Social.stages.cross_sleeved.label>Оболочка другого пола</AC_Sleeving_Despised_CrossSleeving_Social.stages.cross_sleeved.label>
   
   <!-- EN: sleeved -->
-  <AC_Sleeving_Despised_Sleeved.stages.sleeved.label>义体化</AC_Sleeving_Despised_Sleeved.stages.sleeved.label>
+  <AC_Sleeving_Despised_Sleeved.stages.sleeved.label>В оболочке</AC_Sleeving_Despised_Sleeved.stages.sleeved.label>
   <!-- EN: I am forced to live in a body that was not given to me by nature. This is horrible and against my believes. -->
-  <AC_Sleeving_Despised_Sleeved.stages.sleeved.description>我被迫生活在一个不是由大自然赋予的身体里，这很可怕且违背了我的信念。</AC_Sleeving_Despised_Sleeved.stages.sleeved.description>
+  <AC_Sleeving_Despised_Sleeved.stages.sleeved.description>Я вынужден жить в теле, которое не было дано мне от природы. Это ужасно и противоречит моим убеждениям.</AC_Sleeving_Despised_Sleeved.stages.sleeved.description>
   
   <!-- EN: uses sleeve -->
-  <AC_Sleeving_Despised_Sleeved_Social.stages.uses_sleeve.label>使用了义体</AC_Sleeving_Despised_Sleeved_Social.stages.uses_sleeve.label>
+  <AC_Sleeving_Despised_Sleeved_Social.stages.uses_sleeve.label>Использует оболочку</AC_Sleeving_Despised_Sleeved_Social.stages.uses_sleeve.label>
   
   <!-- EN: awful sleeve -->
-  <AC_Sleeving_Preferred_Sleeved.stages.awful_sleeve.label>极差级品质</AC_Sleeving_Preferred_Sleeved.stages.awful_sleeve.label>
+  <AC_Sleeving_Preferred_Sleeved.stages.awful_sleeve.label>Ужасная оболочка</AC_Sleeving_Preferred_Sleeved.stages.awful_sleeve.label>
   <!-- EN: My sleeve is of awful quality. -->
-  <AC_Sleeving_Preferred_Sleeved.stages.awful_sleeve.description>我的义体品质是极差级的。</AC_Sleeving_Preferred_Sleeved.stages.awful_sleeve.description>
+  <AC_Sleeving_Preferred_Sleeved.stages.awful_sleeve.description>Моя оболочка ужасного качества.</AC_Sleeving_Preferred_Sleeved.stages.awful_sleeve.description>
   <!-- EN: poor sleeve -->
-  <AC_Sleeving_Preferred_Sleeved.stages.poor_sleeve.label>较差级品质</AC_Sleeving_Preferred_Sleeved.stages.poor_sleeve.label>
+  <AC_Sleeving_Preferred_Sleeved.stages.poor_sleeve.label>Плохая оболочка</AC_Sleeving_Preferred_Sleeved.stages.poor_sleeve.label>
   <!-- EN: My sleeve is of poor quality. -->
-  <AC_Sleeving_Preferred_Sleeved.stages.poor_sleeve.description>我的义体品质是较差级的。</AC_Sleeving_Preferred_Sleeved.stages.poor_sleeve.description>
+  <AC_Sleeving_Preferred_Sleeved.stages.poor_sleeve.description>Моя оболочка плохого качества.</AC_Sleeving_Preferred_Sleeved.stages.poor_sleeve.description>
   <!-- EN: normal quality sleeve -->
-  <AC_Sleeving_Preferred_Sleeved.stages.normal_quality_sleeve.label>普通级品质</AC_Sleeving_Preferred_Sleeved.stages.normal_quality_sleeve.label>
+  <AC_Sleeving_Preferred_Sleeved.stages.normal_quality_sleeve.label>Обычная оболочка</AC_Sleeving_Preferred_Sleeved.stages.normal_quality_sleeve.label>
   <!-- EN: good sleeve -->
-  <AC_Sleeving_Preferred_Sleeved.stages.good_sleeve.label>良好级品质</AC_Sleeving_Preferred_Sleeved.stages.good_sleeve.label>
+  <AC_Sleeving_Preferred_Sleeved.stages.good_sleeve.label>Хорошая оболочка</AC_Sleeving_Preferred_Sleeved.stages.good_sleeve.label>
   <!-- EN: My sleeve is of good quality. -->
-  <AC_Sleeving_Preferred_Sleeved.stages.good_sleeve.description>我的义体品质是良好级的。</AC_Sleeving_Preferred_Sleeved.stages.good_sleeve.description>
+  <AC_Sleeving_Preferred_Sleeved.stages.good_sleeve.description>Моя оболочка хорошего качества.</AC_Sleeving_Preferred_Sleeved.stages.good_sleeve.description>
   <!-- EN: excellent sleeve -->
-  <AC_Sleeving_Preferred_Sleeved.stages.excellent_sleeve.label>极佳级品质</AC_Sleeving_Preferred_Sleeved.stages.excellent_sleeve.label>
+  <AC_Sleeving_Preferred_Sleeved.stages.excellent_sleeve.label>Отличная оболочка</AC_Sleeving_Preferred_Sleeved.stages.excellent_sleeve.label>
   <!-- EN: My sleeve is of excellent quality. -->
-  <AC_Sleeving_Preferred_Sleeved.stages.excellent_sleeve.description>我的义体品质是极佳级的。</AC_Sleeving_Preferred_Sleeved.stages.excellent_sleeve.description>
+  <AC_Sleeving_Preferred_Sleeved.stages.excellent_sleeve.description>Моя оболочка отличного качества.</AC_Sleeving_Preferred_Sleeved.stages.excellent_sleeve.description>
   <!-- EN: masterwork sleeve -->
-  <AC_Sleeving_Preferred_Sleeved.stages.masterwork_sleeve.label>大师级品质</AC_Sleeving_Preferred_Sleeved.stages.masterwork_sleeve.label>
+  <AC_Sleeving_Preferred_Sleeved.stages.masterwork_sleeve.label>Шедевральная оболочка</AC_Sleeving_Preferred_Sleeved.stages.masterwork_sleeve.label>
   <!-- EN: My sleeve is of masterwork quality. -->
-  <AC_Sleeving_Preferred_Sleeved.stages.masterwork_sleeve.description>我的义体品质是大师级的。</AC_Sleeving_Preferred_Sleeved.stages.masterwork_sleeve.description>
+  <AC_Sleeving_Preferred_Sleeved.stages.masterwork_sleeve.description>Моя оболочка шедеврального качества.</AC_Sleeving_Preferred_Sleeved.stages.masterwork_sleeve.description>
   <!-- EN: legendary sleeve -->
-  <AC_Sleeving_Preferred_Sleeved.stages.legendary_sleeve.label>传奇级品质</AC_Sleeving_Preferred_Sleeved.stages.legendary_sleeve.label>
+  <AC_Sleeving_Preferred_Sleeved.stages.legendary_sleeve.label>Легендарная оболочка</AC_Sleeving_Preferred_Sleeved.stages.legendary_sleeve.label>
   <!-- EN: My sleeve is of legendary quality. -->
-  <AC_Sleeving_Preferred_Sleeved.stages.legendary_sleeve.description>我的义体品质是传奇级的。</AC_Sleeving_Preferred_Sleeved.stages.legendary_sleeve.description>
+  <AC_Sleeving_Preferred_Sleeved.stages.legendary_sleeve.description>Моя оболочка легендарного качества.</AC_Sleeving_Preferred_Sleeved.stages.legendary_sleeve.description>
   
   <!-- EN: enlightened original -->
-  <AC_StackDuplicating_Enlightened_ForCopy_Social.stages.enlightened_original.label>开明的原始本体</AC_StackDuplicating_Enlightened_ForCopy_Social.stages.enlightened_original.label>
+  <AC_StackDuplicating_Enlightened_ForCopy_Social.stages.enlightened_original.label>Просвещённый оригинал</AC_StackDuplicating_Enlightened_ForCopy_Social.stages.enlightened_original.label>
   
   <!-- EN: enlightened duplicate -->
-  <AC_StackDuplicating_Enlightened_ForOriginal_Social.stages.enlightened_duplicate.label>开明</AC_StackDuplicating_Enlightened_ForOriginal_Social.stages.enlightened_duplicate.label>
+  <AC_StackDuplicating_Enlightened_ForOriginal_Social.stages.enlightened_duplicate.label>Просвещённая копия</AC_StackDuplicating_Enlightened_ForOriginal_Social.stages.enlightened_duplicate.label>
   
   <!-- EN: has copy -->
-  <AC_StackDuplicating_Enlightened_Social.stages.has_copy.label>拥有複製品</AC_StackDuplicating_Enlightened_Social.stages.has_copy.label>
+  <AC_StackDuplicating_Enlightened_Social.stages.has_copy.label>Имеет копию</AC_StackDuplicating_Enlightened_Social.stages.has_copy.label>
   
   <!-- EN: shattered soul -->
-  <AC_StackDuplicating_Horrible_ForCopy_Social.stages.shattered_soul.label>破碎的灵魂</AC_StackDuplicating_Horrible_ForCopy_Social.stages.shattered_soul.label>
+  <AC_StackDuplicating_Horrible_ForCopy_Social.stages.shattered_soul.label>Разбитая душа</AC_StackDuplicating_Horrible_ForCopy_Social.stages.shattered_soul.label>
   
   <!-- EN: souless duplicate -->
-  <AC_StackDuplicating_Horrible_ForOriginal_Social.stages.souless_duplicate.label>没有灵魂的複製品</AC_StackDuplicating_Horrible_ForOriginal_Social.stages.souless_duplicate.label>
+  <AC_StackDuplicating_Horrible_ForOriginal_Social.stages.souless_duplicate.label>Бездушная копия</AC_StackDuplicating_Horrible_ForOriginal_Social.stages.souless_duplicate.label>
   
   <!-- EN: has copy -->
-  <AC_StackDuplicating_Horrible_Social.stages.has_copy.label>拥有複製品</AC_StackDuplicating_Horrible_Social.stages.has_copy.label>
+  <AC_StackDuplicating_Horrible_Social.stages.has_copy.label>Имеет копию</AC_StackDuplicating_Horrible_Social.stages.has_copy.label>
   
   <!-- EN: archotech stack installed -->
-  <AC_Stacking_Central_ArchotechStack.stages.archotech_stack_installed.label>已植入超凡科技堆叠</AC_Stacking_Central_ArchotechStack.stages.archotech_stack_installed.label>
+  <AC_Stacking_Central_ArchotechStack.stages.archotech_stack_installed.label>Установлен архостэк</AC_Stacking_Central_ArchotechStack.stages.archotech_stack_installed.label>
   <!-- EN: I have a stack as any human should. The world is right, and I am as I should be. -->
-  <AC_Stacking_Central_ArchotechStack.stages.archotech_stack_installed.description>我有一个任何人类都该有的堆叠。世界是对的，并我就像我应该的那样。</AC_Stacking_Central_ArchotechStack.stages.archotech_stack_installed.description>
+  <AC_Stacking_Central_ArchotechStack.stages.archotech_stack_installed.description>У меня есть архостэк, как и у любого человека. Мир в порядке, и я такой, каким должен быть.</AC_Stacking_Central_ArchotechStack.stages.archotech_stack_installed.description>
   
   <!-- EN: no stack installed -->
-  <AC_Stacking_Central_NoStack.stages.no_stack_installed.label>没有植入堆叠</AC_Stacking_Central_NoStack.stages.no_stack_installed.label>
+  <AC_Stacking_Central_NoStack.stages.no_stack_installed.label>Нейростэк не установлен</AC_Stacking_Central_NoStack.stages.no_stack_installed.label>
   <!-- EN: I have no stack installed in me. This is wrong! -->
-  <AC_Stacking_Central_NoStack.stages.no_stack_installed.description>我身上没有植入任何堆叠。这是不对的！</AC_Stacking_Central_NoStack.stages.no_stack_installed.description>
+  <AC_Stacking_Central_NoStack.stages.no_stack_installed.description>У меня не установлен нейростэк. Это неправильно!</AC_Stacking_Central_NoStack.stages.no_stack_installed.description>
   
   <!-- EN: no installed stack -->
-  <AC_Stacking_Central_NoStack_Social.stages.no_installed_stack.label>未植入堆叠</AC_Stacking_Central_NoStack_Social.stages.no_installed_stack.label>
+  <AC_Stacking_Central_NoStack_Social.stages.no_installed_stack.label>Нейростэк не установлен</AC_Stacking_Central_NoStack_Social.stages.no_installed_stack.label>
   
   <!-- EN: neural stack installed -->
-  <AC_Stacking_Central_Stack.stages.neural_stack_installed.label>已植入神经堆叠</AC_Stacking_Central_Stack.stages.neural_stack_installed.label>
+  <AC_Stacking_Central_Stack.stages.neural_stack_installed.label>Установлен нейростэк</AC_Stacking_Central_Stack.stages.neural_stack_installed.label>
   <!-- EN: I have a stack as any human should. The world is right, and I am as I should be. -->
-  <AC_Stacking_Central_Stack.stages.neural_stack_installed.description>我有一个任何人类都该有的堆叠。世界是对的，并我就像我应该的那样。</AC_Stacking_Central_Stack.stages.neural_stack_installed.description>
+  <AC_Stacking_Central_Stack.stages.neural_stack_installed.description>У меня есть нейростэк, как и у любого человека. Мир в порядке, и я такой, каким должен быть.</AC_Stacking_Central_Stack.stages.neural_stack_installed.description>
   
   <!-- EN: installed stack -->
-  <AC_Stacking_Central_Stack_Social.stages.installed_stack.label>已植入堆叠</AC_Stacking_Central_Stack_Social.stages.installed_stack.label>
+  <AC_Stacking_Central_Stack_Social.stages.installed_stack.label>Установлен нейростэк</AC_Stacking_Central_Stack_Social.stages.installed_stack.label>
   
   <!-- EN: archotech stack installed -->
-  <AC_Stacking_Despised_ArchotechStack.stages.archotech_stack_installed.label>已植入超凡科技堆叠</AC_Stacking_Despised_ArchotechStack.stages.archotech_stack_installed.label>
+  <AC_Stacking_Despised_ArchotechStack.stages.archotech_stack_installed.label>Установлен архостэк</AC_Stacking_Despised_ArchotechStack.stages.archotech_stack_installed.label>
   <!-- EN: I have a stack installed. It's an abhorrent offense against everything I believe! -->
-  <AC_Stacking_Despised_ArchotechStack.stages.archotech_stack_installed.description>我被植入了一个堆叠。这是违反我所信仰一切的可憎行为！</AC_Stacking_Despised_ArchotechStack.stages.archotech_stack_installed.description>
+  <AC_Stacking_Despised_ArchotechStack.stages.archotech_stack_installed.description>У меня установлен архостэк. Это отвратительное нарушение всего, во что я верю!</AC_Stacking_Despised_ArchotechStack.stages.archotech_stack_installed.description>
   
   <!-- EN: neural stack installed -->
-  <AC_Stacking_Despised_Stack.stages.neural_stack_installed.label>已植入神经堆叠</AC_Stacking_Despised_Stack.stages.neural_stack_installed.label>
+  <AC_Stacking_Despised_Stack.stages.neural_stack_installed.label>Установлен нейростэк</AC_Stacking_Despised_Stack.stages.neural_stack_installed.label>
   <!-- EN: I have a stack installed. It's an abhorrent offense against everything I believe! -->
-  <AC_Stacking_Despised_Stack.stages.neural_stack_installed.description>我被植入了一个堆叠。这是违反我所信仰一切的可憎行为！</AC_Stacking_Despised_Stack.stages.neural_stack_installed.description>
+  <AC_Stacking_Despised_Stack.stages.neural_stack_installed.description>У меня установлен нейростэк. Это отвратительное нарушение всего, во что я верю!</AC_Stacking_Despised_Stack.stages.neural_stack_installed.description>
   
   <!-- EN: installed stack -->
-  <AC_Stacking_Despised_Stack_Social.stages.installed_stack.label>已植入堆叠</AC_Stacking_Despised_Stack_Social.stages.installed_stack.label>
+  <AC_Stacking_Despised_Stack_Social.stages.installed_stack.label>Установлен нейростэк</AC_Stacking_Despised_Stack_Social.stages.installed_stack.label>
   
   <!-- EN: archotech stack installed -->
-  <AC_Stacking_Preferred_ArchotechStack.stages.archotech_stack_installed.label>已植入超凡科技堆叠</AC_Stacking_Preferred_ArchotechStack.stages.archotech_stack_installed.label>
+  <AC_Stacking_Preferred_ArchotechStack.stages.archotech_stack_installed.label>Установлен архостэк</AC_Stacking_Preferred_ArchotechStack.stages.archotech_stack_installed.label>
   <!-- EN: I have a stack installed. Death shall not take me this easily now. -->
-  <AC_Stacking_Preferred_ArchotechStack.stages.archotech_stack_installed.description>我被植入了一个堆叠。现在死亡无法轻易带走我了。</AC_Stacking_Preferred_ArchotechStack.stages.archotech_stack_installed.description>
+  <AC_Stacking_Preferred_ArchotechStack.stages.archotech_stack_installed.description>У меня установлен архостэк. Теперь смерть не сможет так легко меня забрать.</AC_Stacking_Preferred_ArchotechStack.stages.archotech_stack_installed.description>
   
   <!-- EN: no stack installed -->
-  <AC_Stacking_Preferred_NoStack.stages.no_stack_installed.label>未植入堆叠</AC_Stacking_Preferred_NoStack.stages.no_stack_installed.label>
+  <AC_Stacking_Preferred_NoStack.stages.no_stack_installed.label>Нейростэк не установлен</AC_Stacking_Preferred_NoStack.stages.no_stack_installed.label>
   <!-- EN: I would feel a lot safer with a stack inside my neck. -->
-  <AC_Stacking_Preferred_NoStack.stages.no_stack_installed.description>如果脖子上有堆叠，我会感觉更安全一点。</AC_Stacking_Preferred_NoStack.stages.no_stack_installed.description>
+  <AC_Stacking_Preferred_NoStack.stages.no_stack_installed.description>Я чувствовал бы себя намного безопаснее с нейростэком в шее.</AC_Stacking_Preferred_NoStack.stages.no_stack_installed.description>
   
   <!-- EN: no installed stack -->
-  <AC_Stacking_Preferred_NoStack_Social.stages.no_installed_stack.label>未植入堆叠</AC_Stacking_Preferred_NoStack_Social.stages.no_installed_stack.label>
+  <AC_Stacking_Preferred_NoStack_Social.stages.no_installed_stack.label>Нейростэк не установлен</AC_Stacking_Preferred_NoStack_Social.stages.no_installed_stack.label>
   
   <!-- EN: neural stack installed -->
-  <AC_Stacking_Preferred_Stack.stages.neural_stack_installed.label>已植入精神堆叠</AC_Stacking_Preferred_Stack.stages.neural_stack_installed.label>
+  <AC_Stacking_Preferred_Stack.stages.neural_stack_installed.label>Установлен нейростэк</AC_Stacking_Preferred_Stack.stages.neural_stack_installed.label>
   <!-- EN: I have a stack installed. Death shall not take me this easily now. -->
-  <AC_Stacking_Preferred_Stack.stages.neural_stack_installed.description>我被植入了一个堆叠。现在死亡无法轻易带走我了。</AC_Stacking_Preferred_Stack.stages.neural_stack_installed.description>
+  <AC_Stacking_Preferred_Stack.stages.neural_stack_installed.description>У меня установлен нейростэк. Теперь смерть не сможет так легко меня забрать.</AC_Stacking_Preferred_Stack.stages.neural_stack_installed.description>
   
   <!-- EN: installed stack -->
-  <AC_Stacking_Preferred_Stack_Social.stages.installed_stack.label>已植入堆叠</AC_Stacking_Preferred_Stack_Social.stages.installed_stack.label>
+  <AC_Stacking_Preferred_Stack_Social.stages.installed_stack.label>Установлен нейростэк</AC_Stacking_Preferred_Stack_Social.stages.installed_stack.label>
   
   <!-- EN: xeno sleeved -->
-  <AC_XenoSleeving_Despised_Xenosleeved.stages.xeno_sleeved.label>异种化义体</AC_XenoSleeving_Despised_Xenosleeved.stages.xeno_sleeved.label>
+  <AC_XenoSleeving_Despised_Xenosleeved.stages.xeno_sleeved.label>Ксено-оболочка</AC_XenoSleeving_Despised_Xenosleeved.stages.xeno_sleeved.label>
   <!-- EN: My body does not reflect my natural born one. -->
-  <AC_XenoSleeving_Despised_Xenosleeved.stages.xeno_sleeved.description>我的身体并未呈现成我原生的身体。</AC_XenoSleeving_Despised_Xenosleeved.stages.xeno_sleeved.description>
+  <AC_XenoSleeving_Despised_Xenosleeved.stages.xeno_sleeved.description>Моё тело не соответствует моему природному.</AC_XenoSleeving_Despised_Xenosleeved.stages.xeno_sleeved.description>
   
   <!-- EN: xeno sleeved -->
-  <AC_XenoSleeving_Despised_Xenosleeved_Social.stages.xeno_sleeved.label>异种化义体</AC_XenoSleeving_Despised_Xenosleeved_Social.stages.xeno_sleeved.label>
+  <AC_XenoSleeving_Despised_Xenosleeved_Social.stages.xeno_sleeved.label>Ксено-оболочка</AC_XenoSleeving_Despised_Xenosleeved_Social.stages.xeno_sleeved.label>
   
 </LanguageData>

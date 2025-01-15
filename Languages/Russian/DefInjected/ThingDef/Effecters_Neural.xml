@@ -1,22 +1,17 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
-  <!-- EN: Mote -->
-  <AC_ConnectorGlow_East.label>灰尘</AC_ConnectorGlow_East.label>
-  
-  <!-- EN: Mote -->
-  <AC_ConnectorGlow_North.label>灰尘</AC_ConnectorGlow_North.label>
-  
-  <!-- EN: Mote -->
-  <AC_ConnectorGlow_South.label>灰尘</AC_ConnectorGlow_South.label>
-  
-  <!-- EN: Mote -->
-  <AC_ConnectorGlow_West.label>灰尘</AC_ConnectorGlow_West.label>
-  
-  <!-- EN: Mote -->
-  <AC_Mote_NeuralEditing.label>灰尘</AC_Mote_NeuralEditing.label>
-  
-  <!-- EN: Mote -->
-  <AC_NeuralConnectorHeadGlow.label>灰尘</AC_NeuralConnectorHeadGlow.label>
+
+
+	<AC_ConnectorGlow_East.label>Частица</AC_ConnectorGlow_East.label>
+
+	<AC_ConnectorGlow_North.label>Частица</AC_ConnectorGlow_North.label>
+
+	<AC_ConnectorGlow_South.label>Частица</AC_ConnectorGlow_South.label>
+
+	<AC_ConnectorGlow_West.label>Частица</AC_ConnectorGlow_West.label>
+
+	<AC_Mote_NeuralEditing.label>Частица</AC_Mote_NeuralEditing.label>
+
+	<AC_NeuralConnectorHeadGlow.label>Частица</AC_NeuralConnectorHeadGlow.label>
   
 </LanguageData>

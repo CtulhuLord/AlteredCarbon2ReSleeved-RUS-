@@ -2,13 +2,14 @@
 <LanguageData>
   
   <!-- EN: Archotech stack -->
-  <AC_ActiveArchotechStack.label>超凡科技堆叠</AC_ActiveArchotechStack.label>
+  <AC_ActiveArchotechStack.label>Активный архостэк</AC_ActiveArchotechStack.label>
   <!-- EN: An archotech neural implant with a human consciousness stored on it, commonly referred to as a neural. Can be implanted directly into a person's or sleeve’s spine in the neck to bring back the person stored on the stack. -->
-  <AC_ActiveArchotechStack.description>储存了人类意识的超凡科技神经植入物，通常被直接简称为神经。可直接植入义体或是人的颈部嵴椎，使储存在堆叠上的人復活。</AC_ActiveArchotechStack.description>
+  <AC_ActiveArchotechStack.description>Архотек-нейроимплант, содержащий сохраненное человеческое сознание, обычно называемый просто архостэком. Может быть имплантирован непосредственно в позвоночник человека или оболочки в области шеи, чтобы вернуть к жизни личность, сохраненную в стэке.</AC_ActiveArchotechStack.description>
   
   <!-- EN: Empty archotech stack -->
-  <AC_EmptyArchotechStack.label>空白超凡科技堆叠</AC_EmptyArchotechStack.label>
+  <AC_EmptyArchotechStack.label>Пустой архостэк</AC_EmptyArchotechStack.label>
   <!-- EN: An neural implant built by an archotech which can store a human consciousness, commonly referred to as a neural. Once implanted directly into a person's spine in the neck it will download their consciousness and safely store it. Unlike common neural implants, it is far more robust, will carry psylinks between bodies and if needed, act on its own to protect whoevers consciousness is stored inside it. Its internal workings are a mystery to all human minds, even those lucky or cursed enough to become its new inhabitant. -->
-  <AC_EmptyArchotechStack.description>由超凡科技製造的神经植入物，可以储存人类的意识，通常被直接简称为神经。一但直接植入人的颈部嵴椎，它就会下载他们的意识并且安全的储存起来。与一般的神经植入物不同，它更加的坚固耐用并可以在人体之间进行连结，必要时还能自行保护储存在其中的意识。它的内部运作对所有的人类来说都是一个谜，即使是那些幸运或受诅咒而成为该堆叠新居民的人也不例外。</AC_EmptyArchotechStack.description>
+  <AC_EmptyArchotechStack.description>Нейроимплант, созданный архотеками, способный хранить человеческое сознание, обычно называемый просто архостэком. После имплантации непосредственно в позвоночник человека в области шеи он загрузит его сознание и безопасно сохранит его. В отличие от обычных нейроимплантов, он гораздо более прочный, обеспечивает связь между телами и, при необходимости, действует самостоятельно, чтобы защитить сознание, хранящееся внутри него. Его внутреннее устройство остается загадкой для всех человеческих умов, даже для тех, кому посчастливилось или не посчастливилось стать его новым обитателем.</AC_EmptyArchotechStack.description>
+
   
 </LanguageData>

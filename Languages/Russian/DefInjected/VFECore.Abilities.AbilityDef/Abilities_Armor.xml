@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: Smokepop -->
-  <AC_FusilierSmokepop.label>烟雾喷发</AC_FusilierSmokepop.label>
+  <AC_FusilierSmokepop.label>Дымовая завеса</AC_FusilierSmokepop.label>
   <!-- EN: Deploy a cloud of protective smoke, covering your escape. Does not consume fuel, but requires time to recharge. -->
-  <AC_FusilierSmokepop.description>部署一团保护性烟雾以掩护你逃生。不消耗燃料，但需要时间重新充能。</AC_FusilierSmokepop.description>
+  <AC_FusilierSmokepop.description>Создаёт облако защитного дыма, обеспечивая отступление. Не расходует топливо, но требует времени на перезарядку.</AC_FusilierSmokepop.description>
   <!-- EN: Using ability: {0} -->
-  <AC_FusilierSmokepop.jobReportString>使用能力:{0}</AC_FusilierSmokepop.jobReportString>
+  <AC_FusilierSmokepop.jobReportString>Использование способности: {0}</AC_FusilierSmokepop.jobReportString>
   <!-- EN: 烟雾喷发 -->
-  <AC_FusilierSmokepop.verbProperties.label>烟雾喷发</AC_FusilierSmokepop.verbProperties.label>
+  <AC_FusilierSmokepop.verbProperties.label>Дымовая завеса</AC_FusilierSmokepop.verbProperties.label>
   
 </LanguageData>

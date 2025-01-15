@@ -2,8 +2,9 @@
 <LanguageData>
   
   <!-- EN: cuirassier belt -->
-  <AC_CuirassierBelt.label>胸甲骑兵腰带</AC_CuirassierBelt.label>
+  <AC_CuirassierBelt.label>Кавалерийский пояс</AC_CuirassierBelt.label>
   <!-- EN: An advanced ultratech projectile-repulsion device. It will attempt to stop incoming projectiles or shrapnel, but does nothing against melee attacks or heat. This model does not prevents the wearer from firing out, but still shuts down instantly if hit by EMP. -->
-  <AC_CuirassierBelt.description>先进的超科技弹射物排斥装置。它会尝试阻止射入的弹丸或弹片，但对于近战或是热能攻击毫无作用。此装置并不会阻止穿戴者向外开火，但如果被EMP击中仍会立即关闭。</AC_CuirassierBelt.description>
+  <AC_CuirassierBelt.description>Передовое ультратехнологичное устройство для отражения снарядов. Оно попытается остановить летящие пули или осколки, но бесполезно против рукопашных атак или теплового воздействия. Эта модель не мешает владельцу вести огонь, но по-прежнему мгновенно отключается при попадании ЭМИ.</AC_CuirassierBelt.description>
+
   
 </LanguageData>

@@ -2,8 +2,8 @@
 <LanguageData>
   
   <!-- EN: Sleeveliner -->
-  <AC_Sleeveliner.label>普通义体</AC_Sleeveliner.label>
+  <AC_Sleeveliner.label>Стандартная оболочка</AC_Sleeveliner.label>
   <!-- EN: An artificially gestated human with no or major significant genetic modifications. -->
-  <AC_Sleeveliner.description>没有任何或重大基因改造的人工培养人类。</AC_Sleeveliner.description>
+  <AC_Sleeveliner.description>Искусственно выращенный человек со значительными генетических модификаций или нет.</AC_Sleeveliner.description>
   
 </LanguageData>

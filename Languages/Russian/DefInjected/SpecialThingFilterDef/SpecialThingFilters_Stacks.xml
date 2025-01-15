@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: allow colonist stacks -->
-  <AC_AllowStacksColonist.label>允许殖民者堆叠</AC_AllowStacksColonist.label>
+  <AC_AllowStacksColonist.label>Разрешить стэки поселенцев</AC_AllowStacksColonist.label>
   <!-- EN: Allow the stacks of colonists. -->
-  <AC_AllowStacksColonist.description>允许殖民者们的堆叠。</AC_AllowStacksColonist.description>
+  <AC_AllowStacksColonist.description>Разрешить использование стэков для поселенцев.</AC_AllowStacksColonist.description>
   
   <!-- EN: allow hostile stacks -->
-  <AC_AllowStacksHostile.label>允许敌对者堆叠</AC_AllowStacksHostile.label>
+  <AC_AllowStacksHostile.label>Разрешить стэки врагов</AC_AllowStacksHostile.label>
   <!-- EN: Allow the stacks of hostiles and enemies. -->
-  <AC_AllowStacksHostile.description>允许敌对者与敌人们的堆叠。</AC_AllowStacksHostile.description>
+  <AC_AllowStacksHostile.description>Разрешить использование стэков для врагов и противников.</AC_AllowStacksHostile.description>
   
   <!-- EN: allow stranger stacks -->
-  <AC_AllowStacksStranger.label>允许陌生人堆叠</AC_AllowStacksStranger.label>
+  <AC_AllowStacksStranger.label>>Разрешить стэки незнакомцев</AC_AllowStacksStranger.label>
   <!-- EN: Allow the stacks of strangers. -->
-  <AC_AllowStacksStranger.description>允许陌生人们的堆叠。</AC_AllowStacksStranger.description>
+  <AC_AllowStacksStranger.description>Разрешить использование стэков для незнакомцев.</AC_AllowStacksStranger.description>
   
 </LanguageData>

@@ -9,6 +9,13 @@
     <li>prefix->Delta</li>
     <li>numbers->[Digit][Digit]</li>
   -->
-  <AC_NeuralMatrixNameMaker.rulePack.rulesStrings>TODO</AC_NeuralMatrixNameMaker.rulePack.rulesStrings>
+	<AC_NeuralMatrixNameMaker.rulePack.rulesStrings>
+		<li>root->[prefix]-[numbers]</li>
+		<li>prefix->Альфа</li>
+		<li>prefix->Бета</li>
+		<li>prefix->Гамма</li>
+		<li>prefix->Дельта</li>
+		<li>numbers->[Digit][Digit]</li>
+	</AC_NeuralMatrixNameMaker.rulePack.rulesStrings>
   
 </LanguageData>

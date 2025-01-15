@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: advanced shields -->
-  <AC_AdvancedShieldBelt.label>进阶护盾</AC_AdvancedShieldBelt.label>
+  <AC_AdvancedShieldBelt.label>Продвинутые щиты</AC_AdvancedShieldBelt.label>
   <!-- EN: Develop advanced shield gear that supports the use of ranged weapons and incorporates implantable shield Auras. -->
-  <AC_AdvancedShieldBelt.description>开发先进的护盾装备，使其支持使用远程武器并整合可植入的护盾光环。</AC_AdvancedShieldBelt.description>
+  <AC_AdvancedShieldBelt.description>Разработка улучшенных генераторов щитов, поддерживающих использование дальнобойного оружия и включающая имплантируемые генераторы щитов.</AC_AdvancedShieldBelt.description>
   <!-- EN:
     <li>subject->advanced shields</li>
     <li>subject_story->designed shield gear that protects while allowing soldiers to fire ranged weapons, greatly improving combat effectiveness</li>
@@ -14,18 +14,18 @@
     <li>subject_gerund->developing advanced personal shields</li>
   -->
   <AC_AdvancedShieldBelt.generalRules.rulesStrings>
-    <li>subject->进阶护盾</li>
-    <li>subject_story->专门设计的护盾设备，使士兵使用远程武器的同时也能保护自身，大幅提升战斗力。</li>
-    <li>subject_story->实施可植入的护盾光环用于个人防禦，允许穿戴者在保持护盾屏障的同时行动无阻。</li>
-    <li>subject_story->为安保部队配备先进护盾，大幅降低高风险环境下的伤亡率。</li>
-    <li>subject_story->引入的护盾如此先进，使其成为竞技搏击运动中的必备品。在不牺牲移动性的情况下提供了安全性。</li>
-    <li>subject_gerund->开发先进的个人护盾。</li>
+	  <li>subject->продвинутые щиты</li>
+	  <li>subject_story->были разработаны улучшенные генераторы щитов, защищающее и позволяющее солдатам вести огонь из дальнобойного оружия, что значительно повышает боевую эффективность</li>
+	  <li>subject_story->были внедрены имплантируемые генераторы щитов для личной защиты, позволяющие владельцам свободно перемещаться, сохраняя защитный барьер</li>
+	  <li>subject_story->силы безопасности были оснащены улучшенными щитами, что резко снизило потери в условиях повышенного риска</li>
+	  <li>subject_story->были представлены настолько продвинутые щиты, что они стали неотъемлемой частью соревновательных боевых видов спорта, обеспечивая безопасность без ущерба для мобильности</li>
+	  <li>subject_gerund->разработка продвинутых персональных щитов</li>
   </AC_AdvancedShieldBelt.generalRules.rulesStrings>
   
   <!-- EN: chrysalis armor -->
-  <AC_ChrysalisPoweredArmor.label>结蛹级装甲</AC_ChrysalisPoweredArmor.label>
+  <AC_ChrysalisPoweredArmor.label>Силовая броня «Хризалис»</AC_ChrysalisPoweredArmor.label>
   <!-- EN: Craft chrysalis armor, specialised for a wide range of different battlefield scenarios and needs, while providing the most protection possible. Note that these also require advanced components. -->
-  <AC_ChrysalisPoweredArmor.description>允许制作结蛹级装甲，专门用于各种不同的战场场景与需求，同时提供最大限度的防护。请注意这些装甲也需要先进零件。</AC_ChrysalisPoweredArmor.description>
+  <AC_ChrysalisPoweredArmor.description>Создание силовой брони «Хризалис», специализированной для широкого спектра различных боевых ситуаций и потребностей, обеспечивая при этом максимально возможную защиту. Обратите внимание, что для этой брони также требуются продвинутые компоненты.</AC_ChrysalisPoweredArmor.description>
   <!-- EN:
     <li>subject->chrysalis armor</li>
     <li>subject_story->developed adaptive powered armor capable of transforming to suit any combat situation, from heavy assault to covert operations</li>
@@ -35,18 +35,18 @@
     <li>subject_gerund->crafting versatile chrysalis armor</li>
   -->
   <AC_ChrysalisPoweredArmor.generalRules.rulesStrings>
-    <li>subject->结蛹级装甲</li>
-    <li>subject_story->开发了具有适应性的动力盔甲，能够根据不同的战斗情况进行转变，从重型突击到隐秘行动。</li>
-    <li>subject_story->为精英军事单位配备了结蛹级装甲，凭借其无与伦比的保护力和多功能性，在关键战斗中扭转了局势。</li>
-    <li>subject_story->引发了个人防护领域的革命，雇佣兵团体和安全部队纷纷在其行动中采用结蛹级装甲。</li>
-    <li>subject_story->推出了如此先进的盔甲，以至于成为超富阶层的象征，融合了战场技术与高级时尚</li>
-    <li>subject_gerund->打造多功能的结蛹级装甲</li>
+	  <li>subject->силовая броня «Хризалис»</li>
+	  <li>subject_story->была разработана адаптивная силовая броня, способная трансформироваться для соответствия любой боевой ситуации, от тяжелого штурма до тайных операций</li>
+	  <li>subject_story->элитные воинские части были оснащены силовой броней «Хризалис», что переломило ход критических сражений благодаря ее непревзойденной защите и универсальности</li>
+	  <li>subject_story->вызвала революцию в личной защите, поскольку наемные группы и силы безопасности приняли на вооружение броню «Хризалис» для своих операций</li>
+	  <li>subject_story->была представлена настолько продвинутая броня, что она стала символом статуса среди сверхбогатых, сочетая в себе боевые технологии и высокую моду</li>
+	  <li>subject_gerund->создание многофункциональной силовой брони «Хризалис»</li>
   </AC_ChrysalisPoweredArmor.generalRules.rulesStrings>
   
   <!-- EN: mental fortification -->
-  <AC_MentalFortification.label>心灵壁垒</AC_MentalFortification.label>
+  <AC_MentalFortification.label>Ментальная защита</AC_MentalFortification.label>
   <!-- EN: Craft brain implants that safeguard the user against mental breaks. -->
-  <AC_MentalFortification.description>制作脑部植入物，保护使用者免于精神崩溃。</AC_MentalFortification.description>
+  <AC_MentalFortification.description>Создание мозговых имплантатов, защищающих пользователя от нервных срывов.</AC_MentalFortification.description>
   <!-- EN:
     <li>subject->mental fortification</li>
     <li>subject_story->developed brain implants that stabilized emotional states, providing resilience against stress and trauma</li>
@@ -56,18 +56,18 @@
     <li>subject_gerund->fortifying mental resilience through brain implants</li>
   -->
   <AC_MentalFortification.generalRules.rulesStrings>
-    <li>subject->mental fortification</li>
-    <li>subject_story->developed brain implants that stabilized emotional states, providing resilience against stress and trauma</li>
-    <li>subject_story->became a critical tool for military and high-stress professions, allowing individuals to operate under extreme pressure without breaking down</li>
-    <li>subject_story->sparked ethical debates as corporations began using these implants to ensure compliance and loyalty in high-stakes environments</li>
-    <li>subject_story->enabled a new era of psychological stability, where mental fortification became a routine enhancement for those in leadership roles</li>
-    <li>subject_gerund->fortifying mental resilience through brain implants</li>
+	  <li>subject->ментальная защита</li>
+	  <li>subject_story->разработаны мозговые имплантаты, стабилизирующие эмоциональное состояние и обеспечивающие устойчивость к стрессу и травмам</li>
+	  <li>subject_story->стала критически важным инструментом для военных и профессий, связанных с высоким уровнем стресса, позволяя людям действовать в условиях экстремального давления без срывов</li>
+	  <li>subject_story->вызвала этические дебаты, поскольку корпорации начали использовать эти имплантаты для обеспечения послушания и лояльности в условиях высоких ставок</li>
+	  <li>subject_story->открыла новую эру психологической стабильности, где ментальная защита стала обычным улучшением для тех, кто занимает руководящие должности</li>
+	  <li>subject_gerund->укрепление ментальной устойчивости с помощью мозговых имплантатов</li>
   </AC_MentalFortification.generalRules.rulesStrings>
   
   <!-- EN: neural casting -->
-  <AC_NeuralCasting.label>神经铸造</AC_NeuralCasting.label>
+  <AC_NeuralCasting.label>Нейропередача</AC_NeuralCasting.label>
   <!-- EN: Research the ability for projecting a digitised consciousness by integrating psychic subwaves with short-range, high-speed communication frequencies. -->
-  <AC_NeuralCasting.description>透过利用短距离、高速通讯频率整合心灵子波，研究投射数位化意识的能力。</AC_NeuralCasting.description>
+  <AC_NeuralCasting.description>Исследование способности проецировать оцифрованное сознание путем интеграции психических субволн с ближними, высокоскоростными частотами связи.</AC_NeuralCasting.description>
   <!-- EN:
     <li>subject->neural casting</li>
     <li>subject_story->developed methods to project digitized consciousness, allowing individuals to communicate over vast distances without physical presence</li>
@@ -77,18 +77,18 @@
     <li>subject_gerund->researching the integration of psychic and technological communication</li>
   -->
   <AC_NeuralCasting.generalRules.rulesStrings>
-    <li>subject->neural casting</li>
-    <li>subject_story->developed methods to project digitized consciousness, allowing individuals to communicate over vast distances without physical presence</li>
-    <li>subject_story->combined psychic subwaves with advanced technology to create a seamless link between minds, revolutionizing long-distance interactions</li>
-    <li>subject_story->prompted speculation about the potential for consciousness transfer, raising ethical and philosophical debates</li>
-    <li>subject_story->became a cornerstone of new forms of telepathic communication, enabling collaborative efforts across great distances</li>
-    <li>subject_gerund->researching the integration of psychic and technological communication</li>
+	  <li>subject->нейропередача</li>
+	  <li>subject_story->разработаны методы проецирования оцифрованного сознания, позволяющие людям общаться на огромных расстояниях без физического присутствия</li>
+	  <li>subject_story->психические субволны объединены с передовыми технологиями для создания бесшовной связи между разумами, что произвело революцию в удаленном взаимодействии</li>
+	  <li>subject_story->вызвала предположения о возможности передачи сознания, что подняло этические и философские дебаты</li>
+	  <li>subject_story->стала краеугольным камнем новых форм телепатической связи, обеспечивая совместную работу на больших расстояниях</li>
+	  <li>subject_gerund->исследование интеграции психической и технологической связи</li>
   </AC_NeuralCasting.generalRules.rulesStrings>
   
   <!-- EN: neural digitalization -->
-  <AC_NeuralDigitalization.label>神经数位化</AC_NeuralDigitalization.label>
+  <AC_NeuralDigitalization.label>Оцифровка сознания</AC_NeuralDigitalization.label>
   <!-- EN: Delve into neural technologies to create implants that can house a fully digitised human consciousness.\n\nYou can get the nano storage drive from quests, there is no other way to unlock this research. -->
-  <AC_NeuralDigitalization.description>神入研究神经技术，制作出可容纳完整数位化人类意识的植入体。\n\n你可以从任务中获取奈米储存硬碟，没有其他方法可以解锁这项研究。</AC_NeuralDigitalization.description>
+  <AC_NeuralDigitalization.description>Углубленное изучение нейронных технологий для создания имплантатов, способных вместить полностью оцифрованное человеческое сознание.\n\nНано-накопитель можно получить за выполнение заданий, других способов разблокировать это исследование нет.</AC_NeuralDigitalization.description>
   <!-- EN:
     <li>subject->neural digitalization</li>
     <li>subject_story->pioneered the process of transferring human minds into digital form, extending life beyond biology</li>
@@ -102,22 +102,22 @@
     <li>subject_gerund->digitizing neural patterns</li>
   -->
   <AC_NeuralDigitalization.generalRules.rulesStrings>
-    <li>subject->neural digitalization</li>
-    <li>subject_story->pioneered the process of transferring human minds into digital form, extending life beyond biology</li>
-    <li>subject_story->digitized the minds of an entire research team, effectively creating a virtual scientific think tank</li>
-    <li>subject_story->sold digitized consciousnesses as a means of immortality to the highest bidders</li>
-    <li>subject_story->transferred a dying political leader's mind into a server, allowing them to continue governing from a virtual state</li>
-    <li>subject_story->created a virtual paradise where the minds of the deceased could interact with the living in a simulated world</li>
-    <li>subject_story->engineered a mass migration of consciousnesses into a digital utopia, leaving behind a depopulated physical world</li>
-    <li>subject_story->sparked ethical debates as digital minds began demanding equal rights and autonomy over their virtual existence</li>
-    <li>subject_story->uncovered a flaw in the digitization process, where some digital consciousnesses experienced fragmentation and memory loss</li>
-    <li>subject_gerund->digitizing neural patterns</li>
+	  <li>subject->оцифровка сознания</li>
+	  <li>subject_story->впервые осуществлен процесс переноса человеческого разума в цифровую форму, продлевая жизнь за пределы биологии</li>
+	  <li>subject_story->оцифрованы разумы целой исследовательской группы, фактически создав виртуальный научный центр</li>
+	  <li>subject_story->оцифрованные сознания продавались как средство достижения бессмертия самым богатым покупателям</li>
+	  <li>subject_story->разум умирающего политического лидера перенесен на сервер, что позволило ему продолжать управлять из виртуального состояния</li>
+	  <li>subject_story->создан виртуальный рай, где разумы умерших могли взаимодействовать с живыми в смоделированном мире</li>
+	  <li>subject_story->организована массовая миграция сознаний в цифровую утопию, оставив позади опустевший физический мир</li>
+	  <li>subject_story->вызвала этические дебаты, поскольку цифровые разумы начали требовать равных прав и автономии над своим виртуальным существованием</li>
+	  <li>subject_story->обнаружен изъян в процессе оцифровки, из-за которого некоторые цифровые сознания испытывали фрагментацию и потерю памяти</li>
+	  <li>subject_gerund->оцифровка нейронных паттернов</li>
   </AC_NeuralDigitalization.generalRules.rulesStrings>
   
   <!-- EN: neural editing -->
-  <AC_NeuralEditing.label>神经编辑</AC_NeuralEditing.label>
+  <AC_NeuralEditing.label>Редактирование сознания</AC_NeuralEditing.label>
   <!-- EN: Continue to advance neural technologies to facilitate the manipulation and replication of digitised human consciousness. -->
-  <AC_NeuralEditing.description>继续推进神经技术，以利于操控和複製数位化的人类意识。</AC_NeuralEditing.description>
+  <AC_NeuralEditing.description>Дальнейшее развитие нейронных технологий для облегчения манипулирования и копирования оцифрованного человеческого сознания.</AC_NeuralEditing.description>
   <!-- EN:
     <li>subject->neural editing</li>
     <li>subject_story->perfected the ability to modify memories and personality traits within a digitised consciousness</li>
@@ -127,18 +127,18 @@
     <li>subject_gerund->editing neural data</li>
   -->
   <AC_NeuralEditing.generalRules.rulesStrings>
-    <li>subject->neural editing</li>
-    <li>subject_story->perfected the ability to modify memories and personality traits within a digitised consciousness</li>
-    <li>subject_story->cloned and edited consciousnesses to create specialized versions of individuals for specific tasks</li>
-    <li>subject_story->erased traumatic experiences from digital minds, offering relief to those suffering from psychological damage</li>
-    <li>subject_story->sparked controversy after governments began secretly editing the minds of political dissidents to ensure compliance</li>
-    <li>subject_gerund->editing neural data</li>
+	  <li>subject->редактирование сознания</li>
+	  <li>subject_story->усовершенствована способность изменять воспоминания и черты личности в оцифрованном сознании</li>
+	  <li>subject_story->клонированы и отредактированы сознания для создания специализированных версий людей для выполнения конкретных задач</li>
+	  <li>subject_story->из цифровых разумов стерты травмирующие переживания, что принесло облегчение тем, кто страдает от психологических травм</li>
+	  <li>subject_story->вызвала споры после того, как правительства начали тайно редактировать сознание политических диссидентов для обеспечения повиновения</li>
+	  <li>subject_gerund->редактирование нейронных данных</li>
   </AC_NeuralEditing.generalRules.rulesStrings>
   
   <!-- EN: REM-sleep enchanment -->
-  <AC_REMEnchanment.label>快速动眼睡眠增强</AC_REMEnchanment.label>
+  <AC_REMEnchanment.label>Улучшение быстрого сна</AC_REMEnchanment.label>
   <!-- EN: Craft brain implants that enhance the user’s REM sleep, promoting deeper and more restorative rest. -->
-  <AC_REMEnchanment.description>精心製作的脑部植入体，能够强化使用者的快速动眼睡眠，促进更深层次的休息。</AC_REMEnchanment.description>
+  <AC_REMEnchanment.description>Создание мозговых имплантатов, улучшающих фазу быстрого сна пользователя, способствуя более глубокому и восстанавливающему отдыху.</AC_REMEnchanment.description>
   <!-- EN:
     <li>subject->REM-sleep enhancement</li>
     <li>subject_story->developed brain implants that significantly improved the quality of REM sleep, leading to heightened cognitive function and creativity</li>
@@ -148,18 +148,18 @@
     <li>subject_gerund->enhancing REM sleep through advanced brain implants</li>
   -->
   <AC_REMEnchanment.generalRules.rulesStrings>
-    <li>subject->REM-sleep enhancement</li>
-    <li>subject_story->developed brain implants that significantly improved the quality of REM sleep, leading to heightened cognitive function and creativity</li>
-    <li>subject_story->became popular among artists and thinkers who sought to unlock their full potential during sleep</li>
-    <li>subject_story->prompted concerns over dependency, as users became reliant on implants for natural rest</li>
-    <li>subject_story->created a new industry focused on sleep technology, revolutionizing wellness and productivity across various sectors</li>
-    <li>subject_gerund->enhancing REM sleep through advanced brain implants</li>
+	  <li>subject->улучшение быстрого сна</li>
+	  <li>subject_story->разработаны мозговые имплантаты, значительно улучшающие качество быстрого сна, что приводит к повышению когнитивных функций и креативности</li>
+	  <li>subject_story->стало популярным среди художников и мыслителей, стремящихся раскрыть свой полный потенциал во время сна</li>
+	  <li>subject_story->вызвало опасения по поводу зависимости, поскольку пользователи стали полагаться на имплантаты для естественного отдыха</li>
+	  <li>subject_story->создана новая индустрия, ориентированная на технологии сна, что произвело революцию в сфере здоровья и производительности в различных секторах</li>
+	  <li>subject_gerund->улучшение быстрого сна с помощью передовых мозговых имплантатов</li>
   </AC_REMEnchanment.generalRules.rulesStrings>
   
   <!-- EN: rogian armaments -->
-  <AC_RogianArmaments.label>洛基安军备</AC_RogianArmaments.label>
+  <AC_RogianArmaments.label>Рогианское Вооружение</AC_RogianArmaments.label>
   <!-- EN: Craft specialized bionic limb replacements designed for combat that do not hinder the user’s ability to function in day to day life. -->
-  <AC_RogianArmaments.description>製作专门用于战斗且不妨碍使用者日常生活能力的彷生肢体替代品。</AC_RogianArmaments.description>
+  <AC_RogianArmaments.description>Создание специализированных бионических протезов конечностей, предназначенных для боя и не мешающих повседневной деятельности пользователя.</AC_RogianArmaments.description>
   <!-- EN:
     <li>subject->rogian armaments</li>
     <li>subject_story->engineered bionic limbs that enhanced combat effectiveness while maintaining everyday functionality for users</li>
@@ -169,18 +169,18 @@
     <li>subject_gerund->crafting combat-ready bionic limb replacements</li>
   -->
   <AC_RogianArmaments.generalRules.rulesStrings>
-    <li>subject->rogian armaments</li>
-    <li>subject_story->engineered bionic limbs that enhanced combat effectiveness while maintaining everyday functionality for users</li>
-    <li>subject_story->adopted by elite soldiers, these armaments provided superior strength and agility without compromising dexterity</li>
-    <li>subject_story->raised ethical concerns regarding the militarization of prosthetics, as many questioned the line between aid and enhancement</li>
-    <li>subject_story->became a status symbol in both military and civilian circles, representing the pinnacle of advanced technology</li>
-    <li>subject_gerund->crafting combat-ready bionic limb replacements</li>
+	  <li>subject->вооружение Рогиан</li>
+	  <li>subject_story->сконструированы бионические конечности, повышающие боевую эффективность и сохраняющие повседневную функциональность для пользователей</li>
+	  <li>subject_story->принятые на вооружение элитными солдатами, эти протезы обеспечивали превосходную силу и ловкость без ущерба для моторики</li>
+	  <li>subject_story->вызвали этические опасения относительно милитаризации протезов, поскольку многие задавались вопросом о границе между помощью и улучшением</li>
+	  <li>subject_story->стали символом статуса как в военных, так и в гражданских кругах, представляя собой вершину передовых технологий</li>
+	  <li>subject_gerund->создание боеспособных бионических протезов конечностей</li>
   </AC_RogianArmaments.generalRules.rulesStrings>
   
   <!-- EN: skilltrainer production -->
-  <AC_SkilltrainerProduction.label>技能训练器製造</AC_SkilltrainerProduction.label>
+  <AC_SkilltrainerProduction.label>Производство тренеров навыков</AC_SkilltrainerProduction.label>
   <!-- EN: Leverage neural technologies and a blend of torturous virtual realities to program skilltrainers from living individuals. A person's mind will be forced to complete a multitude of skill-related tasks over and over, creating artificial neural patterns that will be transferred to the skilltrainer's mechanites. -->
-  <AC_SkilltrainerProduction.description>利用神经技术与折磨人的虚拟现实融合，从活生生的人身上编写技能训练器。一个人的心灵将被迫反复完成许多与该技能相关的任务，创造出人工神经模板并转移至机械当中以製成技能训练器。</AC_SkilltrainerProduction.description>
+  <AC_SkilltrainerProduction.description>Использование нейронных технологий и сочетания мучительных виртуальных реальностей для программирования тренажеров навыков из живых людей. Разум человека будет вынужден многократно выполнять множество связанных с навыком задач, создавая искусственные нейронные паттерны, которые будут переданы механоидам тренажера навыков.</AC_SkilltrainerProduction.description>
   <!-- EN:
     <li>subject->skilltrainer production</li>
     <li>subject_story->engineered brutal virtual environments where minds were pushed to their limits, perfecting skills through forced repetition</li>
@@ -190,18 +190,18 @@
     <li>subject_gerund->programming skilltrainers through forced neural repetition</li>
   -->
   <AC_SkilltrainerProduction.generalRules.rulesStrings>
-    <li>subject->skilltrainer production</li>
-    <li>subject_story->engineered brutal virtual environments where minds were pushed to their limits, perfecting skills through forced repetition</li>
-    <li>subject_story->built a system where the most talented minds were harvested to mass-produce skilltrainer devices for rapid learning</li>
-    <li>subject_story->sparked an outcry after it was revealed that individuals were subjected to months of torturous simulations to create skilltrainers in mere days</li>
-    <li>subject_story->fueled a black market of skilltrainers created from illegally captured minds, offering expertise at the cost of another's suffering</li>
-    <li>subject_gerund->programming skilltrainers through forced neural repetition</li>
+	  <li>subject->производство тренажеров навыков</li>
+	  <li>subject_story->сконструированы жестокие виртуальные среды, где разум доводился до предела, совершенствуя навыки посредством принудительного повторения</li>
+	  <li>subject_story->создана система, в которой самые талантливые умы использовались для массового производства устройств для обучения навыкам</li>
+	  <li>subject_story->вызвало протесты после того, как выяснилось, что люди подвергались месяцам мучительных симуляций для создания тренажеров навыков всего за несколько дней</li>
+	  <li>subject_story->породило черный рынок тренажеров навыков, созданных из незаконно захваченных разумов, предлагая экспертные знания ценой чужих страданий</li>
+	  <li>subject_gerund->программирование тренажеров навыков посредством принудительного нейронного повторения</li>
   </AC_SkilltrainerProduction.generalRules.rulesStrings>
   
   <!-- EN: sleeve gestation -->
-  <AC_SleeveGestation.label>义体培养</AC_SleeveGestation.label>
+  <AC_SleeveGestation.label>Выращивание оболочек</AC_SleeveGestation.label>
   <!-- EN: Develop advanced biotechnologies to create highly customizable synthetic bodies called sleeves for usage with neural stacks. -->
-  <AC_SleeveGestation.description>开发先进的生物技术，以製造高度客制化的合成肉体称为「义体」，并给予神经堆叠使用。</AC_SleeveGestation.description>
+  <AC_SleeveGestation.description>Разработка передовых биотехнологий для создания настраиваемых синтетических тел, называемых оболочками, для использования с нейростэками.</AC_SleeveGestation.description>
   <!-- EN:
     <li>subject->sleeve gestation</li>
     <li>subject->sleeve creation</li>
@@ -212,19 +212,19 @@
     <li>subject_gerund->gestating synthetic sleeves</li>
   -->
   <AC_SleeveGestation.generalRules.rulesStrings>
-    <li>subject->sleeve gestation</li>
-    <li>subject->sleeve creation</li>
-    <li>subject->sleeve growing</li>
-    <li>subject_story->collaborated with leading biotech firms to produce synthetic bodies</li>
-    <li>subject_story->enabled the transfer of human consciousness into engineered sleeves, overcoming physical death</li>
-    <li>subject_story->monopolized the market of sleeve manufacturing, offering elite bodies to the wealthy</li>
-    <li>subject_gerund->gestating synthetic sleeves</li>
+	  <li>subject->выращивание оболочек</li>
+	  <li>subject->создание оболочек</li>
+	  <li>subject->выращивание оболочек</li>
+	  <li>subject_story->сотрудничество с ведущими биотехнологическими фирмами для производства синтетических тел</li>
+	  <li>subject_story->обеспечен перенос человеческого сознания в созданные оболочки, преодолевая физическую смерть</li>
+	  <li>subject_story->монополизирован рынок производства оболочек, предлагая элитные тела богатым</li>
+	  <li>subject_gerund->выращивание синтетических оболочек</li>
   </AC_SleeveGestation.generalRules.rulesStrings>
   
   <!-- EN: vocal synthesis -->
-  <AC_VocalSynthesis.label>声音合成</AC_VocalSynthesis.label>
+  <AC_VocalSynthesis.label>Синтез голоса</AC_VocalSynthesis.label>
   <!-- EN: Craft bionic implants that enhance vocal capabilities, making them more effective for social interactions. -->
-  <AC_VocalSynthesis.description>製造可增强发声能力的彷生植入体，让他们在社交互动时更有效率。</AC_VocalSynthesis.description>
+  <AC_VocalSynthesis.description>Создание бионических имплантатов, улучшающих голосовые возможности, делая их более эффективными для социального взаимодействия.</AC_VocalSynthesis.description>
   <!-- EN:
     <li>subject->vocal synthesis</li>
     <li>subject_story->developed bionic vocal implants that revolutionized communication for diplomats, leaders, and performers</li>
@@ -234,12 +234,12 @@
     <li>subject_gerund->synthesizing enhanced vocal implants</li>
   -->
   <AC_VocalSynthesis.generalRules.rulesStrings>
-    <li>subject->vocal synthesis</li>
-    <li>subject_story->developed bionic vocal implants that revolutionized communication for diplomats, leaders, and performers</li>
-    <li>subject_story->enhanced the social and persuasive abilities of high-profile individuals, allowing them to influence with remarkable clarity and tone</li>
-    <li>subject_story->became a luxury commodity among celebrities and public figures, allowing them to perfect their voices</li>
-    <li>subject_story->led to the rise of vocal modification in entertainment industries, where synthesized voices became a hallmark of high-end performances</li>
-    <li>subject_gerund->synthesizing enhanced vocal implants</li>
+	  <li>subject->синтез голоса</li>
+	  <li>subject_story->разработаны бионические голосовые имплантаты, которые произвели революцию в общении для дипломатов, лидеров и исполнителей</li>
+	  <li>subject_story->улучшены социальные и убеждающие способности известных личностей, позволяя им оказывать влияние с поразительной ясностью и тоном</li>
+	  <li>subject_story->стало предметом роскоши среди знаменитостей и публичных деятелей, позволяя им совершенствовать свои голоса</li>
+	  <li>subject_story->привело к развитию модификации голоса в индустрии развлечений, где синтезированные голоса стали отличительной чертой высококлассных выступлений</li>
+	  <li>subject_gerund->синтез улучшенных голосовых имплантатов</li>
   </AC_VocalSynthesis.generalRules.rulesStrings>
   
 </LanguageData>

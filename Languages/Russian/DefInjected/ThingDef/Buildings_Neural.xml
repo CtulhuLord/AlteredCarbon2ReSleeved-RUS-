@@ -2,28 +2,28 @@
 <LanguageData>
   
   <!-- EN: casting relay -->
-  <AC_CastingRelay.label>针铸中继器</AC_CastingRelay.label>
+  <AC_CastingRelay.label>Ретранслятор игольной передачи</AC_CastingRelay.label>
   <!-- EN: A needlecasting range amplifier. Casting relays must be connected to a neural matrix to function. This will extend the needlecasting range by 5 world tiles allowing for operation further away from a neural matrix. -->
-  <AC_CastingRelay.description>针铸范围放大器。针铸中继器必须连接神经矩阵才能运作。这将扩大5个世界地块的针铸传送范围，让你可以在远离神经矩阵的地方操作。</AC_CastingRelay.description>
-  
-  <!-- EN: neural connector -->
-  <AC_NeuralConnector.label>神经连接器</AC_NeuralConnector.label>
+<AC_CastingRelay.description>Увеличивает дальность игольной передачи нейростэков, подключенных к нейронной матрице. Для работы ретрансляторы игольной передачи должны быть подключены к нейронной матрице. Увеличение составляет 5 клеток, позволяя проводить операции на большем расстоянии от нейронной матрицы.</AC_CastingRelay.description>
+
+	<!-- EN: neural connector -->
+  <AC_NeuralConnector.label>Нейроконнектор</AC_NeuralConnector.label>
   <!-- EN: A sleek, ergonomic chair that allows for interfacing with an active neural stack that is inside a sleeve. Requires to be connected to a neural matrix to work. -->
-  <AC_NeuralConnector.description>时尚且符合人体工学的椅子，可与义体内的活跃神经堆叠互动。需要连接到神经矩阵才能运作。</AC_NeuralConnector.description>
-  
-  <!-- EN: neural editor -->
-  <AC_NeuralEditor.label>神经编辑器</AC_NeuralEditor.label>
+	<AC_NeuralConnector.description>Элегантное эргономичное кресло, позволяющее взаимодействовать с активным нейростэком, находящимся в оболочке. Для работы требуется подключение к нейронной матрице.</AC_NeuralConnector.description>
+
+	<!-- EN: neural editor -->
+  <AC_NeuralEditor.label>Нейроинженерный верстак</AC_NeuralEditor.label>
   <!-- EN: A sophisticated workbench that connects to a neural matrix and allows the user to interface with it. Allows the modification of neural stacks and other complex tasks, like resetting biocoding. -->
-  <AC_NeuralEditor.description>一个複杂的工作臺。可连接到神经矩阵并允许使用者与其互动。允许修改神经堆叠或是其他複杂任务，例如重设生物编码。</AC_NeuralEditor.description>
+  <AC_NeuralEditor.description>Сложный верстак, который подключается к нейронной матрице и позволяет пользователю взаимодействовать с ней. Позволяет модифицировать нейростэки и выполнять другие сложные задачи, например, сброс биокодирования.</AC_NeuralEditor.description>
   
   <!-- EN: neural matrix -->
-  <AC_NeuralMatrix.label>神经矩阵</AC_NeuralMatrix.label>
+  <AC_NeuralMatrix.label>Нейронная матрица</AC_NeuralMatrix.label>
   <!-- EN: A highly advanced and complex quantum computing array, designed for a multitude of tasks, including the storing and managing natural stacks. Neural Stacks stored inside can needlecast and remotely control any sleeve with a remote stack installed.\n\nA vast number of buildings can be connected to it to expand a neural matrix's functionality. -->
-  <AC_NeuralMatrix.description>高度先进且複杂的量子运算阵列，专为多工设计，包含储存与管理自然堆叠。储存在内的神经堆叠可以针对任何安装了远端堆叠的义体进行针铸以及远端操作。</AC_NeuralMatrix.description>
+  <AC_NeuralMatrix.description>Высокотехнологичный и сложный массив квантовых вычислений, предназначенный для множества задач, включая хранение и управление нейростэками. Хранящиеся внутри нейростэки могут использовать игольную передачу и удаленно управлять любой оболочкой с установленным дистанционным стэком.\n\nК нейронной матрице можно подключить множество построек для расширения её функциональности.</AC_NeuralMatrix.description>
   
   <!-- EN: stack cache -->
-  <AC_StackCache.label>堆叠缓存</AC_StackCache.label>
+  <AC_StackCache.label>Хранилище стэков</AC_StackCache.label>
   <!-- EN: This building can store stacks safely. When powered and connected to a neural matrix, it allows stored stacks to needlecast and slowly mend corruption. -->
-  <AC_StackCache.description>该建筑可以安全的储存堆叠。当供应电源并且连接到神经矩阵时，它可以使储存的堆叠进行针铸并且缓慢的修復腐蚀。</AC_StackCache.description>
+  <AC_StackCache.description>Это здание безопасно хранит стэки. При наличии питания и подключении к нейронной матрице оно позволяет хранящимся стэкам использовать игольную передачу и медленно устранять повреждения.</AC_StackCache.description>
   
 </LanguageData>

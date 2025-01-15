@@ -9,11 +9,11 @@
   <AC_InstallEmptyNeuralStack.jobString>Устанавливает пустой нейростэк.</AC_InstallEmptyNeuralStack.jobString>
   
   <!-- EN: install active neural stack -->
-  <AC_InstallNeuralStack.label>Установить пустой нейростэк</AC_InstallNeuralStack.label>
+  <AC_InstallNeuralStack.label>Установить активный нейростэк</AC_InstallNeuralStack.label>
   <!-- EN: Install a neural stack. -->
-  <AC_InstallNeuralStack.description>Установить пустой нейростэк.</AC_InstallNeuralStack.description>
+  <AC_InstallNeuralStack.description>Установить активный нейростэк.</AC_InstallNeuralStack.description>
   <!-- EN: Installing neural stack. -->
-  <AC_InstallNeuralStack.jobString>Устанавливает пустой нейростэк.</AC_InstallNeuralStack.jobString>
+  <AC_InstallNeuralStack.jobString>Устанавливает активный нейростэк.</AC_InstallNeuralStack.jobString>
   
   <!-- EN: remove neural stack -->
   <AC_RemoveNeuralStack.label>Извлечь нейростэк</AC_RemoveNeuralStack.label>

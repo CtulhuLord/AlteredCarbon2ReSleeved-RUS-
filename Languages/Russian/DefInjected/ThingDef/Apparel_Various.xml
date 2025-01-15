@@ -2,23 +2,23 @@
 <LanguageData>
   
   <!-- EN: chrysalis armor -->
-  <AC_Apparel_ChrysalisArmor.label>结蛹级装甲</AC_Apparel_ChrysalisArmor.label>
+  <AC_Apparel_ChrysalisArmor.label>Броня «Хризалис»</AC_Apparel_ChrysalisArmor.label>
   <!-- EN: A suit of advanced chrysalis power armor. Improved protection over standard power armor, offered by molecular plasteel integration thoughout the suit as well as on-board processors to assist movement and dampen pain receptors. -->
-  <AC_Apparel_ChrysalisArmor.description>一套先进的结蛹级装甲。与标准的动力装甲相比，这套装甲的防护性能更强。全套装备都整合了分子塑钢，并配备了机载处理器来协助移动与抑制痛觉。</AC_Apparel_ChrysalisArmor.description>
+  <AC_Apparel_ChrysalisArmor.description>Комплект улучшенной силовой брони «Хризалис». Обеспечивает повышенную защиту по сравнению со стандартной силовой броней благодаря молекулярной интеграции пластали по всему костюму, а также бортовым процессорам, помогающим в движении и подавляющим болевые рецепторы.</AC_Apparel_ChrysalisArmor.description>
   
   <!-- EN: dragoon armor -->
-  <AC_Apparel_DragoonArmor.label>龙骑士装甲</AC_Apparel_DragoonArmor.label>
+  <AC_Apparel_DragoonArmor.label>Броня драгуна</AC_Apparel_DragoonArmor.label>
   <!-- EN: A variant of the chrysalis armor with automatically recharging kinetic assistors and stability modules that allow the user to leap an impressive distance. Dragoon armor is less protective than standard chrysalis armor, but next-gen neuro-memetic assistors allow for improved mobility and easy flanking of hostile forces on the battlefield. \n\nIncludes a package of pain inhibitors to ensure the wearer can fulfil their objective until their dying breath. -->
-  <AC_Apparel_DragoonArmor.description>结蛹级装甲的变种，配备自动充能的动能辅助器与稳定模组，可让使用者跳跃出一段令人印象深刻的距离。龙骑士装甲的防护性不如标准的结蛹级装甲，但新一代的神经记忆辅助器可提高机动性，使其在战场上轻松包抄敌军。\n\n包含一组疼痛抑制剂，确保穿戴者能够达成目标直到断气为止。</AC_Apparel_DragoonArmor.description>
+  <AC_Apparel_DragoonArmor.description>Вариант брони «Хризалис» с автоматически перезаряжающимися кинетическими усилителями и модулями стабилизации, позволяющими пользователю совершать впечатляющие прыжки на расстояние. Броня драгуна обеспечивает меньшую защиту, чем стандартная броня «Хризалис», но нейро-меметические усилители нового поколения улучшают мобильность и позволяют легко обходить вражеские силы на поле боя.\n\nВключает комплект ингибиторов боли, чтобы владелец мог выполнять свою задачу до последнего вздоха.</AC_Apparel_DragoonArmor.description>
   
   <!-- EN: fusilier armor -->
-  <AC_Apparel_FusilierArmor.label>火枪手装甲</AC_Apparel_FusilierArmor.label>
+  <AC_Apparel_FusilierArmor.label>Стрелковая броня</AC_Apparel_FusilierArmor.label>
   <!-- EN: A variant of the chrysalis armor with a heavy layer of plasteel-weave plates, next-gen solid ablative coatings and integrated smokepop synthesizers to obfuscate the wearer’s location. \n\nIncludes a package of pain inhibitors to ensure the wearer can fulfill their objective until their dying breath. -->
-  <AC_Apparel_FusilierArmor.description>结蛹级装甲的变种，有一层厚重的塑钢织片、次世代固态烧结涂层与整合式烟雾合成器，用以混淆穿戴者的位置。\n\n包含一组疼痛抑制剂，确保穿戴者能够达成目标直到断气为止。</AC_Apparel_FusilierArmor.description>
+  <AC_Apparel_FusilierArmor.description>Вариант брони «Хризалис» с толстым слоем пластин из пластали, абляционным покрытием нового поколения и встроенными синтезаторами дымовых завес для сокрытия местоположения владельца.\n\nВключает комплект ингибиторов боли, чтобы владелец мог выполнять свою задачу до последнего вздоха.</AC_Apparel_FusilierArmor.description>
   
   <!-- EN: enviro suit -->
-  <AC_EnviroSuit.label>环境防护装甲</AC_EnviroSuit.label>
+  <AC_EnviroSuit.label>Костюм химзащиты</AC_EnviroSuit.label>
   <!-- EN: A lightly armored, impermeable, airtight full body suit with hyperweave lining designed for work in extreme conditions. Thin, layered plasteel-weave plates, advanced molecular adaptation layers and a state of the art air filtration system allow for full protection against heat, cold, psychic and toxic effects. It limits the movement and visibility of the wearer while not offering much of protection in combat.\n\nOriginally created for workers in zero-G and other extreme working conditions, it soon found popularity with needlecasters, explorers and medical professionals alike and has been widely adopted on a multitude of worlds. -->
-  <AC_EnviroSuit.description>一种轻装、防渗透、密不透气且有超级布料内衬的全身防护服。专为在极端环境下工作而设计。薄而分层的塑钢织片、先进的分子适应层与最先进的空气过滤系统，可提供全面的防护以抵禦高温、寒冷、精神与毒气的影响。它限制了穿戴者的行动与能见度，并且无法在战斗中提供太多保护。\n\n该装甲最初是为了零重力与其他极端工作条件下的工人设计，但很快就受到针铸者、探险家与医疗专业人员们的喜爱，并在许多世界上被广泛採用。</AC_EnviroSuit.description>
+  <AC_EnviroSuit.description>Легко бронированный, непроницаемый, герметичный костюм, с подкладкой из гиперткани, предназначенный для работы в экстремальных условиях. Тонкие многослойные пластины из пластали, усовершенствованные слои молекулярной адаптации и современная система фильтрации воздуха обеспечивают полную защиту от жары, холода, психического и токсического воздействия. Он ограничивает подвижность и видимость владельца, при этом не обеспечивая значительной защиты в бою.\n\nИзначально созданный для рабочих в условиях невесомости и других экстремальных условиях, он вскоре стал популярен среди игломётов, исследователей и медицинских работников и был широко принят на множестве миров.</AC_EnviroSuit.description>
   
 </LanguageData>

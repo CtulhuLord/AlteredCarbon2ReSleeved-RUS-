@@ -2,8 +2,10 @@
 <LanguageData>
   
   <!-- EN: glide pack -->
-  <AC_Apparel_WingJump.label>滑翔背包</AC_Apparel_WingJump.label>
+  <AC_Apparel_WingJump.label>Прыжковый ранец-планер</AC_Apparel_WingJump.label>
   <!-- EN: A single-person set of mechanical wings for short-ranged flight. With its artificial polymer muscles and guidance assistant, the jump wing allows anyone to leap distances at high speed, while staying completely silent. It recharge automatically after every use.\n\nSome ultratech worlds use them for emergency personal to allow rapid deployment and rescue operation in difficult terrain. -->
-  <AC_Apparel_WingJump.description>一套用于短程飞行的单人用机械翅膀。凭藉着其人工聚合物肌肉与引导助理，跳跃翅膀允许任何人以高速跳跃，同时保持完全无声。它在每次使用后都将会自动充电。\n\n有些超科技世界将其用于紧急个人救援，以便在险困地形中进行快速部属与救援作业。</AC_Apparel_WingJump.description>
-  
-</LanguageData>
+	  <AC_Apparel_WingJump.description>Комплект механических крыльев для одного человека, предназначенный для полётов на короткие расстояния. Благодаря искусственным полимерным мускулам и системе наведения, прыжковый ранец-планер позволяет совершать прыжки на большие расстояния с высокой скоростью, оставаясь при этом абсолютно бесшумным. Он автоматически перезаряжается после каждого использования.\n\nВ некоторых ультратехнологичных мирах их используют для экстренной эвакуации, что позволяет быстро развертывать спасательные операции в труднопроходимой местности.</AC_Apparel_WingJump.description>
+
+
+
+  </LanguageData>

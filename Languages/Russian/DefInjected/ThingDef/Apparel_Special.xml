@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: hayabusa armor -->
-  <AC_Apparel_HayabusaArmor.label>猎鹰级装甲</AC_Apparel_HayabusaArmor.label>
+  <AC_Apparel_HayabusaArmor.label>Броня «Хаябуса»</AC_Apparel_HayabusaArmor.label>
   <!-- EN: A suit of true next-generation power armor. It offers unrivalled protection over chrysalis power armor and protects its wearer even in the most dangerous environments. It' self-repairing molecular plasteel integration is beyond what known fabrication processes are able to construct and the suit lining has been infused with crypo-bleed technologie.\n\nWhile it is impossible to know for sure, given the amount of armor ability modules added, this suit of power armor most likely served as a prototype armor platform for some sort of glitterworld mega-corp. -->
-  <AC_Apparel_HayabusaArmor.description>一套真正的次世代动力装甲。它提供比结蛹级动力装甲无与伦比的保护，即使在最危险的环境下也能保护穿戴者。它的自我修复分子塑钢整合技术超越了已知製造工艺所能建构的程度，并且服装内衬还注入了低温渗透技术。\n\n尽管无法确定，但考虑到它所添加的众多功能模块，该套动力装甲极有可能是某个闪耀世界巨型企业的装甲平台原型。</AC_Apparel_HayabusaArmor.description>
+  <AC_Apparel_HayabusaArmor.description>Настоящая силовая броня нового поколения. Она обеспечивает непревзойденную защиту по сравнению с силовой броней «Хризалис» и защищает владельца даже в самых опасных условиях. Её самовосстанавливающаяся молекулярная интеграция с пласталью выходит за рамки известных производственных процессов, а подкладка костюма пропитана крио-кровеостанавливающей технологией.\n\nХотя это невозможно знать наверняка, учитывая количество добавленных модулей брони, этот комплект силовой брони, скорее всего, служил прототипом броневой платформы для какой-то мегакорпорации из мира-утопии.</AC_Apparel_HayabusaArmor.description>
   
   <!-- EN: hayabusa helmet -->
-  <AC_Apparel_HayabusaHelmet.label>猎鹰级头盔</AC_Apparel_HayabusaHelmet.label>
+  <AC_Apparel_HayabusaHelmet.label>Шлем «Хаябуса»</AC_Apparel_HayabusaHelmet.label>
   <!-- EN: A true next-generation power armor helmet. Its self-repairing molecular plasteel integration is beyond known fabrication techniques and the default on-board processors has been replaced by an experimental on-board persona persona. A complex visual and targeting system for near 360 degree view angles and tactical telemetry feed allows for near inhuman aiming speed and accuracy, including real time aim assist.\n\nWhile it is impossible to know for sure, this helmet most likely served as a prototype armor platform for some sort of glitterworld mega-corp. -->
-  <AC_Apparel_HayabusaHelmet.description>真正的次世代动力装甲头盔。它的自我修復分子塑钢整合技术超越了已知製造工艺所能建构的程度，预设的机载处理器也已经被实验性机载人格核心取代。可提供接近360度视角的複杂视觉与瞄准系统以及战术遥测反馈，使其可达到近乎非人类的瞄准速度与精确度(包含即时瞄准辅助)。\n\n尽管无法确定，但考虑到它所添加的众多功能模块，该套动力装甲极有可能是某个闪耀世界巨型企业的装甲平台原型。</AC_Apparel_HayabusaHelmet.description>
+  <AC_Apparel_HayabusaHelmet.description>Настоящий шлем силовой брони нового поколения. Его самовосстанавливающаяся молекулярная интеграция с пласталью выходит за рамки известных методов изготовления, а стандартные бортовые процессоры заменены экспериментальным бортовым личностным ядром. Сложная визуальная система и система наведения, обеспечивающие обзор почти на 360 градусов и тактическую телеметрию, позволяют достичь почти нечеловеческой скорости и точности прицеливания, включая помощь в прицеливании в реальном времени.\n\nХотя это невозможно знать наверняка, этот шлем, скорее всего, служил прототипом броневой платформы для какой-то мегакорпорации из мира-утопии.</AC_Apparel_HayabusaHelmet.description>
   
 </LanguageData>

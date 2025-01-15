@@ -2,15 +2,16 @@
 <LanguageData>
   
   <!-- EN: ancient graser turret gun -->
-  <AC_Gun_AncientGraserTurret.label>远古扫射砲</AC_Gun_AncientGraserTurret.label>
+  <AC_Gun_AncientGraserTurret.label>Древняя гамма-лазерная турель</AC_Gun_AncientGraserTurret.label>
   <!-- EN: A simple ancient graser gun made to be mounted on a turret. -->
-  <AC_Gun_AncientGraserTurret.description>简单的远古扫射砲，可被安装在砲塔上。</AC_Gun_AncientGraserTurret.description>
+  <AC_Gun_AncientGraserTurret.description>Простое древнее гамма-лазерное орудие, предназначенное для установки на турель.</AC_Gun_AncientGraserTurret.description>
   <!-- EN: ancient graser turret gun -->
-  <AC_Gun_AncientGraserTurret.verbs.Verb_ShootBeam.label>远古扫射砲</AC_Gun_AncientGraserTurret.verbs.Verb_ShootBeam.label>
-  
+  <AC_Gun_AncientGraserTurret.verbs.Verb_ShootBeam.label>Древняя гамма-лазерная турель</AC_Gun_AncientGraserTurret.verbs.Verb_ShootBeam.label>
+
   <!-- EN: ancient graser turret -->
-  <AC_Turret_AncientGraserTurret.label>远古扫射砲</AC_Turret_AncientGraserTurret.label>
+  <AC_Turret_AncientGraserTurret.label>Древняя гамма-лазерная турель</AC_Turret_AncientGraserTurret.label>
   <!-- EN: An ancient high-energy gamma ray laser turret which fires a sweeping beam that pierces thick armor and burns targets. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
-  <AC_Turret_AncientGraserTurret.description>远古高能伽玛射线雷射机枪塔，能射出穿透厚厚装甲的扫射光束并烧毁目标。损毁时可能会爆炸。它笨拙的AI大脑使其无法直接控制，因此得小心友军误击。</AC_Turret_AncientGraserTurret.description>
+  <AC_Turret_AncientGraserTurret.description>Древняя высокоэнергетическая гамма-лазерная турель, стреляющая широким лучом, который пробивает толстую броню и выжигает цели. При повреждении может взорваться. Её примитивный ИИ не позволяет осуществлять прямое управление, поэтому остерегайтесь огня по своим.</AC_Turret_AncientGraserTurret.description>
+
   
 </LanguageData>
