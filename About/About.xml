@@ -1,15 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <modMetaData>
-  <packageId>kearril.ultratechalteredcarbon.zh</packageId>
-  <name>Altered Carbon 2: ReSleeved简中汉化包</name>
+
+  <packageId>ctulhu.ultratechalteredcarbon.rus</packageId>
+  
+  <name>Altered Carbon 2: ReSleeved RUS</name>
+  
   <loadAfter>
 		<li>Ludeon.RimWorld</li>
     <li>hlx.UltratechAlteredCarbon</li>
 	</loadAfter>
-  <author>kearril</author>
+  <author>ctulhu</author>
+  
   <supportedVersions>
     <li>1.5</li>
   </supportedVersions>
+  
   <modDependencies>
 		<li>
 			<packageId>hlx.ultratechalteredcarbon</packageId>
@@ -18,9 +23,7 @@
 		</li>
 	</modDependencies>
   <description>
-  This is just a Chinese translation package
-
-  这是Altered Carbon 2: ReSleeved的简中翻译包。
+ Это полный перевод Altered Carbon 2: ReSleeved версии 1.5 на русский язык, наслаждайтесь
 
 
   </description>

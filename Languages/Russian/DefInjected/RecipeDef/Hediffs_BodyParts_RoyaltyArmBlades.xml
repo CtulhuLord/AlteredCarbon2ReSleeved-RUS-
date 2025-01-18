@@ -22,6 +22,13 @@
   <!-- EN: Installing zeus arm-blade. -->
   <AC_InstallRogianArmBlade_Zeus.jobString>Устанавливает электроклинок богомола.</AC_InstallRogianArmBlade_Zeus.jobString>
   
+  <!-- EN: install tox arm-blade -->
+  <AC_InstallRogianArmBlade_Toxblad.label>Установить токсоклинок богомола</AC_InstallRogianArmBlade_Toxblad.label>
+  <!-- EN: Install a tox arm-blade. -->
+  <AC_InstallRogianArmBlade_Toxblad.description>Установить токсоклинок богомола.</AC_InstallRogianArmBlade_Toxblad.description>
+  <!-- EN: Installing tox arm-blade. -->
+  <AC_InstallRogianArmBlade_Toxblad.jobString>Устанавливает токсоклинок богомола.</AC_InstallRogianArmBlade_Toxblad.jobString>
+  
   <!-- EN: remove mono arm-blade -->
   <AC_RemoveRogianArmBlade_Mono.label>Удалить моноклинок богомола</AC_RemoveRogianArmBlade_Mono.label>
   <!-- EN: Remove mono arm-blade. -->
@@ -42,5 +49,12 @@
   <AC_RemoveRogianArmBlade_Zeus.description>Удалить электроклинок богомола.</AC_RemoveRogianArmBlade_Zeus.description>
   <!-- EN: Removing zeus arm-blade. -->
   <AC_RemoveRogianArmBlade_Zeus.jobString>Удаляет электроклинок богомола.</AC_RemoveRogianArmBlade_Zeus.jobString>
+  
+  <!-- EN: remove tox arm-blade -->
+  <AC_RemoveRogianArmBlade_Toxblade.label>Удалить токсоклинок богомола</AC_RemoveRogianArmBlade_Toxblade.label>
+  <!-- EN: Remove tox arm-blade. -->
+  <AC_RemoveRogianArmBlade_Toxblade.description>Удалить токсоклинок богомола.</AC_RemoveRogianArmBlade_Toxblade.description>
+  <!-- EN: Removing tox arm-blade. -->
+  <AC_RemoveRogianArmBlade_Toxblade.jobString>Удаляет токсоклинок богомола.</AC_RemoveRogianArmBlade_Toxblade.jobString>
   
 </LanguageData>

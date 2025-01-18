@@ -104,7 +104,7 @@
   <AC.MessageMustDesignateHasStack>Необходимо указать трупы с имплантированными нейростэками.</AC.MessageMustDesignateHasStack>
 	<!-- ================================ Sleeves ====================== -->
 	<!-- EN: Empty sleeve -->
-  <AC.EmptySleeve>Пустая оболочка</AC.EmptySleeve>
+  <AC.EmptySleeve>Пустая оболочка </AC.EmptySleeve>
 	<!-- EN: Sleeve Death -->
   <AC.SleeveDeath>Оболочка мертва</AC.SleeveDeath>
 	<!-- EN: Sleeve of {PAWN_labelShort} has died. Cause: {1}. -->
@@ -383,7 +383,7 @@
 	<!-- EN: Add filter -->
   <AC.AddFilter>Добавить фильтр</AC.AddFilter>
 	<!-- EN: Is empty sleeve -->
-  <AC.IsEmptySleeve>Пустая оболочка</AC.IsEmptySleeve>
+  <AC.IsEmptySleeve>Пустая оболочка </AC.IsEmptySleeve>
 	<!-- EN: Original gender -->
   <AC.OriginalGender>Первоначальный пол</AC.OriginalGender>
 	<!-- EN: Charge cuirassier belt -->

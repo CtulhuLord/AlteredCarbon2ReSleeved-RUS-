@@ -18,4 +18,9 @@
   <!-- EN: An experimental variation of an arm-blade with an embedded EMP capacitor. Upon contact, it blasts the target with an EMP burst in addition to the physical damage. When retracted neuromuscular synchronisation makes them appear and function like a normal arm. -->
   <AC_RogianArmBlade_Zeus.description>Экспериментальная разновидность Клинка богомола со встроенным ЭМИ-конденсатором. При контакте он поражает цель ЭМИ-импульсом в дополнение к физическому урону. В убранном положении нейромышечная синхронизация делает его похожим на обычную руку и обеспечивает аналогичную функциональность.</AC_RogianArmBlade_Zeus.description>
   
+   <!-- EN: zeus arm-blade -->
+  <AC_RogianArmBlade_Toxblade.label>Токсоклинок богомола</AC_RogianArmBlade_Toxblade.label>
+  <!-- EN: An experimental variation of an arm-blade with an embedded EMP capacitor. Upon contact, it blasts the target with an EMP burst in addition to the physical damage. When retracted neuromuscular synchronisation makes them appear and function like a normal arm. -->
+  <AC_RogianArmBlade_Toxblade.description>Экспериментальная разновидность Клинка богомола со встроенным дозатором кислоты. При контакте он распыляет небольшое количество кислоты и токсичных паров в дополнение к физическому урону. В убранном положении нейромышечная синхронизация делает его похожим на обычную руку и обеспечивает аналогичную функциональность.</AC_RogianArmBlade_Toxblade.description>
+  
 </LanguageData>

@@ -34,4 +34,15 @@
   <!-- EN: a zeus arm-blade -->
   <AC_RogianArmBlade_Zeus.labelNoun>электроклинок богомола</AC_RogianArmBlade_Zeus.labelNoun>
   
+  <!-- EN: tox arm-blade -->
+  <AC_RogianArmBlade_Toxblade.label>токсоклинок богомола</AC_RogianArmBlade_Toxblade.label>
+  <!-- EN: An experimental variation of an arm-blade with an integrated acidifier fluids dispenser. Upon contact, it dispenses a small amount of acidifier and toxic vapours. The effect only lasts a few seconds and is inflicted roughly half of the time. When retracted neuromuscular synchronisation makes them appear and function like a normal arm. -->
+	<AC_RogianArmBlade_Toxblade.description>Вживлённый в руку клинок со встроенным дозатором кислоты. При контакте клинок, помимо физического урона, распыляет небольшое количество кислоты и токсичных паров. Эффект кратковременный и срабатывает примерно в половине случаев. В сложенном состоянии благодаря нейромышечной синхронизации рука выглядит как обычная.</AC_RogianArmBlade_Toxblade.description>
+	<!-- EN: point -->
+  <AC_RogianArmBlade_Toxblade.comps.HediffComp_MeleeWeapon.tools.point.label>токсоклинок богомола(острие)</AC_RogianArmBlade_Toxblade.comps.HediffComp_MeleeWeapon.tools.point.label>
+  <!-- EN: edge -->
+  <AC_RogianArmBlade_Toxblade.comps.HediffComp_MeleeWeapon.tools.edge.label>токсоклинок богомола(лезвие)</AC_RogianArmBlade_Toxblade.comps.HediffComp_MeleeWeapon.tools.edge.label>
+  <!-- EN: a tox arm-blade -->
+  <AC_RogianArmBlade_Toxblade.labelNoun>токсоклинок богомола</AC_RogianArmBlade_Toxblade.labelNoun>
+  
 </LanguageData>
