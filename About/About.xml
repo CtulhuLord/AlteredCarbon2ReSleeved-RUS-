@@ -16,12 +16,6 @@
     <li>1.5</li>
   </supportedVersions>
   
-  <modDependencies>
-		<li>
-			<packageId>hlx.ultratechalteredcarbon</packageId>
-		</li>
-  </modDependencies>
-	
   <description>Полный перевод Altered Carbon 2: ReSleeved для версии 1.5 на русский язык</description>
   
 </modMetaData>
