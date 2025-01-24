@@ -6,10 +6,11 @@
   <name>Altered Carbon 2: ReSleeved RUS</name>
   
   <loadAfter>
-		<li>Ludeon.RimWorld</li>
+	<li>Ludeon.RimWorld</li>
     <li>hlx.UltratechAlteredCarbon</li>
-	</loadAfter>
-  <author>ctulhu</author>
+  </loadAfter>
+	
+  <author>Ctulhu</author>
   
   <supportedVersions>
     <li>1.5</li>
@@ -18,13 +19,9 @@
   <modDependencies>
 		<li>
 			<packageId>hlx.ultratechalteredcarbon</packageId>
-			<displayName>Altered Carbon 2: ReSleeved</displayName>
-			<steamWorkshopUrl>steam://url/CommunityFilePage/2196278117</steamWorkshopUrl>
 		</li>
-	</modDependencies>
-  <description>
- Это полный перевод Altered Carbon 2: ReSleeved версии 1.5 на русский язык, наслаждайтесь
-
-
-  </description>
+  </modDependencies>
+	
+  <description>Полный перевод Altered Carbon 2: ReSleeved для версии 1.5 на русский язык</description>
+  
 </modMetaData>
